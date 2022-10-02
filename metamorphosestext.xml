@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!--
+Feminine deities = birth, growth, death
+	Virginity as means of bodily autonomy
+	Diana, Proserpina
+	Minerva, in contrast, is presented as masculine
+	How do women interact with each other? Jealous Juno trope.
+Masculine deities = destruction, war
+What does it mean to be divine?
+
+Tag:
+	Names/references to characters
+	Places
+	Instances of birth and death
+	Action vs. dialogue
+	Desire (!!!!!)
+		<desire object="diana" perp="jupiter">
+	Jealousy
+		<jealousy object="arachne" perp="minerva">
+	Violence/rage
+	Transformation - physical, social
+		Is it masculine/feminine coded? Both? Neither?
+-->
 <TEI.2>
 <teiHeader type="text" status="new">
 <fileDesc>
