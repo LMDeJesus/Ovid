@@ -2,7 +2,7 @@
     exclude-result-prefixes="#all">
     <xsl:output method="xml" indent="no"/>
     <xsl:template match="/">
-        <xsl:for-each select="//div1[@type = 'Book']">
+        <xsl:for-each select="//div1[@type = 'Book' or 'BOOK']">
             <xsl:result-document method="xml" href="xml/book{@n}.xml">
                 <xsl:apply-templates/>
             </xsl:result-document>
