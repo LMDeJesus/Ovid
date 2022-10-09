@@ -2,7 +2,7 @@ start=story
 story = element story {title,p+}
 title = element title {text}
 p = element p {l+}
-l = element l {mixed{(name|dia|place|desire|transform|invo+)?}}
+l = element l {mixed{(name|dia|place|desire|transform|invo)*}}
 place = element place{text}
 dia = element dia {speaker , mixed{name*}}
 name = element name{text}
@@ -12,11 +12,13 @@ object=attribute object{text}
 perp=attribute perp{text}
 transform= element transform{type,gender,text}
 type = attribute type{text}
-gender = attribute gender{text}
+gender = attribute gender{"male"|"female"|"non-binary"}
 invo=element invo{reciever,text}
 reciever= attribute reciever{text}
 
-
-
-#how do i tag across lines
-#having issues with line 5. How do I make them optional, but also allow more than one of them to occur at once?
+#empty line break breaks to signify lines
+#fix mixed content model
+#invocation as attribute, reciever as value
+#switch name to character
+#add a attribute on dia to say the gender 
+#desciption of a character + gender + (virginal, matronly, protector, protected, rage, jealous,)
