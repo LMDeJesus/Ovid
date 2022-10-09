@@ -1,0 +1,22 @@
+start=story
+story = element story {title,p+}
+title = element title {text}
+p = element p {l+}
+l = element l {mixed{(name|dia|place|desire|transform|invo+)?}}
+place = element place{text}
+dia = element dia {speaker , mixed{name*}}
+name = element name{text}
+speaker = attribute speaker{text}
+desire= element desire{object,perp,text}
+object=attribute object{text}
+perp=attribute perp{text}
+transform= element transform{type,gender,text}
+type = attribute type{text}
+gender = attribute gender{text}
+invo=element invo{reciever,text}
+reciever= attribute reciever{text}
+
+
+
+#how do i tag across lines
+#having issues with line 5. How do I make them optional, but also allow more than one of them to occur at once?
