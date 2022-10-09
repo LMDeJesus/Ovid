@@ -28,11 +28,6 @@
 <l>no barren sedge, no fenny reeds annoy,</l>
 <l>no rushes with their sharpened arrow-points,</l>
 <l>but all around the edges of that pool</l>
-<l>the softest grass engirdles with its green.</l></p>
-
-<p><l>A Nymph dwells there, unsuited to the chase,</l>
-<l>unskilled to bend the bow, slothful of foot,</l>
-<l>the only Naiad in the world unknown</l>
 <l>to rapid-running <name>Dian</name>. Whensoever</l>
 <l>her Naiad sisters pled in winged words,</l>
 <l><dia speaker="naiads">“Take up the javelin, sister <name>Salmacis</name>,</dia></l>
@@ -156,13 +151,18 @@
 <l>so wrought upon him by the languid fount,</l>
 <l>considered that he entered it a man,</l>
 <l>and now his limbs relaxing in the stream</l>
-<l><transform type="physical" gender="both">he is not wholly male, but only half</transform>,—</l>
+<l><transform type="physical" gender="non-binary">he is not wholly male, but only half</transform>,—</l>
 <l>he lifted up his hands and thus implored,</l>
 <l>albeit with no manly voice; “Hear me</l>
 <l><invo reciever="hermes">O father!</invo> <invo reciever="aphrodite">hear me mother!</invo> grant to me</l>
 <l>this boon; to me whose name is yours, your son;</l>
 <l>whoso shall enter in this fount a man</l>
-<l>must leave its waters only half a man.”</l>
+<l>must leave its 
+<l>the softest grass engirdles with its green.</l></p>
+
+<p><l>A Nymph dwells there, unsuited to the chase,</l>
+<l>unskilled to bend the bow, slothful of foot,</l>
+<l>the only Naiad in the world unknown</l>waters only half a man.”</l>
 <l>Moved by the words of their bi-natured son</l>
 <l>both parents yield assent: they taint the fount</l>
 <l>with essences of dual-working powers.</l>
