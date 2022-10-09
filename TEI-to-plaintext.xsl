@@ -17,8 +17,6 @@
 </xsl:text>
     </xsl:template>
     <xsl:template match="l">
-        <l>
-            <xsl:apply-templates/>
-        </l>
+            <xsl:apply-templates/><lb/>
     </xsl:template>
 </xsl:stylesheet>
