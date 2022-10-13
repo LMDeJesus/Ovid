@@ -1,209 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 
-<story><title>HERMAPHRODITUS</title>
-<p>Learn how the fountain, <character>Salmacis</character>, became<lb/>
-so infamous; learn how it enervates<lb/>
-and softens the limbs of those who chance to bathe.<lb/>
-Although the fountain's properties are known,<lb/>
-the cause is yet unknown. The Naiads nursed<lb/>
-an infant son of <name>Hermes</name>, surely his<lb/>
-of <name>Aphrodite</name> gotten in the caves <lb/>
-of Ida, for the child resembled both<lb/>
-    the god and goddess, and his name was theirs.<lb/></p>
+<story>
+    <title>HERMAPHRODITUS</title>
+    <p>Learn how the fountain, <character>Salmacis</character>, became<lb/> so infamous; learn how
+        it enervates<lb/> and softens the limbs of those who chance to bathe.<lb/> Although the
+        fountain's properties are known,<lb/> the cause is yet unknown. The Naiads nursed<lb/> an
+        infant son of <name>Hermes</name>, surely his<lb/> of <name>Aphrodite</name> gotten in the
+        caves <lb/> of Ida, for the child resembled both<lb/> the god and goddess, and his name was
+        theirs.<lb/></p>
 
-<p>The years passed by, and when the boy had reached<lb/>
-the limit of three lustrums, he forsook<lb/>
-his native mountains; for he loved to roam<lb/>
-through unimagined places, by the banks<lb/>
-of undiscovered rivers; and the joy<lb/>
-    of finding wonders made his labour light.<lb/></p>
+    <p>The years passed by, and when the boy had reached<lb/> the limit of three lustrums, he
+        forsook<lb/> his native mountains; for he loved to roam<lb/> through unimagined places, by
+        the banks<lb/> of undiscovered rivers; and the joy<lb/> of finding wonders made his labour
+        light.<lb/></p>
 
-<p>Leaving <place>Mount Ida</place>, where his youth was spent,<lb/>
-he reached the land of <place>Lycia</place>, and from thence<lb/>
-the verge of <place>Caria</place>, where a pretty pool<lb/>
-of soft translucent water may be seen,<lb/>
-so clear the glistening bottom glads the eye:<lb/>
-no barren sedge, no fenny reeds annoy,<lb/>
-no rushes with their sharpened arrow-points,<lb/>
-but all around the edges of that pool<lb/>
-to rapid-running <name>Dian</name>. Whensoever<lb/>
-her Naiad sisters pled in winged words,<lb/>
-<dia speaker="naiads" gender="female">“Take up the javelin, sister <character>Salmacis</character>,<lb/>
-take up the painted quiver and unite<lb/>
-your leisure with the action of the chase;”</dia><lb/>
-she only scorned the javelin and the quiver,<lb/>
-nor joined her leisure to the active chase.<lb/></p>
-<p>Rather she bathes her smooth and shapely limbs;<lb/>
-or combs her tresses with a boxwood comb,<lb/>
-Citorian; or looking in the pool<lb/>
-consults the glassed waters of effects<lb/>
-increasing beauty; or she decks herself<lb/>
-in gauzy raiment, and reposing lolls<lb/>
-on cushioned leaves, or grass-enverdured beds;<lb/>
-or gathers posies from the spangled lawns.<lb/>
-Now, haply as she culled the sweetest flowers<lb/>
-she saw the youth, and longing in her heart<lb/>
-<desire object="hermaphroditis" perp="salamacis">made havoc as her greedy eyes beheld.</desire><lb/></p>
-<p>Although her love could scarcely brook delay,<lb/>
-she waited to enhance her loveliness,<lb/>
-in beauty hoping to allure his love.<lb/>
-All richly dight she scanned herself and robes,<lb/>
-to know that every charm should fair appear,<lb/>
-    and she be worthy: wherefore she began:<lb/></p>
-<p><dia speaker="salamacis" gender="female">“O godlike youth! if thou art of the skies,<lb/>
-thou art no other than the god of Love;<lb/>
-if mortal, blest are they who gave thee birth;<lb/>
-happy thy brother; happy, fortunate<lb/>
-thy sister; happy, fortunate and blest<lb/>
-the nurse that gave her bosom; but the joys<lb/>
-surpassing all, dearest and tenderest,<lb/>
-are hers whom thou shalt wed. So, let it be<lb/>
-if thou so young have deigned to marry, let<lb/>
-my joys be stolen; if unmarried, join<lb/>
-with me in wedlock.”</dia>So she spoke, and stood<lb/>
-    in silence waiting for the youth's reply.<lb/></p>
+    <p>Leaving <place>Mount Ida</place>, where his youth was spent,<lb/> he reached the land of
+            <place>Lycia</place>, and from thence<lb/> the verge of <place>Caria</place>, where a
+        pretty pool<lb/> of soft translucent water may be seen,<lb/> so clear the glistening bottom
+        glads the eye:<lb/> no barren sedge, no fenny reeds annoy,<lb/> no rushes with their
+        sharpened arrow-points,<lb/> but all around the edges of that pool<lb/> to rapid-running
+            <name>Dian</name>. Whensoever<lb/> her Naiad sisters pled in winged words,<lb/>
+        <dia speaker="naiads" gender="female">“Take up the javelin, sister
+                <character>Salmacis</character>,<lb/> take up the painted quiver and unite<lb/> your
+            leisure with the action of the chase;”</dia><lb/> she only scorned the javelin and the
+        quiver,<lb/> nor joined her leisure to the active chase.<lb/></p>
+    <p>Rather she bathes her smooth and shapely limbs;<lb/> or combs her tresses with a boxwood
+        comb,<lb/> Citorian; or looking in the pool<lb/> consults the glassed waters of effects<lb/>
+        increasing beauty; or she decks herself<lb/> in gauzy raiment, and reposing lolls<lb/> on
+        cushioned leaves, or grass-enverdured beds;<lb/> or gathers posies from the spangled
+        lawns.<lb/> Now, haply as she culled the sweetest flowers<lb/> she saw the youth, and
+        longing in her heart<lb/>
+        <desire object="hermaphroditis" perp="salamacis">made havoc as her greedy eyes
+            beheld.</desire><lb/></p>
+    <p>Although her love could scarcely brook delay,<lb/> she waited to enhance her loveliness,<lb/>
+        in beauty hoping to allure his love.<lb/> All richly dight she scanned herself and
+        robes,<lb/> to know that every charm should fair appear,<lb/> and she be worthy: wherefore
+        she began:<lb/></p>
+    <p><dia speaker="salamacis" gender="female">“O godlike youth! if thou art of the skies,<lb/>
+            thou art no other than the god of Love;<lb/> if mortal, blest are they who gave thee
+            birth;<lb/> happy thy brother; happy, fortunate<lb/> thy sister; happy, fortunate and
+            blest<lb/> the nurse that gave her bosom; but the joys<lb/> surpassing all, dearest and
+            tenderest,<lb/> are hers whom thou shalt wed. So, let it be<lb/> if thou so young have
+            deigned to marry, let<lb/> my joys be stolen; if unmarried, join<lb/> with me in
+            wedlock.”</dia>So she spoke, and stood<lb/> in silence waiting for the youth's
+        reply.<lb/></p>
 
-<p>He knows nor cares for love—with loveliness<lb/>
-the mounting blushes tinge his youthful cheeks,<lb/>
-as blush-red tint of apples on the tree,<lb/>
-ripe in the summer sun, or as the hue<lb/>
-of painted ivory, or the round moon<lb/>
-red-blushing in her splendour, when the clash<lb/>
-of brass resounds in vain. And long the Nymph<lb/>
-implored; almost clung on his neck, as smooth<lb/>
-and white as ivory; unceasingly<lb/>
-imploring him to kiss her, though as chaste<lb/>
-as kisses to a sister; but the youth<lb/>
-    outwearied, thus:<lb/></p>
-<p><dia speaker="hermaphroditis" gender="non-binary">“I do beseech you make<lb/>
-an end of this; or must I fly the place<lb/>
-and leave you to your tears?”</dia> Affrighted then<lb/>
-said <character>Salmacis</character>, <dia speaker="salamacis" gender="female">“To you I freely give—<lb/>
-good stranger here remain.”</dia> Although she made<lb/>
-fair presence to retire, she hid herself,<lb/>
-that from a shrub-grown covert, on her knees<lb/>
-    she might observe unseen.<lb/></p>
+    <p>He knows nor cares for love—with loveliness<lb/> the mounting blushes tinge his youthful
+        cheeks,<lb/> as blush-red tint of apples on the tree,<lb/> ripe in the summer sun, or as the
+        hue<lb/> of painted ivory, or the round moon<lb/> red-blushing in her splendour, when the
+        clash<lb/> of brass resounds in vain. And long the Nymph<lb/> implored; almost clung on his
+        neck, as smooth<lb/> and white as ivory; unceasingly<lb/> imploring him to kiss her, though
+        as chaste<lb/> as kisses to a sister; but the youth<lb/> outwearied, thus:<lb/></p>
+    <p><dia speaker="hermaphroditis" gender="non-binary">“I do beseech you make<lb/> an end of this;
+            or must I fly the place<lb/> and leave you to your tears?”</dia> Affrighted then<lb/>
+        said <character>Salmacis</character>, <dia speaker="salamacis" gender="female">“To you I
+            freely give—<lb/> good stranger here remain.”</dia> Although she made<lb/> fair presence
+        to retire, she hid herself,<lb/> that from a shrub-grown covert, on her knees<lb/> she might
+        observe unseen.<lb/></p>
 
-<p>As any boy<lb/>
-that heedless deems his mischief unobserved,<lb/>
-now here now there, he rambled on the green;<lb/>
-now in the bubbly ripples dipped his feet,<lb/>
-now dallied in the clear pool ankle-deep;—<lb/>
-the warm-cool feeling of the liquid then,<lb/>
-so pleased him, that without delay he doffed<lb/>
-his fleecy garments from his tender limbs.<lb/></p>
-<p>Ah, <character>Salmacis</character>, amazement is thy meed!<lb/>
-Thou art consumed to know his naked grace!<lb/>
-As the hot glitters of the round bright sun<lb/>
-collected, sparkle from the polished plate,<lb/>
-    thine eyes are glistened with delirious fires.<lb/></p>
+    <p>As any boy<lb/> that heedless deems his mischief unobserved,<lb/> now here now there, he
+        rambled on the green;<lb/> now in the bubbly ripples dipped his feet,<lb/> now dallied in
+        the clear pool ankle-deep;—<lb/> the warm-cool feeling of the liquid then,<lb/> so pleased
+        him, that without delay he doffed<lb/> his fleecy garments from his tender limbs.<lb/></p>
+    <p>Ah, <character>Salmacis</character>, amazement is thy meed!<lb/> Thou art consumed to know
+        his naked grace!<lb/> As the hot glitters of the round bright sun<lb/> collected, sparkle
+        from the polished plate,<lb/> thine eyes are glistened with delirious fires.<lb/></p>
 
-<p>Delay she cannot; panting for his joy,<lb/>
-<desire object="hermaphroditis" perp="salamacis">languid for his caressing, crazed, distract,<lb/>
-her passion difficult is held in check</desire>.—<lb/></p>
-    
-<p>He claps his body with his hollow palms<lb/>
-and lightly vaults into the limped wave,<lb/>
-and darting through the water hand over hand<lb/>
-shines in the liquid element, as though<lb/>
-should one enhance a statue's ivorine,<lb/>
-or glaze the lily in a lake of glass.<lb/></p>
-    
-<p>And thus the Naiad, <dia speaker="salamacis" gender="female">“I have gained my suit;<lb/>
-his love is mine,—is mine!”</dia> Quickly disrobed,<lb/>
-she plunged into the yielding wave—seized him,<lb/>
-caressed him, clung to him a thousand ways,<lb/>
-kissed him, thrust down her hands and touched his breast:<lb/>
-reluctant and resisting he endeavours<lb/>
-to make escape, but even as he struggles<lb/>
-she winds herself about him, as entwines<lb/>
-the serpent which the royal bird on high<lb/>
-holds in his talons; —as it hangs, it coils<lb/>
-in sinuous folds around the eagle's feet;—<lb/>
-twisting its coils around his head and wings:<lb/>
-or as the ivy clings to sturdy oaks;<lb/>
-or as the polypus beneath the waves,<lb/>
-by pulling down, with suckers on all sides,<lb/>
-tenacious holds its prey. And yet the youth,<lb/>
-descendant of great <name>Atlas</name>, not relents<lb/>
-nor gives the Naiad joy. Pressing her suit<lb/>
-she winds her limbs around him and exclaims,<lb/>
-<dia speaker="salamacis" gender="female">“You shall not scape me, struggle as you will,<lb/>
-perverse and obstinate! Hear me, ye Gods!<lb/>
-Let never time release the youth from me;<lb/>
-    time never let me from the youth release!”</dia><lb/></p>
+    <p>Delay she cannot; panting for his joy,<lb/>
+        <desire object="hermaphroditis" perp="salamacis">languid for his caressing, crazed,
+            distract,<lb/> her passion difficult is held in check</desire>.—<lb/></p>
 
-<p>Propitious deities accord her prayers:<lb/>
-the mingled bodies of the pair unite<lb/>
-and fashion in a single human form.<lb/>
-So one might see two branches underneath<lb/>
-a single rind uniting grow as one:<lb/>
-so, these two bodies in a firm embrace<lb/>
-no more are twain, but with a two-fold form<lb/>
-nor man nor woman may be called—Though both<lb/>
-    in seeming they are neither one of twain.<lb/></p>
-    
-<p>When that <character>Hermaphroditus</character> felt the change,<lb/>
-so wrought upon him by the languid fount,<lb/>
-considered that he entered it a man,<lb/>
-and now his limbs relaxing in the stream<lb/>
-<transform type="physical" gender="non-binary">he is not wholly male, but only half</transform>,—<lb/>
-he lifted up his hands and thus implored,<lb/>
-albeit with no manly voice; “Hear me<lb/>
-<dia speaker="hermaphroditis" gender="non-binary" invo="hermes">O father!</dia> <dia speaker="hermaphroditis" gender="non-binary" invo="aphrodite">hear me mother!</dia> grant to me<lb/>
-this boon; to me whose name is yours, your son;<lb/>
-whoso shall enter in this fount a man<lb/>
-must leave its <lb/>
-    the softest grass engirdles with its green.<lb/></p>
+    <p>He claps his body with his hollow palms<lb/> and lightly vaults into the limped wave,<lb/>
+        and darting through the water hand over hand<lb/> shines in the liquid element, as
+        though<lb/> should one enhance a statue's ivorine,<lb/> or glaze the lily in a lake of
+        glass.<lb/></p>
 
-<p>A Nymph dwells there, unsuited to the chase,<lb/>
-unskilled to bend the bow, slothful of foot,<lb/>
-the only Naiad in the world unknownwaters only half a man.”<lb/>
-Moved by the words of their bi-natured son<lb/>
-both parents yield assent: they taint the fount<lb/>
-with essences of dual-working powers.<lb/>
-Now though the daughters of <name>King Minyas</name><lb/>
-have made an end of telling tales, they make<lb/>
-no end of labour; for they so despise<lb/>
-the deity, and desecrate his feast.<lb/></p>
-    
-<p>While busily engaged, with sudden beat<lb/>
-they hear resounding tambourines; and pipes<lb/>
-and crooked horns and tinkling brass renew,<lb/>
-unseen, the note; saffron and myrrh dissolve<lb/>
-in dulcet odours; and, beyond belief,<lb/>
-the woven webs, dependent on the loom,<lb/>
-take tints of green, put forth new ivy leaves,<lb/>
-or change to grape-vines verdant. There the thread<lb/>
-is twisted into tendrils, there the warp<lb/>
-is fashioned into many-moving leaves—<lb/>
-    the purple lends its splendour to the grape.<lb/></p>
+    <p>And thus the Naiad, <dia speaker="salamacis" gender="female">“I have gained my suit;<lb/> his
+            love is mine,—is mine!”</dia> Quickly disrobed,<lb/> she plunged into the yielding
+        wave—seized him,<lb/> caressed him, clung to him a thousand ways,<lb/> kissed him, thrust
+        down her hands and touched his breast:<lb/> reluctant and resisting he endeavours<lb/> to
+        make escape, but even as he struggles<lb/> she winds herself about him, as entwines<lb/> the
+        serpent which the royal bird on high<lb/> holds in his talons; —as it hangs, it coils<lb/>
+        in sinuous folds around the eagle's feet;—<lb/> twisting its coils around his head and
+        wings:<lb/> or as the ivy clings to sturdy oaks;<lb/> or as the polypus beneath the
+        waves,<lb/> by pulling down, with suckers on all sides,<lb/> tenacious holds its prey. And
+        yet the youth,<lb/> descendant of great <name>Atlas</name>, not relents<lb/> nor gives the
+        Naiad joy. Pressing her suit<lb/> she winds her limbs around him and exclaims,<lb/>
+        <dia speaker="salamacis" gender="female">“You shall not scape me, struggle as you will,<lb/>
+            perverse and obstinate! Hear me, ye Gods!<lb/> Let never time release the youth from
+            me;<lb/> time never let me from the youth release!”</dia><lb/></p>
 
-<p>And now the day is past; it is the hour<lb/>
-when night ambiguous merges into day,<lb/>
-which dubious owns nor light nor dun obscure;<lb/>
-and suddenly the house begins to shake,<lb/>
-and torches oil-dipped seem to flare around,<lb/>
-and fires a-glow to shine in every room,<lb/>
-    and phantoms, feigned of savage beasts, to howl.—<lb/></p>
+    <p>Propitious deities accord her prayers:<lb/> the mingled bodies of the pair unite<lb/> and
+        fashion in a single human form.<lb/> So one might see two branches underneath<lb/> a single
+        rind uniting grow as one:<lb/> so, these two bodies in a firm embrace<lb/> no more are
+        twain, but with a two-fold form<lb/> nor man nor woman may be called—Though both<lb/> in
+        seeming they are neither one of twain.<lb/></p>
 
-<p>Full of affright amid the smoking halls<lb/>
-the sisters vainly hide, and wheresoever<lb/>
-they deem security from flaming fires,<lb/>
-fearfully flit. And while they seek to hide,<lb/>
-a membrane stretches over every limb,<lb/>
-    and light wings open from their slender arms.<lb/></p>
+    <p>When that <character>Hermaphroditus</character> felt the change,<lb/> so wrought upon him by
+        the languid fount,<lb/> considered that he entered it a man,<lb/> and now his limbs relaxing
+        in the stream<lb/>
+        <transform type="physical" gender="non-binary">he is not wholly male, but only
+            half</transform>,—<lb/> he lifted up his hands and thus implored,<lb/> albeit with no
+        manly voice; “Hear me<lb/>
+        <dia speaker="hermaphroditis" gender="non-binary" invo="hermes">O father!</dia>
+        <dia speaker="hermaphroditis" gender="non-binary" invo="aphrodite">hear me mother!</dia>
+        grant to me<lb/> this boon; to me whose name is yours, your son;<lb/> whoso shall enter in
+        this fount a man<lb/> must leave its <lb/> the softest grass engirdles with its
+        green.<lb/></p>
 
-<p>In the weird darkness they are unaware<lb/>
-what measure wrought to change their wonted shape.<lb/>
-No plumous vans avail to lift their flight,<lb/>
-yet fair they balance on membraneous wing.<lb/>
-Whenever they would speak a tiny voice,<lb/>
-diminutive, apportioned to their size,<lb/>
-in squeaking note complains. Adread the light,<lb/>
-their haunts avoid by day the leafy woods,<lb/>
-for sombre attics, where secure they rest<lb/>
-till forth the dun obscure their wings may stretch<lb/>
-at hour of Vesper;—this accords their name.<lb/></p>
+    <p>A Nymph dwells there, unsuited to the chase,<lb/> unskilled to bend the bow, slothful of
+        foot,<lb/> the only Naiad in the world unknownwaters only half a man.”<lb/> Moved by the
+        words of their bi-natured son<lb/> both parents yield assent: they taint the fount<lb/> with
+        essences of dual-working powers.<lb/> Now though the daughters of <name>King
+        Minyas</name><lb/> have made an end of telling tales, they make<lb/> no end of labour; for
+        they so despise<lb/> the deity, and desecrate his feast.<lb/></p>
+
+    <p>While busily engaged, with sudden beat<lb/> they hear resounding tambourines; and pipes<lb/>
+        and crooked horns and tinkling brass renew,<lb/> unseen, the note; saffron and myrrh
+        dissolve<lb/> in dulcet odours; and, beyond belief,<lb/> the woven webs, dependent on the
+        loom,<lb/> take tints of green, put forth new ivy leaves,<lb/> or change to grape-vines
+        verdant. There the thread<lb/> is twisted into tendrils, there the warp<lb/> is fashioned
+        into many-moving leaves—<lb/> the purple lends its splendour to the grape.<lb/></p>
+
+    <p>And now the day is past; it is the hour<lb/> when night ambiguous merges into day,<lb/> which
+        dubious owns nor light nor dun obscure;<lb/> and suddenly the house begins to shake,<lb/>
+        and torches oil-dipped seem to flare around,<lb/> and fires a-glow to shine in every
+        room,<lb/> and phantoms, feigned of savage beasts, to howl.—<lb/></p>
+
+    <p>Full of affright amid the smoking halls<lb/> the sisters vainly hide, and wheresoever<lb/>
+        they deem security from flaming fires,<lb/> fearfully flit. And while they seek to
+        hide,<lb/> a membrane stretches over every limb,<lb/> and light wings open from their
+        slender arms.<lb/></p>
+
+    <p>In the weird darkness they are unaware<lb/> what measure wrought to change their wonted
+        shape.<lb/> No plumous vans avail to lift their flight,<lb/> yet fair they balance on
+        membraneous wing.<lb/> Whenever they would speak a tiny voice,<lb/> diminutive, apportioned
+        to their size,<lb/> in squeaking note complains. Adread the light,<lb/> their haunts avoid
+        by day the leafy woods,<lb/> for sombre attics, where secure they rest<lb/> till forth the
+        dun obscure their wings may stretch<lb/> at hour of Vesper;—this accords their
+        name.<lb/></p>
 </story>
