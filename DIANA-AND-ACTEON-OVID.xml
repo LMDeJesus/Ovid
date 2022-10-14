@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+
+<story>
+    <title>ACTAEON THE HOUSE OF CADMUS</title>
+
+    <p>Now <place>Thebes</place> is founded, who can deem thy days<lb/> unhappy in shine exile,
+            <name>Cadmus</name>? Thou,<lb/> the son-in-law of <name>Mars</name> and
+            <name>Venus</name>; thou,<lb/> whose glorious wife has borne to shine embrace<lb/>
+        daughters and sons? And thy grandchildren join<lb/> around thee, almost grown to man's
+        estate.—<lb/> nor should we say, <dia speaker="narrator" gender="non-binary">“He leads a
+            happy life,”</dia><lb/> Till after death the funeral rites are paid.<lb/></p>
+
+    <p>Thy grandson, <name>Cadmus</name>, was the first to cast<lb/> thy dear felicity in sorrow's
+        gloom.<lb/> Oh, it was pitiful to witness him,<lb/> his horns outbranching from his
+        forehead, chased<lb/> by dogs that panted for their master's blood!<lb/> If thou shouldst
+        well inquire it will be shown<lb/> his sorrow was the crime of Fortune—not<lb/> his
+        guilt—for who maintains mistakes are crimes?<lb/></p>
+
+
+    <p>Upon a mountain stained with slaughtered game,<lb/> the young Hyantian stood. Already
+        day,<lb/> increasing to meridian, made decrease<lb/> the flitting shadows, and the hot sun
+        shone<lb/> betwixt extremes in equal distance. Such<lb/> the hour, when speaking to his
+        fellow friends,<lb/> the while they wandered by those lonely haunts,<lb/>
+        <character gender="male">actaeon</character> of Hyantis kindly thus;<lb/></p>
+
+    <p><dia speaker="acteon" gender="male">“Our nets and steel are stained with slaughtered
+            game,<lb/> the day has filled its complement of sport;<lb/> now, when Aurora in her
+            saffron car<lb/> brings back the light of day, we may again<lb/> repair to haunts of
+            sport. Now Phoebus hangs<lb/> in middle sky, cleaving the fields with heat.—<lb/> enough
+            of toil; take down the knotted nets.”</dia>—<lb/> all did as he commanded; and they
+        sought<lb/> their needed rest.<lb/></p>
+
+
+    <p>There is a valley called<lb/>
+        <place>Gargaphia</place>; sacred to Diana, dense<lb/> with pine trees and the pointed
+        cypress, where,<lb/> deep in the woods that fringed the valley's edge,<lb/> was hollowed in
+        frail sandstone and the soft<lb/> white pumice of the hills an arch, so true<lb/> it seemed
+        the art of man; for Nature's touch<lb/> ingenious had so fairly wrought the stone,<lb/>
+        making the entrance of a grotto cool.<lb/> Upon the right a limpid fountain ran,<lb/> and
+        babbled, as its lucid channel spread<lb/> into a clear pool edged with tender grass.<lb/>
+        Here, when a-wearied with exciting sport,<lb/> the <character descrip="virginal"
+            gender="female">Sylvan goddess loved to come and bathe<lb/> her virgin beauty in the
+            crystal pool.</character><lb/></p>
+
+
+    <p><character descrip="protector" gender="female">After Diana entered with her nymphs,<lb/> she
+            gave her javelin, quiver and her bow<lb/> to one accustomed to the care of
+            arms;</character><lb/> she gave her mantle to another nymph<lb/> who stood near by her
+        as she took it off;<lb/> two others loosed the sandals from her feet;<lb/> but
+            <character>Crocale</character>, the daughter of <name>Ismenus</name>,<lb/>
+        <character gender="female" descrip="matronly">more skillful than her sisters, gathered
+            up<lb/> the goddess' scattered tresses in a knot;—<lb/> her own were loosely wantoned on
+            the breeze.</character><lb/></p>
+
+
+    <p>Then in their ample urns dipt up the wave<lb/> and poured it forth, the cloud-nymph
+            <name>Nephele</name>,<lb/> the nymph of crystal pools called <name>Hyale</name>,<lb/>
+        the rain-drop <name>Rhanis</name>, <name>Psecas</name> of the dews,<lb/> and
+            <name>Phyale</name> the guardian of their urns.<lb/> And while they bathed
+            <character>Diana</character> in their streams,<lb/>
+        <character>Actaeon</character>, wandering through the unknown woods,<lb/> entered the
+        precincts of that sacred grove;<lb/> with steps uncertain wandered he as fate<lb/> directed,
+        for his sport must wait till morn.—<lb/> soon as he entered where the clear springs
+        welled<lb/> or trickled from the grotto's walls, <character gender="female"
+            descrip="virginal">the nymphs,<lb/> now ready for the bath, beheld the man,<lb/> smote
+            on their breasts, and made the woods resound,<lb/> suddenly shrieking.</character>
+        <character gender="female" descrip="protector">Quickly gathered they<lb/> to shield
+                <name>Diana</name> with their naked forms,</character>
+        <character gender="female" descrip="rage">but she<lb/> stood head and shoulders taller than
+            her guards.—<lb/> as clouds bright-tinted by the slanting sun,<lb/> or purple-dyed
+            Aurora, so appeared<lb/> Diana's countenance when she was seen.<lb/></character></p>
+
+
+    <p>Oh, how she wished her arrows were at hand!<lb/> But only having water, this she took<lb/>
+        and dashed it on his manly countenance,<lb/> and sprinkled with the avenging stream his
+        hair,<lb/> and said these words, presage of future woe;<lb/>
+        <dia speaker="diana" gender="female">“Go tell it, if your tongue can tell the tale,<lb/>
+            your bold eyes saw me stripped of all my robes.”</dia><lb/>
+        <transform type="physical"> No more she threatened, but she fixed the horns<lb/> of a great
+            stag firm on his sprinkled brows;<lb/> she lengthened out his neck; she made his
+            ears<lb/> sharp at the top; she changed his hands and feet;<lb/> made long legs of his
+            arms, and covered him<lb/> with dappled hair—his courage turned to
+        fear.</transform><lb/> The brave son of Autonoe took to flight,<lb/> and marveled that he
+        sped so swiftly on.—<lb/></p>
+
+
+    <p>he saw his horns reflected in a stream<lb/> and would have said, <dia speaker="acteon"
+            gender="male">“Ah, wretched me!”</dia> but now<lb/> he had no voice, and he could only
+        groan:<lb/> large tears ran trickling down his face, transformed<lb/> in every feature.—Yet,
+        as clear remained<lb/> his understanding, and he wondered what<lb/> he should attempt to do:
+        should he return<lb/> to his ancestral palace, or plunge deep<lb/> in vast vacuities of
+        forest wilds?<lb/> Fear made him hesitate to trust the woods,<lb/> and shame deterred him
+        from his homeward way.<lb/></p>
+
+
+    <p>While doubting thus his dogs espied him there:<lb/> first <name>Blackfoot</name> and the
+        sharp nosed <name>Tracer</name> raised<lb/> the signal: <name>Tracer</name> of the Gnossian
+        breed,<lb/> and Blackfoot of the Spartan: swift as wind<lb/> the others followed.
+            <name>Glutton</name>, <name>Quicksight</name>, <name>Surefoot</name>,<lb/> three dogs of
+            <name>Arcady</name>; then valiant <name>Killbuck</name>,<lb/>
+        <name>Tempest</name>, fierce <name>Hunter</name>, and the rapid <name>Wingfoot</name>;<lb/>
+        sharp-scented <name>Chaser</name>, and <name>Woodranger</name> wounded<lb/> so lately by a
+        wild boar; savage <name>Wildwood</name>,<lb/> the wolf-begot with <name>Shepherdess</name>
+        the cow-dog;<lb/> and ravenous <name>Harpy</name> followed by her twin whelps;<lb/> and
+        thin-girt <name>Ladon</name> chosen from <place>Sicyonia</place>;<lb/> racer and Barker,
+        brindled Spot and Tiger;<lb/> sturdy old <name>Stout</name> and white haired
+            <name>Blanche</name> and black <name>Smut</name><lb/> lusty big <name>Lacon</name>,
+        trusty <name>Storm</name> and <name>Quickfoot</name>;<lb/> active young <name>Wolfet</name>
+        and her Cyprian brother<lb/> black headed <name>Snap</name>, blazed with a patch of white
+        hair<lb/> from forehead to his muzzle; swarthy <name>Blackcoat</name><lb/> and shaggy
+            <name>Bristle</name>, <name>Towser</name> and <name>Wildtooth</name>,<lb/> his sire of
+            <name>Dicte</name> and his dam of <name>Lacon</name>;<lb/> and yelping
+            <name>Babbler</name>: these and others, more<lb/> than patience leads us to recount or
+        name.<lb/></p>
+
+
+    <p>All eager for their prey the pack surmount<lb/> rocks, cliffs and crags, precipitous—where
+        paths<lb/> are steep, where roads are none. He flies by routes<lb/> so oft pursued but now,
+        alas, his flight<lb/> is from his own!—He would have cried, <dia speaker="acteon"
+            gender="male">“Behold<lb/> your master!—It is I—Actaeon!”</dia> Words<lb/> refused his
+        will. The yelping pack pressed on.<lb/> First Blackmane seized and tore his master's
+        back,<lb/> Savage the next, then Rover's teeth were clinched<lb/> deep in his
+        shoulder.—These, though tardy out,<lb/> cut through a by-path and arriving first<lb/> clung
+        to their master till the pack came up.<lb/></p>
+
+
+    <p>The whole pack fastened on their master's flesh<lb/> till place was none for others. Groaning
+        he<lb/> made frightful sounds that not the human voice<lb/> could utter nor the stag; and
+        filled the hills<lb/> with dismal moans; and as a suppliant fell<lb/> down to the ground
+        upon his trembling knees;<lb/> and turned his stricken eyes on his own dogs,<lb/> entreating
+        them to spare him from their fangs.<lb/></p>
+
+
+    <p>But his companions, witless of his plight,<lb/> urged on the swift pack with their hunting
+        cries.<lb/> They sought Actaeon and they vainly called,<lb/>
+        <dia gender="male">“Actaeon! Hi! Actaeon!”</dia> just as though<lb/> he was away from them.
+        Each time they called<lb/> he turned his head. And when they chided him,<lb/> whose
+        indolence denied the joys of sport,<lb/> how much he wished an indolent desire<lb/> had
+        haply held him from his ravenous pack.<lb/> Oh, how much;better 'tis to see the hunt,<lb/>
+        and the fierce dogs, than feel their savage deeds!<lb/> They gathered round him, and they
+        fixed their snouts<lb/> deep in his flesh: tore him to pieces, he<lb/> whose features only
+        as a stag appeared.—<lb/> 'Tis said <character descrip="rage" gender="female">Diana's fury
+            raged with none<lb/> abatement till the torn flesh ceased to live.</character><lb/></p>
+</story>
