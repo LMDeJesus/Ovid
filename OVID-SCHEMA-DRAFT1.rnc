@@ -1,20 +1,22 @@
 start=story
-story = element story {title,p+}
+story = element story {(title,p+)}
 title = element title {text}
+header = element header{text}
 p = element p {mixed{(name|dia|place|desire|transform|character|lb)*}}
 lb = element lb {empty}
 place = element place{text}
 dia = element dia {(speaker|gender|invo)*, mixed {(name|character|lb)*}}
-character = element character{gender|descrip|text}
-descrip = attribute descrip {"virginal"|"matronly"|"protector"|"protected"|"rage"|"jealous"}
+character = element character{(gender|descrip)*,mixed{(lb|name)*}}
+descrip = attribute descrip {"virginal"|"matronly"|"protector"|"protected"|"rage"|"jealous"|"cocky"}
 name= element name{text}
 speaker = attribute speaker{text}
-desire= element desire{(object|perp)*, mixed {lb*}}
+desire= element desire{(object|perp)*, mixed {(lb|name)*}}
 object=attribute object{text}
 perp=attribute perp{text}
-transform= element transform{(type|gender)*,text}
+transform= element transform{(type|gender)*,(text|lb)*}
 type = attribute type{"physical"|"social"}
 gender = attribute gender{"male"|"female"|"non-binary"}
 invo=attribute invo{text}
 
 #note when attributes are optional. For example, the gender of a transformation isn't required but if the transformation is gender specific, use it!
+#I am struggling for there to be allowed a header for some reason. 
