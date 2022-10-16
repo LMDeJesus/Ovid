@@ -17,6 +17,3 @@ transform= element transform{(type|gender)*,(text|lb)*}
 type = attribute type{"physical"|"social"}
 gender = attribute gender{"male"|"female"|"non-binary"}
 invo=attribute invo{text}
-
-#note when attributes are optional. For example, the gender of a transformation isn't required but if the transformation is gender specific, use it!
-#I am struggling for there to be allowed a header for some reason. 
