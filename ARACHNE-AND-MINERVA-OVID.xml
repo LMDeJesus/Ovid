@@ -14,13 +14,13 @@
         skill!<lb/></p>
 
 
-    <p>For it was well known that her father dwelt<lb/> in Colophon; where, at his humble
+    <p>For it was well known that her father dwelt<lb/> in <place>Colophon</place>; where, at his humble
         trade,<lb/> he dyed in Phocean purples, fleecy wool.<lb/> Her mother, also of the lower
         class,<lb/> had died. <character gender="female">Arachne</character> in a mountain town<lb/>
         by skill had grown so famous in the Land<lb/> of Lydia, that unnumbered curious <character
             gender="female" descrip="virginal">nymphs</character><lb/> eager to witness her
-        dexterity,<lb/> deserted the lush vineyards of Timolus;<lb/> or even left the cool and
-        flowing streams<lb/> of bright Pactolus, to admire the cloth,<lb/> or to observe her deftly
+        dexterity,<lb/> deserted the lush vineyards of <place>Timolus</place>;<lb/> or even left the cool and
+        flowing streams<lb/> of bright <place>Pactolus</place>, to admire the cloth,<lb/> or to observe her deftly
         spinning wool.<lb/></p>
 
 
@@ -39,7 +39,7 @@
 
     <p><character gender="female">Minerva</character> heard,<lb/> and came to her, disguised with
         long grey hair,<lb/> and with a staff to steady her weak limbs.<lb/> She seemed a feeble
-        woman, very old,<lb/> and quavered as she said, <dia speaker="Minerva" gender="female">“Old
+        woman, very old,<lb/> and quavered as she said, <dia speaker="Minerva" gender="female" invo="Arachne">“Old
             age is not<lb/> the cause of every ill; experience comes<lb/> with lengthened years;
             and, therefore, you should not<lb/> despise my words. It is no harm in you<lb/> to long
             for praise of mortals, when<lb/> your nimble hands are spinning the soft wool,—<lb/> but
@@ -68,15 +68,15 @@
 
 
     <p>All the other <character gender="female" descrip="virginal">Nymphs</character><lb/> and
-        matrons of Mygdonia worshiped her;<lb/> but not <character gender="female"
+        matrons of <place>Mygdonia</place> worshiped her;<lb/> but not <character gender="female"
             >Arachne</character>, who defiant stood;—<lb/> although at first she flushed up—then
         went pale—<lb/> then blushed again, reluctant.—So, at first,<lb/> the sky suffuses, as
-        Aurora moves,<lb/> and, quickly when the glorious sun comes up,<lb/> pales into
+        <name>Aurora</name> moves,<lb/> and, quickly when the glorious sun comes up,<lb/> pales into
         white.<lb/></p>
 
 
-    <p>She even rushed upon<lb/> her own destruction, for she would not give<lb/> from her desire to
-        gain the victory.<lb/> Nor did the daughter of almighty <name>Jove</name><lb/> decline:
+    <p><character gender="female" descrip="cocky">She even rushed upon<lb/> her own destruction, for she would not give<lb/> from her desire to
+        gain the victory.</character><lb/> Nor did the daughter of almighty <name>Jove</name><lb/> decline:
         disdaining to delay with words,<lb/> she hesitated not.<lb/></p>
 
 
@@ -100,7 +100,7 @@
         ancient Cecrops built his citadel,<lb/> and showed the old contention for the name<lb/> it
         should be given.—Twelve celestial Gods<lb/> surrounded <name>Jupiter</name>, on lofty
         thrones;<lb/> and all their features were so nicely drawn,<lb/> that each could be
-        distinguished.—Jupiter<lb/> appeared as monarch of those judging Gods.<lb/></p>
+        distinguished.—<name>Jupiter</name><lb/> appeared as monarch of those judging Gods.<lb/></p>
 
 
     <p>There <name>Neptune</name>, guardian of the sea, was shown<lb/> contending with <character
@@ -110,7 +110,7 @@
 
 
     <p>And then she wove a portrait of herself,<lb/> bearing a shield, and in her hand a lance,<lb/>
-        sharp-pointed, and a helmet on her head—<lb/> her breast well-guarded by her Aegis:
+        sharp-pointed, and a helmet on her head—<lb/> her breast well-guarded by her <name>Aegis</name>:
         there<lb/> she struck her spear into the fertile earth,<lb/> from which a branch of olive
         seemed to sprout,<lb/> pale with new clustered fruits.—And those twelve Gods,<lb/> appeared
         to judge, that olive as a gift<lb/> surpassed the horse which <name>Neptune</name> gave to
@@ -129,12 +129,12 @@
             <name>Haemus</name>, <transform type="physical">which for punishment were changed<lb/>
             from human beings to those rigid forms</transform>,<lb/> when they aspired to rival the
         high Gods.<lb/> And in another corner she described<lb/> that <name>Pygmy</name>, whom the
-        angry <name>Juno</name> changed<lb/> from <transform type="physical">queen-ship to a
+        angry <name>Juno</name> changed<lb/> from <transform type="physical" gender="female">queen-ship to a
             crane</transform>; because she thought<lb/> herself an equal of the living Gods,<lb/>
         she was commanded to wage cruel wars<lb/> upon her former subjects. In the third,<lb/> she
         wove the story of <name>Antigone</name>,<lb/> who dared compare herself to
         <name>Juno</name>, queen<lb/> of <name>Jupiter</name>, and showed her as she was<lb/>
-        <transform type="physical">transformed into a silly chattering stork</transform>,<lb/> that
+        <transform type="physical" gender="female">transformed into a silly chattering stork</transform>,<lb/> that
         praised her beauty, with her ugly beak.—<lb/> Despite the powers of <name>Ilion</name> and
         her sire<lb/>
         <name>Laomedon</name>, her shoulders fledged white wings.<lb/> And so, the third part
@@ -170,8 +170,8 @@
             <name>Neptune</name>:—who was shown first as a bull,<lb/> when he was deep in love with
         virgin <name>Arne</name><lb/> then as <name>Enipeus</name> when the giant twins,<lb/>
         <name>Aloidae</name>, were begot; and as the ram<lb/> that gambolled with
-            <name>Bisaltis</name>; as a horse<lb/> loved by the fruitful <name>Ceres</name>, golden
-        haired,<lb/> all-bounteous mother of the yellow grain;<lb/> and as the bird that hovered
+            <name>Bisaltis</name>; as a horse<lb/> <character gender="female" descrip="matronly">loved by the fruitful <name>Ceres</name>, golden
+        haired,<lb/> all-bounteous mother of the yellow grain</character>;<lb/> and as the bird that hovered
         round snake-haired<lb/>
         <name>Medusa</name>, mother of the winged horse;<lb/> and as the dolphin, sporting with the
             <character gender="female" descrip="virginal">Nymph</character>,<lb/>
