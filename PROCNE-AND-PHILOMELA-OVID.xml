@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+<story>
+    <title>Procne et Philomela.</title>
+    <header>TEREUS AND PHILOMELA</header>
+    <p>The lords of many cities that were near,<lb/> now met together and implored their kings<lb/>
+        to mourn with <name>Pelops</name> those unhappy deeds.—<lb/></p>
+
+    <p>The lords of <place>Argos</place>; <place>Sparta</place> and <place>Mycenae</place>;<lb/> and
+            <place>Calydon</place>, before it had incurred<lb/> the hatred of
+            <character>Diana</character>, goddess of the chase;<lb/> fertile
+            <place>Orchomenus</place> and <place>Corinth</place>, great<lb/> in wealth of brass;
+        Patrae and fierce Messena;<lb/>
+        <place>Cleone</place>, small; and <place>Pylus</place> and <place>Troezen</place>,<lb/> not
+        ruled by <name>Pittheus</name> then,—and also, all<lb/> the other cities which are shut off
+        by<lb/> the Isthmus there dividing by its two seas,<lb/> and all the cities which are seen
+        from there.<lb/></p>
+
+    <p>What seemed most wonderful, of all those towns<lb/>
+        <place>Athens</place> alone was wanting, for a war<lb/> had gathered from the distant seas,
+        a host<lb/> of savage warriors had alarmed her walls,<lb/> and hindered her from mourning
+        for the dead.<lb/></p>
+
+    <p>Now <name>Tereus</name>, then the mighty king of <place>Thrace</place>,<lb/> came to the aid
+        of <place>Athens</place> as defense<lb/> from that fierce horde; and there by his great
+        deeds<lb/> achieved a glorious fame. Since his descent<lb/> was boasted from the mighty
+            <name>Gradivus</name>,<lb/> and he was gifted with enormous wealth,<lb/>
+        <name>Pandion</name>, king of <place>Athens</place>, <character descrip="virginal"
+            gender="female">gave to him<lb/> in sacred wedlock his dear daughter,
+                <name>Procne</name>.</character><lb/></p>
+
+    <p>But <name>Juno</name>, guardian of the sacred rites<lb/> attended not, nor Hymenaeus,
+        nor<lb/> the Graces. But the Furies snatched up brands<lb/> from burning funeral pyres, and
+        brandished them<lb/> as torches. They prepared the nuptial couch,—<lb/> a boding owl flew
+        over the bride's room,<lb/> and then sat silently upon the roof.<lb/></p>
+
+    <p>With such bad omens <character>Tereus</character> married her,<lb/> sad
+            <character>Procne</character>, and those omens cast a gloom<lb/>
+        <character descrip="matronly" gender="female">on all the household till the fateful
+            birth<lb/> of their first born</character>. All <place>Thrace</place> went wild with
+        joy—<lb/> and even they, rejoicing, blessed the Gods,<lb/> when he, the little
+            <character>Itys</character>, saw the light;<lb/> and they ordained each year their
+        wedding day,<lb/> and every year the birthday of their child,<lb/> should be observed with
+        festival and song:<lb/> so the sad veil of fate conceals from us<lb/> our future
+        woes.<lb/></p>
+
+    <p>Now Titan had drawn forth<lb/> the changing seasons through five autumns, when,<lb/> in
+        gentle accents, Procne spoke these words:<lb/>
+        <dia speaker="procne" gender="female">“My dearest husband, if you love me, let<lb/> me visit
+            my dear sister, or consent<lb/> that she may come to us and promise her<lb/> that she
+            may soon return. If you will but<lb/> permit me to enjoy her company<lb/> my heart will
+            bless you as I bless the Gods.”</dia><lb/></p>
+
+    <p>At once the monarch ordered his long ships<lb/> to launch upon the sea; and driven by
+        sail,<lb/> and hastened by the swiftly sweeping oars,<lb/> they entered the deep port of
+            <place>Athens</place>, where<lb/> he made fair landing on the fortified<lb/>
+        <place>Piraeus</place>. There, when time was opportune<lb/> to greet his father-in-law and
+        shake his hand,<lb/> they both exchanged their wishes for good health,<lb/> and
+            <character>Tereus</character> told the reason why he came.<lb/></p>
+
+    <p>He was relating all his wife's desire.<lb/>
+        <character descrip="virginal" gender="female">Promising <name>Philomela</name>'s safe
+            return<lb/> from a brief visit, when <name>Philomela</name> appeared<lb/> rich in her
+            costly raiment, yet more rich<lb/> in charm and beauty, just as if a fair<lb/> Dryad or
+            Naiad should be so attired,<lb/> appearing radiant,</character> from dark
+        solitudes.<lb/></p>
+
+    <p>As if someone should kindle whitening corn<lb/> or the dry leaves, or hay piled in a
+        stack;<lb/> so <character>Tereus</character>, <desire object="philomela" perp="tereus">when
+            he saw <character descrip="virginal" gender="female">the beautiful<lb/> and blushing
+                virgin</character>, was consumed with love</desire>.<lb/></p>
+
+    <p><desire object="philomela" perp="tereus">Her modest beauty was a worthy cause<lb/> of worthy
+            love; <character gender="male">but by his heritage,<lb/> derived from a debasing clime,
+                his love<lb/> was base; and fires unholy burned within<lb/> from his own lawless
+                nature, just as fierce<lb/> as are the habits of his evil
+            race.</character><lb/></desire></p>
+
+    <p><desire perp="tereus" object="philomela">In the wild frenzy of his wicked heart,<lb/> he
+            thought he would corrupt her trusted maid,<lb/> her tried attendants, and corrupt
+            even<lb/> her virtue with large presents:</desire>
+        <character gender="male">he would waste<lb/> his kingdom in the effort.—He prepared<lb/> to
+            seize her at the risk of cruel war.<lb/> And he would do or dare all things to feed<lb/>
+            his raging flame.—He could not brook delay.</character><lb/></p>
+
+    <p>With most impassioned words he begged for her,<lb/> pretending he gave voice to
+            <character>Procne</character>'s hopes.—<lb/> his own desire made him wax eloquent,<lb/>
+        as often as his words exceeded bounds,<lb/> he pleaded he was uttering
+            <character>Procne</character>'s words.<lb/></p>
+
+    <p><desire perp="tereus" object="philomela">His hypocritic eyes were filled with tears,<lb/> as
+            though they represented her desire—<lb/> and, O you Gods above, what devious ways<lb/>
+            are harbored in the hearts of mortals! Through<lb/> his villainous desire he gathered
+            praise,<lb/> and many lauded him for the great love<lb/> he bore his
+        wife.</desire><lb/></p>
+
+    <p>And even <character>Philomela</character><lb/> desires her own undoing; and with fond<lb/>
+        embraces nestles to her father, while<lb/> she pleads for his consent, that she may go<lb/>
+        to visit her dear sister.—<desire perp="tereus" object="philomela">Tereus viewed<lb/> her
+            pretty pleading, and in his hot heart,<lb/> imagined he was then embracing her;<lb/> and
+            as he saw her kiss her father's lips,<lb/> her arms around his neck, it seemed that
+            each<lb/> caress was his; and so his fire increased.<lb/> He even wished he were her
+            father; though,<lb/> if it were so, his passion would no less<lb/> be
+        impious.</desire>—Overcome at last by these<lb/> entreaties, her kind father gave
+        consent.<lb/> Greatly she joyed and thanked him for her own<lb/> misfortune. She imagined a
+        success,<lb/> instead of all the sorrow that would come.<lb/></p>
+
+    <p>The day declining, little of his toil<lb/> remained for <name>Phoebus</name>. Now his flaming
+        steeds<lb/> were beating with their hoofs the downward slope<lb/> of high Olympus; and the
+        regal feast<lb/> was set before the guests, and flashing wine<lb/> was poured in golden
+        vessels, and the feast<lb/> went merrily, until the satisfied<lb/> assembly sought in gentle
+        sleep their rest.<lb/></p>
+
+    <p>Not so, the love-hot <character>Tereus</character>, king of <place>Thrace</place>,<lb/>
+        <desire object="philomela" perp="tereus"><character gender="male">who, sleepless, imaged in
+                his doting mind<lb/> the form of <name>Philomela</name>, recalled the shape<lb/> of
+                her fair hands, and in his memory<lb/> reviewed her movements. And his flaming
+                heart<lb/> pictured her beauties yet unseen.—He fed<lb/> his frenzy on itself, and
+                could not sleep.</character></desire><lb/></p>
+
+    <p>Fair broke the day; and now the ancient king,<lb/>
+        <name>Pandion</name>, took his son-in-law's right hand<lb/> to bid farewell; and, as he
+        wept,<lb/> commended his dear daughter, <character>Philomela</character>,<lb/> unto his
+        guarding care. <dia speaker="pandion" gender="male"><character descrip="protector"
+                gender="male">“And in your care,<lb/> my son-in-law,</character>
+            <character descrip="protected" gender="female">I trust my daughter's
+            health</character>.<lb/> Good reason, grounded on my love, compels<lb/> my sad approval.
+            You have begged for her,<lb/> and both my daughters have persuaded me.<lb/> Wherefore, I
+            do entreat you and implore<lb/> your honor, as I call upon the Gods,<lb/> that you will
+            ever shield her with the love<lb/> of a kind father and return her safe,<lb/> as soon as
+            may be—my last comfort given<lb/> to bless my doting age. And all delay<lb/> will
+            agitate and vex my failing heart.<lb/></dia></p>
+
+    <p><dia speaker="pandion" gender="male">“And, O my dearest daughter, <character
+                descrip="matronly">Philomela,<lb/> if you have any love for me, return<lb/> without
+                too long delay and comfort me,<lb/> lest I may grieve; for it is quite enough<lb/>
+                that I should suffer while your sister stays away.”</character></dia><lb/></p>
+
+
+    <p>The old king made them promise, and he kissed<lb/> his daughter, while he wept. Then did he
+        join<lb/> their hands in pledge of their fidelity,<lb/> and, as he gave his blessing,
+        cautioned them<lb/> to kiss his absent daughter and her son<lb/> for his dear sake. Then as
+        he spoke a last<lb/> farewell, his trembling voice was filled with sobs.<lb/> And he could
+        hardly speak;—for a great fear<lb/> from some vague intuition of his mind,<lb/> surged over
+        him, and he was left forlorn.<lb/></p>
+
+    <p>So soon as <character>Philomela</character> was safe aboard<lb/> the painted ship and as the
+        sailors urged<lb/> the swiftly gliding keel across the deep<lb/> and the dim land fast-faded
+        from their view,<lb/> then Tereus, in exultant humor, thought,<lb/>
+        <dia speaker="tereus" gender="male">“Now all is well, the object of my love<lb/> sails with
+            me while the sailors ply the oars.”</dia>,<lb/></p>
+
+    <p><desire object="philomela" perp="tereus">He scarcely could control his barbarous<lb/>
+            desire—with difficulty stayed his lust,<lb/> he followed all her actions with hot
+            eyes.</desire> —<lb/> So, when the ravenous bird of <name>Jupiter</name><lb/> has caught
+        with crooked talons the poor hare,<lb/> and dropped it—ruthless,—in his lofty nest,<lb/>
+        where there is no escape, his cruel eyes<lb/> gloat on the victim he anticipates.<lb/></p>
+
+    <p>And now, as Tereus reached his journey's end,<lb/> they landed from the travel-wearied
+        ship,<lb/> safe on the shores of his own kingdom. Then<lb/> he hastened with the frightened
+            <character>Philomela</character><lb/> into most wild and silent solitudes<lb/> of an old
+        forest; where, concealed among<lb/> deep thickets a forbidding old house stood:<lb/>
+        <character descrip="virginal">there he immured the pale and trembling maid</character>,<lb/>
+        who, vainly in her fright, began to call<lb/> upon her absent sister,—and her tears<lb/>
+        implored his pity. His obdurate mind<lb/> could not be softened by such piteous cries;<lb/>
+        but even while her agonizing screams<lb/> implored her sister's and her father's aid,<lb/>
+        and <dia speaker="philomela" invo="gods" gender="female">while she vainly called upon the
+            Gods,<lb/> he overmastered her with brutal force.</dia>—<lb/>
+    </p>
+
+    <p>The poor child trembled as a frightened lamb,<lb/> which, just delivered from the frothing
+        jaws<lb/> of a gaunt wolf, dreads every moving twig.<lb/> She trembled as a timid injured
+        dove,<lb/> (her feathers dripping with her own life-blood)<lb/> that dreads the ravening
+        talons of a hawk<lb/> from which some fortune has delivered her.<lb/></p>
+
+    <p>But presently, as consciousness returned,<lb/> she tore her streaming hair and beat her
+        arms,<lb/> and, stretching forth her hands in frenzied grief,<lb/> cried out, <dia
+            speaker="philomela" gender="female"><character descrip="rage" gender="female">“Oh,
+                barbarous and brutal wretch!<lb/> Unnatural monster of abhorrent deeds!<lb/> Could
+                not my anxious father's parting words,<lb/> nor his foreboding tears restrain your
+                lust?<lb/> Have you no slight regard for your chaste wife,<lb/> my dearest sister,
+                and are you without<lb/> all honor, so to spoil virginity <lb/> now making me invade
+                my sister's claim,<lb/> you have befouled the sacred fount of life,—<lb/> you are a
+                lawless bond of double sin!</character></dia><lb/></p>
+
+    <p><dia speaker="philomela" gender="female"><character descrip="rage" gender="female">“Oh, this
+                dark punishment was not my due!<lb/> Come, finish with my murder your black
+                deed,<lb/> so nothing wicked may remain undone.<lb/> But oh, if you had only
+                slaughtered me<lb/> before your criminal embrace befouled<lb/> my purity, I should
+                have had a shade<lb/> entirely pure, and free from any stain!<lb/> Oh, if there is a
+                Majesty in Heaven,<lb/> and if my ruin has not wrecked the world,<lb/> then, you
+                shall suffer for this grievous wrong<lb/> and time shall hasten to avenge my
+                wreck.</character></dia><lb/></p>
+
+    <p><dia speaker="philomela" gender="female" invo="gods">“I shall declare your sin before the
+            world,<lb/> and publish my own shame to punish you!<lb/> And if I'm prisoned in the
+            solitudes,<lb/> my voice will wake the echoes in the wood<lb/> and move the conscious
+            rocks. Hear me, O Heaven!<lb/> And let my imprecations rouse the Gods—<lb/> ah-h-h, if
+            there can be a god in Heaven!”</dia><lb/></p>
+
+    <p><character descrip="rage" gender="male">Her cries aroused the dastard tyrant's wrath,<lb/>
+            and frightened him, lest ever his foul deed<lb/> might shock his kingdom: and, roused at
+            once<lb/> by rage and guilty fear; he seized her hair,<lb/> forced her weak arms against
+            her back, and bound<lb/> them fast with brazen chains, then drew his
+        sword.</character><lb/></p>
+
+    <p>When she first saw his sword above her head.<lb/> Flashing and sharp, she wished only for
+        death,<lb/> and offered her bare throat: but while she screamed,<lb/> and, struggling,
+        called upon her father's name,<lb/> he caught her tongue with pincers, pitiless,<lb/></p>
+
+    <p>A<transform type="physical" gender="female">nd cut it with his sword.—The mangled root<lb/>
+            still quivered, but the bleeding tongue itself,<lb/> fell murmuring on the blood-stained
+            floor. As the tail<lb/> of a slain snake still writhes upon the ground,<lb/> so did the
+            throbbing tongue; and, while it died,<lb/> moved up to her, as if to seek her
+            feet.—<lb/> And, it is said that after this foul crime,<lb/> the monster violated her
+            again.</transform><lb/></p>
+
+    <p>And after these vile deeds, that wicked king<lb/> returned to <name>Procne</name>, who, when
+        she first met<lb/> her brutal husband, anxiously inquired<lb/> for tidings of her sister;
+        but with sighs<lb/> and tears, he told a false tale of her death,<lb/> and with such woe
+        that all believed it true.<lb/></p>
+
+    <p>Then <name>Procne</name>, full of lamentation, took<lb/> her royal robe, bordered with purest
+        gold,<lb/> and putting it away, assumed instead<lb/> garments of sable mourning; and she
+        built<lb/> a noble sepulchre, and offered there<lb/> her pious gifts to an imagined
+        shade;—<lb/> lamenting the sad death of her who lived.<lb/></p>
+
+    <p>A year had passed by since that awful date—<lb/> the sun had coursed the Zodiac's twelve
+        signs.<lb/> But what could <character>Philomela</character> hope or do?<lb/>
+        <character descrip="despair" gender="female">For like a jail the strong walls of the
+            house<lb/> were built of massive stone, and guards around<lb/> prevented flight; and
+            mutilated, she<lb/> could not communicate with anyone<lb/> to tell her injuries and
+            tragic woe.<lb/></character></p>
+
+    <p>But even in despair and utmost grief,<lb/> there is an ingenuity which gives<lb/> inventive
+        genius to protect from harm:<lb/> and now, the grief-distracted
+            <character>Philomela</character><lb/> wove in a warp with purple marks and white,<lb/> a
+        story of the crime; and when 'twas done<lb/> she gave it to her one attendant there<lb/> and
+        begged her by appropriate signs to take<lb/> it secretly to <character>Procne</character>.
+        She took the web,<lb/> she carried it to <character>Procne</character>, with no thought<lb/>
+        of words or messages by art conveyed.<lb/></p>
+
+    <p><character descrip="rage" gender="female">The wife of that inhuman tyrant took<lb/> the
+            cloth, and after she unwrapped it saw<lb/> and understood the mournful record sent.<lb/>
+            She pondered it in silence and her tongue<lb/> could find no words to utter her
+            despair;—<lb/> her grief and frenzy were too great for tears.—<lb/> In a mad rage her
+            rapid mind counfounded<lb/> the right and wrong—intent upon
+        revenge.</character><lb/></p>
+
+
+    <p>Since it was now the time of festival,<lb/> when all the Thracian matrons celebrate<lb/> the
+        rites of <name>Bacchus</name>—every third year thus—<lb/> night then was in their secret;
+        and at night<lb/> the slopes of <place>Rhodope</place> resounded loud<lb/> with clashing of
+        shrill cymbals. So, at night<lb/> the frantic queen of <character>Tereus</character> left
+        her home<lb/> and, clothed according to the well known rites<lb/> of <name>Bacchus</name>,
+        hurried to the wilderness.<lb/></p>
+
+    <p>Her head was covered with the green vine leaves;<lb/> and from her left side native deer skin
+        hung;<lb/> and on her shoulder rested a light spear.—<lb/> so fashioned, <character
+            descrip="rage" gender="female">the revengeful Procne rushed<lb/> through the dark woods,
+            attended by a host<lb/> of screaming followers, and wild with rage,<lb/> pretended it
+            was <name>Bacchus</name> urged her forth.<lb/></character></p>
+
+    <p>At last she reached the lonely building, where<lb/> her sister,
+            <character>Philomela</character>, was immured;<lb/> and as she howled and shouted
+        “Ee-woh-ee-e!”,<lb/> She forced the massive doors; and having seized<lb/> her sister,
+        instantly concealed her face<lb/> in ivy leaves, arrayed her in the trappings<lb/> of
+        Bacchanalian rites. When this was done,<lb/> they rushed from there, demented, to the
+        house<lb/> where as the Queen of Tereus, Procne dwelt.<lb/></p>
+
+    <p><character descrip="despair" gender="female">When Philomela knew she had arrived<lb/> at that
+            accursed house, her countenance,<lb/> though pale with grief, took on a ghastlier
+            hue:<lb/> and, wretched in her misery and fright,<lb/> she shuddered in
+            convulsions.</character>—<character>Procne</character> took<lb/> the symbols,
+        Bacchanalian, from her then,<lb/> and as she held her in a strict embrace<lb/> unveiled her
+        downcast head. But she refused<lb/> to lift her eyes, and fixing her sad gaze<lb/> on vacant
+        space, she raised her hand, instead;<lb/> as if in oath she called upon the Gods<lb/> to
+        witness truly she had done no wrong,<lb/> but suffered a disgrace of violence.—<lb/></p>
+
+    <p><character descrip="rage" gender="female">Lo, <name>Procne</name>, wild with a consuming
+            rage,<lb/> cut short her sister's terror in these words,</character><lb/>
+        <dia speaker="procne" gender="female">“This is no time for weeping! awful deeds<lb/> demand
+            a great revenge—take up the sword,<lb/> and any weapon fiercer than its edge!<lb/> My
+            breast is hardened to the worst of crime<lb/> make haste with me! together let us
+            put<lb/> this palace to the torch!</dia><lb/></p>
+
+    <p><dia speaker="procne" gender="female">“Come, <character descrip="rage" gender="female">let us
+                maim,<lb/> the beastly <name>Tereus</name> with revenging iron,<lb/> cut out his
+                tongue, and quench his cruel eyes,<lb/> and hurl and burn him writhing in the
+                flames!<lb/> Or, shall we pierce him with a grisly blade,<lb/> and let his black
+                soul issue from deep wounds<lb/> a thousand.—Slaughter him with every death<lb/>
+                imagined in the misery of hate!”</character></dia><lb/></p>
+
+    <p>While <character>Procne</character> still was raving out such words,<lb/>
+        <character>Itys</character>, her son, was hastening to his mother;<lb/> and when she saw
+        him, her revengeful eyes<lb/> conceiving a dark punishment, she said,<lb/>
+        <dia speaker="procne" gender="female">“Aha! here comes the image of his father!”</dia><lb/>
+        She gave no other warning, but prepared<lb/> to execute a horrible revenge.<lb/></p>
+
+    <p>But when the tender child came up to her,<lb/> and called her <dia speaker="itys"
+            >“mother”</dia>, put his little arms<lb/> around her neck, and when he smiled and
+        kissed<lb/> her often, gracious in his cunning ways,—<lb/>
+        <character descrip="matronly" gender="female">again the instinct of true motherhood<lb/>
+            pulsed in her veins, and moved to pity, she<lb/> began to weep in spite of her
+            resolve.</character><lb/></p>
+
+    <p>Feeling the tender impulse of her love<lb/> unnerving her, she turned her eyes from him<lb/>
+        and looked upon her sister, and from her<lb/> glanced at her darling boy again. And so,<lb/>
+        while she was looking at them both, by turns,<lb/> she said, <dia speaker="procne"
+            gender="female">“Why does the little one prevail<lb/> with pretty words, while
+                <name>Philomela</name> stands<lb/> in silence always, with her tongue torn out?<lb/>
+            She cannot call her sister, whom he calls<lb/> his mother! Oh, you daughter of
+            Pandion,<lb/> consider what a wretch your husband is!<lb/> The wife of such a monster
+            must be flint;<lb/> compassion in her heart is but a crime.”</dia><lb/></p>
+
+    <p>No more she hesitated, but as swift<lb/> as the fierce tigress of the Ganges leaps,<lb/>
+        seizes the suckling offspring of the hind,<lb/> and drags it through the forest to its
+        lair;<lb/> so, <character descrip="rage" gender="female"><name>Procne</name> seized and
+            dragged the frightened boy<lb/> to a most lonely section of the house;<lb/> and there
+            she put him to the cruel sword,<lb/> while he, aware of his sad fate, stretched
+            forth<lb/> his little hands, and cried</character>, <dia speaker="itys" gender="male"
+            >“Ah, mother,—ah!—”</dia><lb/>
+        <character descrip="rage" gender="female">And clung to her—clung to her, while she
+            struck—<lb/> her fixed eyes, maddened, glaring horribly—<lb/> struck wildly, lopping off
+            his tender limbs.<lb/> But Philomela cut through his tender throat.</character><lb/></p>
+
+    <p>Then they together, mangled his remains,<lb/> still quivering with the remnant of his
+        life,<lb/> and boiled a part of him in steaming pots,<lb/> that bubbled over with the dead
+        child's blood,<lb/> and roasted other parts on hissing spits.<lb/></p>
+
+    <p>And, after all was ready, <character>Procne</character> bade<lb/> her husband,
+            <character>Tereus</character>, to the loathsome feast,<lb/> and with a false pretense of
+        sacred rites,<lb/> according to the custom of her land,<lb/> by which, but one man may
+        partake of it,<lb/> she sent the servants from the banquet hall.—<lb/>
+        <character>Tereus</character>, majestic on his ancient throne<lb/> high in imagined state,
+        devoured his son,<lb/> and gorged himself with flesh of his own flesh—<lb/> and in his rage
+        of gluttony called out<lb/> for Itys to attend and share the feast!<lb/></p>
+
+    <p>Curst with a joy she could conceal no more,<lb/> and eager to gloat over his distress,<lb/>
+        Procne cried out,<lb/></p>
+
+    <p><dia speaker="procne" gender="female">“Inside yourself, you have<lb/> the thing that you are
+            asking for!”</dia> — Amazed,<lb/> he looked around and called his son again:—<lb/></p>
+
+    <p>that instant, <character descrip="rage" gender="female">Philomela sprang forth—her hair<lb/>
+            disordered, and all stained with blood of murder,<lb/> unable then to speak, she hurled
+            the head<lb/> of <name>Itys</name> in his father's fear-struck face,<lb/> and more than
+            ever longed for fitting words.</character><lb/></p>
+
+    <p>The Thracian <character descrip="rage" gender="male">Tereus overturned the table,<lb/> and
+            howling, called up from the Stygian pit,<lb/> the viperous sisters. Tearing at his
+            breast,<lb/> in miserable efforts to disgorge<lb/> the half-digested gobbets of his
+            son,<lb/> he called himself his own child's sepulchre,<lb/> and wept the hot tears of a
+            frenzied man.</character><lb/> Then with his sword he rushed at the two
+        sisters.<lb/></p>
+
+    <p><transform type="physical">Fleeing from him, they seemed to rise on wings,<lb/> and it was
+            true, for they had changed to birds.<lb/> Then Philomela, flitting to the woods,<lb/>
+            found refuge in the leaves: but Procne flew<lb/> straight to the sheltering gables of a
+            roof—<lb/> and always, if you look, you can observe<lb/> the brand of murder on the
+            swallow's breast—<lb/> red feathers from that day. And Tereus, swift<lb/> in his great
+            agitation, and his will<lb/> to wreak a fierce revenge, himself is turned<lb/> into a
+            crested bird. His long, sharp beak<lb/> is given him instead of a long sword,<lb/> and
+            so, because his beak is long and sharp,<lb/> he rightly bears the name of
+            Hoopoe.</transform><lb/></p>
+</story>
