@@ -1,321 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
-<story><title>NARCISSUS AND ECHOTHE HOUSE OF CADMUS</title>
+<story>
+    <title>NARCISSUS AND ECHOTHE HOUSE OF CADMUS</title>
 
-<p><name>Tiresias</name>' fame of prophecy was spread<lb/>
-through all the cities of <place>Aonia</place>,<lb/>
-for his unerring answers unto all<lb/>
-who listened to his words. And first of those<lb/>
-that harkened to his fateful prophecies,<lb/>
-a lovely Nymph, named <name>Liriope</name>, came<lb/>
-with her dear son, who then fifteen, might seem<lb/>
-a man or boy—he who was born to her<lb/>
-upon the green merge of <name>Cephissus</name>' stream—<lb/>
-that mighty River-God whom she declared<lb/>
-the father of her boy.—<lb/></p>
-
-    
-<p>she questioned him.<lb/>
-Imploring him to tell her if her son,<lb/>
-unequalled for his beauty, whom she called<lb/>
-<character gender="male">Narcissus</character>, might attain a ripe old age.<lb/>
-To which the blind seer answered in these words,<lb/>
-<dia speaker="tiresias" gender="male">“If he but fail to recognize himself,<lb/>
-a long life he may have, beneath the sun,</dia>”—<lb/>
-so, frivolous the prophet's words appeared;<lb/>
-and yet the event, the manner of his death,<lb/>
-the strange delusion of his frenzied love, confirmed it.<lb/>
-</p>
-    
-<p>Three times five years so were passed.<lb/>
-Another five-years, and the lad might seem<lb/>
-a young man or a boy. <desire object="narcissus">And many a youth,<lb/>
-and many a damsel sought to gain his love;<lb/>
-but such his mood and spirit and his pride,<lb/>
-none gained his favour.<lb/></desire></p>
-
-    
-<p>Once a noisy <character gender="female" descrip="cocky">Nymph,<lb/>
-(who never held her tongue when others spoke,<lb/>
-who never spoke till others had begun)<lb/>
-mocking Echo, spied him as he drove,<lb/>
-in his delusive nets, some timid stags.—</character><lb/></p>
-
-    
-<p>for <character>Echo</character> was a Nymph, in olden time,—<lb/>
-and, more than vapid sound,—possessed a form:<lb/>
-and she was then deprived the use of speech,<lb/>
-except to babble and repeat the words,<lb/>
-once spoken, over and over.<lb/>
-</p>
-    
-<p><character gender="female" descrip="jealous">Juno confused<lb/>
-her silly tongue, because she often held<lb/>
-that glorious goddess with her endless tales,<lb/>
-till many a hapless Nymph, from Jove's embrace,<lb/>
-had made escape adown a mountain.</character> But<lb/>
-for this, the goddess might have caught them. Thus<lb/>
-the glorious Juno, when she knew her guile;<lb/></p>
-
-<p><dia speaker="Juno" gender="female">“Your tongue, so freely wagged at my expense,<lb/>
-shall be of little use; your endless voice,<lb/>
-much shorter than your tongue.”</dia> At once the Nymph<lb/>
-was stricken as the goddess had decreed;—<lb/>
-and, ever since, she only mocks the sounds<lb/>
-of others' voices, or, perchance, returns<lb/>
-their final words.<lb/>
-</p>
-    
-<p>One day, when she observed<lb/>
-<character>Narcissus</character> wandering in the pathless woods,<lb/>
-<desire object="narcissus" perp="echo">she loved him and she followed him, with soft<lb/>
-and stealthy tread.—The more she followed him<lb/>
-the hotter did she burn, as when the flame<lb/>
-flares upward from the sulphur on the torch.<lb/></desire></p>
-
-    
-<p><desire object="narcissus" perp="echo">Oh, how she longed to make her passion known!<lb/>
-To plead in soft entreaty! to implore his love!</desire><lb/>
-But now, till others have begun, a mute<lb/>
-of Nature she must be. She cannot choose<lb/>
-but wait the moment when his voice may give<lb/>
-to her an answer.<lb/></p>
-
-    
-<p>Presently the youth,<lb/>
-by chance divided from his trusted friends,<lb/>
-cries loudly, <dia speaker="narcissus">“Who is here?”</dia> and Echo, <dia speaker="echo">“Here!”</dia><lb/>
-Replies. Amazed, he casts his eyes around,<lb/>
-    and calls with louder voice, <dia speaker="narcissus">“Come here!”</dia> <dia speaker="echo">“Come here!”</dia><lb/>
-She calls the youth who calls.—He turns to see<lb/>
-who calls him and, beholding naught exclaims,<lb/>
-<dia speaker="narcissus">“Avoid me not!”</dia> <dia speaker="echo">“Avoid me not!”</dia> returns.<lb/></p>
-
-    
-<p>He tries again, again, and is deceived<lb/>
-by this alternate voice, and calls aloud;<lb/>
-<dia speaker="narcissus">“Oh let us come together!”</dia> Echo cries,<lb/>
-<dia speaker="echo">“Oh let us come together!”</dia> <desire object="narcissus" perp="echo">Never sound<lb/>
-seemed sweeter to the Nymph, and from the woods<lb/>
-she hastens in accordance with her words,<lb/>
-and strives to wind her arms around his neck.</desire><lb/>
-He flies from her and as he leaves her says,<lb/>
-<dia speaker="narcissus" gender="male">“Take off your hands! you shall not fold your arms<lb/>
-around me. Better death than such a one<lb/>
-should ever caress me!”</dia> Naught she answers save,<lb/>
-<dia speaker="echo" gender="female">“Caress me!”</dia><lb/></p>
-
-    
-<p>Thus rejected she lies hid<lb/>
-in the deep woods, hiding her blushing face<lb/>
-with the green leaves; and ever after lives<lb/>
-concealed in lonely caverns in the hills.<lb/>
-</p>
-    
-<p>But her great love increases with neglect;<lb/>
-her miserable body wastes away,<lb/>
-wakeful with sorrows; leanness shrivels up<lb/>
-her skin, and all her lovely features melt,<lb/>
-as if dissolved upon the wafting winds—<lb/>
-nothing remains except her bones and voice—<lb/>
-her voice continues, in the wilderness;<lb/>
-her bones have turned to stone. She lies concealed<lb/>
-in the wild woods, nor is she ever seen<lb/>
-on lonely mountain range; for, though we hear<lb/>
-her calling in the hills, 'tis but a voice,<lb/>
-a voice that lives, that lives among the hills.<lb/></p>
-
-    
-<p>Thus he deceived the Nymph and many more,<lb/>
-sprung from the mountains or the sparkling waves;<lb/>
-and thus he slighted many an amorous youth.—<lb/>
-and therefore, some one whom he once despised,<lb/>
-lifting his hands to Heaven, implored the Gods,<lb/>
-<dia speaker="narcissus" invo="nemesis">“If he should love deny him what he loves!”</dia><lb/>
-and as the prayer was uttered it was heard<lb/>
-by <character>Nemesis</character>, who granted her assent.<lb/>
-</p>
+    <p><name>Tiresias</name>' fame of prophecy was spread<lb/> through all the cities of
+            <place>Aonia</place>,<lb/> for his unerring answers unto all<lb/> who listened to his
+        words. And first of those<lb/> that harkened to his fateful prophecies,<lb/> a lovely Nymph,
+        named <name>Liriope</name>, came<lb/> with her dear son, who then fifteen, might seem<lb/> a
+        man or boy—he who was born to her<lb/> upon the green merge of <name>Cephissus</name>'
+        stream—<lb/> that mighty River-God whom she declared<lb/> the father of her boy.—<lb/></p>
 
 
-<p>There was a fountain silver-clear and bright,<lb/>
-which neither shepherds nor the wild she-goats,<lb/>
-that range the hills, nor any cattle's mouth<lb/>
-had touched—its waters were unsullied—birds<lb/>
-disturbed it not; nor animals, nor boughs<lb/>
-that fall so often from the trees. Around<lb/>
-sweet grasses nourished by the stream grew; trees<lb/>
-that shaded from the sun let balmy airs<lb/>
-temper its waters. Here Narcissus, tired<lb/>
-of hunting and the heated noon, lay down,<lb/>
-attracted by the peaceful solitudes<lb/>
-and by the glassy spring. There as he stooped<lb/>
-to quench his thirst another thirst increased.<lb/></p>
+    <p>she questioned him.<lb/> Imploring him to tell her if her son,<lb/> unequalled for his
+        beauty, whom she called<lb/>
+        <character gender="male">Narcissus</character>, might attain a ripe old age.<lb/> To which
+        the blind seer answered in these words,<lb/>
+        <dia speaker="tiresias" gender="male">“If he but fail to recognize himself,<lb/> a long life
+            he may have, beneath the sun,</dia>”—<lb/> so, frivolous the prophet's words
+        appeared;<lb/> and yet the event, the manner of his death,<lb/> the strange delusion of his
+        frenzied love, confirmed it.<lb/>
+    </p>
 
-    
-<p><desire object="narcissus" perp="narcissus">While he is drinking he beholds himself<lb/>
-reflected in the mirrored pool—and loves;<lb/>
-loves an imagined body which contains<lb/>
-no substance, for he deems the mirrored shade<lb/>
-a thing of life to love. He cannot move,<lb/>
-for so he marvels at himself, and lies<lb/>
-with countenance unchanged, as if indeed<lb/>
-a statue carved of Parian marble. Long,<lb/>
-supine upon the bank, his gaze is fixed<lb/>
-on his own eyes, twin stars; his fingers shaped<lb/>
-as Bacchus might desire, his flowing hair<lb/>
-as glorious as <name>Apollo</name>'s, and his cheeks<lb/>
-youthful and smooth; his ivory neck, his mouth<lb/>
-dreaming in sweetness, his complexion fair<lb/>
-and blushing as the rose in snow-drift white.<lb/>
-All that is lovely in himself he loves,<lb/>
-and in his witless way he wants himself:—<lb/>
-he who approves is equally approved;<lb/>
-he seeks, is sought, he burns and he is burnt.</desire><lb/></p>
-
-    
-<p>And how he kisses the deceitful fount;<lb/>
-and how he thrusts his arms to catch the neck<lb/>
-that's pictured in the middle of the stream!<lb/>
-Yet never may he wreathe his arms around<lb/>
-that image of himself. He knows not what<lb/>
-he there beholds, but what he sees inflames<lb/>
-his longing, and the error that deceives<lb/>
-allures his eyes. But why, O foolish boy,<lb/>
-so vainly catching at this flitting form?<lb/>
-The cheat that you are seeking has no place.<lb/>
-Avert your gaze and you will lose your love,<lb/>
-for this that holds your eyes is nothing save<lb/>
-the image of yourself reflected back to you.<lb/>
-It comes and waits with you; it has no life;<lb/>
-it will depart if you will only go.<lb/></p>
+    <p>Three times five years so were passed.<lb/> Another five-years, and the lad might seem<lb/> a
+        young man or a boy. <desire object="narcissus">And many a youth,<lb/> and many a damsel
+            sought to gain his love;<lb/> but such his mood and spirit and his pride,<lb/> none
+            gained his favour.<lb/></desire></p>
 
 
-    
-<p>Nor food nor rest can draw him thence—outstretched<lb/>
-upon the overshadowed green, his eyes<lb/>
-fixed on the mirrored image never may know<lb/>
-their longings satisfied, and by their sight<lb/>
-he is himself undone. Raising himself<lb/>
-a moment, he extends his arms around,<lb/>
-and, beckoning to the murmuring forest;<dia speaker="narcissus" gender="male"> “Oh,<lb/>
-ye aisled wood was ever man in love<lb/>
-more fatally than I? Your silent paths<lb/>
-have sheltered many a one whose love was told,<lb/>
-and ye have heard their voices. Ages vast<lb/>
-have rolled away since your forgotten birth,<lb/>
-but who is he through all those weary years<lb/>
-that ever pined away as I? Alas,<lb/>
-this fatal image wins my love, as I<lb/>
-behold it. But I cannot press my arms<lb/>
-around the form I see, the form that gives<lb/>
-me joy. What strange mistake has intervened<lb/>
-betwixt us and our love? It grieves me more<lb/>
-that neither lands nor seas nor mountains, no,<lb/>
-nor walls with closed gates deny our loves,<lb/>
-but only a little water keeps us far<lb/>
-asunder. Surely he desires my love<lb/>
-and my embraces, for as oft I strive<lb/>
-to kiss him, bending to the limpid stream<lb/>
-my lips, so often does he hold his face<lb/>
-fondly to me, and vainly struggles up.<lb/>
-It seems that I could touch him. 'Tis a strange<lb/>
-delusion that is keeping us apart.<lb/></dia></p>
+    <p>Once a noisy <character gender="female" descrip="cocky">Nymph,<lb/> (who never held her
+            tongue when others spoke,<lb/> who never spoke till others had begun)<lb/> mocking Echo,
+            spied him as he drove,<lb/> in his delusive nets, some timid
+        stags.—</character><lb/></p>
 
-<p><dia speaker="narcissus" gender="male">“Whoever thou art, Come up! Deceive me not!<lb/>
-Oh, whither when I fain pursue art thou?<lb/>
-Ah, surely I am young and fair, the Nymphs<lb/>
-have loved me; and when I behold thy smiles<lb/>
-I cannot tell thee what sweet hopes arise.<lb/>
-When I extend my loving arms to thee<lb/>
-thine also are extended me — thy smiles<lb/>
-return my own. When I was weeping, I<lb/>
-have seen thy tears, and every sign I make<lb/>
-thou cost return; and often thy sweet lips<lb/>
-have seemed to move, that, peradventure words,<lb/>
-which I have never heard, thou hast returned.</dia><lb/></p>
 
-<p><dia speaker="narcissus" gender="male">“No more my shade deceives me, I perceive<lb/>
-'Tis I in thee—I love myself—the flame<lb/>
-arises in my breast and burns my heart—<lb/>
-what shall I do? Shall I at once implore?<lb/>
-Or should I linger till my love is sought?<lb/>
-What is it I implore? The thing that I<lb/>
-desire is mine—abundance makes me poor.<lb/>
-Oh, I am tortured by a strange desire<lb/>
-unknown to me before, for I would fain<lb/>
-put off this mortal form; which only means<lb/>
-I wish the object of my love away.<lb/>
-Grief saps my strength, the sands of life are run,<lb/>
-and in my early youth am I cut off;<lb/>
-but death is not my bane—it ends my woe.—<lb/>
-I would not death for this that is my love,<lb/>
-as two united in a single soul<lb/>
-would die as one.”<lb/></dia></p>
+    <p>for <character>Echo</character> was a Nymph, in olden time,—<lb/> and, more than vapid
+        sound,—possessed a form:<lb/> and she was then deprived the use of speech,<lb/> except to
+        babble and repeat the words,<lb/> once spoken, over and over.<lb/>
+    </p>
 
-    
-<p>He spoke; and crazed with love,<lb/>
-returned to view the same face in the pool;<lb/>
-and as he grieved his tears disturbed the stream,<lb/>
-and ripples on the surface, glassy clear,<lb/>
-defaced his mirrored form. And thus the youth,<lb/>
-when he beheld that lovely shadow go;<lb/>
-<dia speaker="narcissus" gender="male">“Ah whither cost thou fly? Oh, I entreat<lb/>
-thee leave me not. Alas, thou cruel boy<lb/>
-thus to forsake thy lover. Stay with me<lb/>
-that I may see thy lovely form, for though<lb/>
-I may not touch thee I shall feed my eyes<lb/>
-and soothe my wretched pains.”</dia> And while he spoke<lb/>
-he rent his garment from the upper edge,<lb/>
-and beating on his naked breast, all white<lb/>
-as marble, every stroke produced a tint<lb/>
-as lovely as the apple streaked with red,<lb/>
-or as the glowing grape when purple bloom<lb/>
-touches the ripening clusters.<lb/>
-</p>
-    
-<p>When as glass<lb/>
-again the rippling waters smoothed, and when<lb/>
-such beauty in the stream the youth observed,<lb/>
-no more could he endure. As in the flame<lb/>
-the yellow wax, or as the hoar-frost melts<lb/>
-in early morning 'neath the genial sun;<lb/>
-so did he pine away, by love consumed,<lb/>
-and slowly wasted by a hidden flame.<lb/>
-No vermeil bloom now mingled in the white<lb/>
-of his complexion fair; no strength has he,<lb/>
-no vigor, nor the comeliness that wrought<lb/>
-for love so long: alas, that handsome form<lb/>
-by Echo fondly loved may please no more.<lb/></p>
+    <p><character gender="female" descrip="jealous">Juno confused<lb/> her silly tongue, because she
+            often held<lb/> that glorious goddess with her endless tales,<lb/> till many a hapless
+            Nymph, from Jove's embrace,<lb/> had made escape adown a mountain.</character> But<lb/>
+        for this, the goddess might have caught them. Thus<lb/> the glorious Juno, when she knew her
+        guile;<lb/></p>
 
-    
-<p>But when she saw him in his hapless plight,<lb/>
-though angry at his scorn, she only grieved.<lb/>
-As often as the love-lore boy complained,<lb/>
-<dia speaker="narcissus">“Alas!”</dia> <dia speaker="echo">“Alas!”</dia> her echoing voice returned;<lb/>
-and as he struck his hands against his arms,<lb/>
-she ever answered with her echoing sounds.<lb/>
-And as he gazed upon the mirrored pool<lb/>
-    he said at last, <dia speaker="narcissus">“Ah, youth beloved in vain!”</dia><lb/>
-<dia speaker="echo">“In vain, in vain!”</dia> the spot returned his words;<lb/>
-and when he breathed a sad <dia speaker="narcissus">“farewell!”</dia> <dia speaker="echo">“Farewell!”</dia><lb/>
-sighed <character>Echo</character> too. He laid his wearied head,<lb/>
-and rested on the verdant grass; and those<lb/>
-bright eyes, which had so loved to gaze, entranced,<lb/>
-on their own master's beauty, sad Night closed.<lb/>
-And now although among the nether shades<lb/>
-his sad sprite roams, he ever loves to gaze<lb/>
-on his reflection in the Stygian wave.<lb/></p>
+    <p><dia speaker="Juno" gender="female">“Your tongue, so freely wagged at my expense,<lb/> shall
+            be of little use; your endless voice,<lb/> much shorter than your tongue.”</dia> At once
+        the Nymph<lb/> was stricken as the goddess had decreed;—<lb/> and, ever since, she only
+        mocks the sounds<lb/> of others' voices, or, perchance, returns<lb/> their final words.<lb/>
+    </p>
 
-    
-<p>His Naiad sisters mourned, and having clipped<lb/>
-their shining tresses laid them on his corpse:<lb/>
-and all the Dryads mourned: and Echo made<lb/>
-lament anew. And these would have upraised<lb/>
-his funeral pyre, and waved the flaming torch,<lb/>
-and made his bier; but as they turned their eyes<lb/>
-where he had been, <transform type="physical">alas he was not there!<lb/>
-And in his body's place a sweet flower grew,<lb/>
-golden and white, the white around the gold.</transform><lb/></p>
+    <p>One day, when she observed<lb/>
+        <character>Narcissus</character> wandering in the pathless woods,<lb/>
+        <desire object="narcissus" perp="echo">she loved him and she followed him, with soft<lb/>
+            and stealthy tread.—The more she followed him<lb/> the hotter did she burn, as when the
+            flame<lb/> flares upward from the sulphur on the torch.<lb/></desire></p>
+
+
+    <p><desire object="narcissus" perp="echo">Oh, how she longed to make her passion known!<lb/> To
+            plead in soft entreaty! to implore his love!</desire><lb/> But now, till others have
+        begun, a mute<lb/> of Nature she must be. She cannot choose<lb/> but wait the moment when
+        his voice may give<lb/> to her an answer.<lb/></p>
+
+
+    <p>Presently the youth,<lb/> by chance divided from his trusted friends,<lb/> cries loudly, <dia
+            speaker="narcissus">“Who is here?”</dia> and Echo, <dia speaker="echo"
+        >“Here!”</dia><lb/> Replies. Amazed, he casts his eyes around,<lb/> and calls with louder
+        voice, <dia speaker="narcissus">“Come here!”</dia>
+        <dia speaker="echo">“Come here!”</dia><lb/> She calls the youth who calls.—He turns to
+        see<lb/> who calls him and, beholding naught exclaims,<lb/>
+        <dia speaker="narcissus">“Avoid me not!”</dia>
+        <dia speaker="echo">“Avoid me not!”</dia> returns.<lb/></p>
+
+
+    <p>He tries again, again, and is deceived<lb/> by this alternate voice, and calls aloud;<lb/>
+        <dia speaker="narcissus">“Oh let us come together!”</dia> Echo cries,<lb/>
+        <dia speaker="echo">“Oh let us come together!”</dia>
+        <desire object="narcissus" perp="echo">Never sound<lb/> seemed sweeter to the Nymph, and
+            from the woods<lb/> she hastens in accordance with her words,<lb/> and strives to wind
+            her arms around his neck.</desire><lb/> He flies from her and as he leaves her says,<lb/>
+        <dia speaker="narcissus" gender="male">“Take off your hands! you shall not fold your
+            arms<lb/> around me. Better death than such a one<lb/> should ever caress me!”</dia>
+        Naught she answers save,<lb/>
+        <dia speaker="echo" gender="female">“Caress me!”</dia><lb/></p>
+
+
+    <p>Thus rejected she lies hid<lb/> in the deep woods, hiding her blushing face<lb/> with the
+        green leaves; and ever after lives<lb/> concealed in lonely caverns in the hills.<lb/>
+    </p>
+
+    <p>But her great love increases with neglect;<lb/> her miserable body wastes away,<lb/> wakeful
+        with sorrows; leanness shrivels up<lb/> her skin, and all her lovely features melt,<lb/> as
+        if dissolved upon the wafting winds—<lb/> nothing remains except her bones and voice—<lb/>
+        her voice continues, in the wilderness;<lb/> her bones have turned to stone. She lies
+        concealed<lb/> in the wild woods, nor is she ever seen<lb/> on lonely mountain range; for,
+        though we hear<lb/> her calling in the hills, 'tis but a voice,<lb/> a voice that lives,
+        that lives among the hills.<lb/></p>
+
+
+    <p>Thus he deceived the Nymph and many more,<lb/> sprung from the mountains or the sparkling
+        waves;<lb/> and thus he slighted many an amorous youth.—<lb/> and therefore, some one whom
+        he once despised,<lb/> lifting his hands to Heaven, implored the Gods,<lb/>
+        <dia speaker="narcissus" invo="nemesis">“If he should love deny him what he
+        loves!”</dia><lb/> and as the prayer was uttered it was heard<lb/> by
+            <character>Nemesis</character>, who granted her assent.<lb/>
+    </p>
+
+    <header>NARCISSUS</header>
+
+    <p>There was a fountain silver-clear and bright,<lb/> which neither shepherds nor the wild
+        she-goats,<lb/> that range the hills, nor any cattle's mouth<lb/> had touched—its waters
+        were unsullied—birds<lb/> disturbed it not; nor animals, nor boughs<lb/> that fall so often
+        from the trees. Around<lb/> sweet grasses nourished by the stream grew; trees<lb/> that
+        shaded from the sun let balmy airs<lb/> temper its waters. Here Narcissus, tired<lb/> of
+        hunting and the heated noon, lay down,<lb/> attracted by the peaceful solitudes<lb/> and by
+        the glassy spring. There as he stooped<lb/> to quench his thirst another thirst
+        increased.<lb/></p>
+
+
+    <p><desire object="narcissus" perp="narcissus">While he is drinking he beholds himself<lb/>
+            reflected in the mirrored pool—and loves;<lb/> loves an imagined body which
+            contains<lb/> no substance, for he deems the mirrored shade<lb/> a thing of life to
+            love. He cannot move,<lb/> for so he marvels at himself, and lies<lb/> with countenance
+            unchanged, as if indeed<lb/> a statue carved of Parian marble. Long,<lb/> supine upon
+            the bank, his gaze is fixed<lb/> on his own eyes, twin stars; his fingers shaped<lb/> as
+            Bacchus might desire, his flowing hair<lb/> as glorious as <name>Apollo</name>'s, and
+            his cheeks<lb/> youthful and smooth; his ivory neck, his mouth<lb/> dreaming in
+            sweetness, his complexion fair<lb/> and blushing as the rose in snow-drift white.<lb/>
+            All that is lovely in himself he loves,<lb/> and in his witless way he wants
+            himself:—<lb/> he who approves is equally approved;<lb/> he seeks, is sought, he burns
+            and he is burnt.</desire><lb/></p>
+
+
+    <p>And how he kisses the deceitful fount;<lb/> and how he thrusts his arms to catch the
+        neck<lb/> that's pictured in the middle of the stream!<lb/> Yet never may he wreathe his
+        arms around<lb/> that image of himself. He knows not what<lb/> he there beholds, but what he
+        sees inflames<lb/> his longing, and the error that deceives<lb/> allures his eyes. But why,
+        O foolish boy,<lb/> so vainly catching at this flitting form?<lb/> The cheat that you are
+        seeking has no place.<lb/> Avert your gaze and you will lose your love,<lb/> for this that
+        holds your eyes is nothing save<lb/> the image of yourself reflected back to you.<lb/> It
+        comes and waits with you; it has no life;<lb/> it will depart if you will only go.<lb/></p>
+
+
+
+    <p>Nor food nor rest can draw him thence—outstretched<lb/> upon the overshadowed green, his
+        eyes<lb/> fixed on the mirrored image never may know<lb/> their longings satisfied, and by
+        their sight<lb/> he is himself undone. Raising himself<lb/> a moment, he extends his arms
+        around,<lb/> and, beckoning to the murmuring forest;<dia speaker="narcissus" gender="male">
+            “Oh,<lb/> ye aisled wood was ever man in love<lb/> more fatally than I? Your silent
+            paths<lb/> have sheltered many a one whose love was told,<lb/> and ye have heard their
+            voices. Ages vast<lb/> have rolled away since your forgotten birth,<lb/> but who is he
+            through all those weary years<lb/> that ever pined away as I? Alas,<lb/> this fatal
+            image wins my love, as I<lb/> behold it. But I cannot press my arms<lb/> around the form
+            I see, the form that gives<lb/> me joy. What strange mistake has intervened<lb/> betwixt
+            us and our love? It grieves me more<lb/> that neither lands nor seas nor mountains,
+            no,<lb/> nor walls with closed gates deny our loves,<lb/> but only a little water keeps
+            us far<lb/> asunder. Surely he desires my love<lb/> and my embraces, for as oft I
+            strive<lb/> to kiss him, bending to the limpid stream<lb/> my lips, so often does he
+            hold his face<lb/> fondly to me, and vainly struggles up.<lb/> It seems that I could
+            touch him. 'Tis a strange<lb/> delusion that is keeping us apart.<lb/></dia></p>
+
+    <p><dia speaker="narcissus" gender="male">“Whoever thou art, Come up! Deceive me not!<lb/> Oh,
+            whither when I fain pursue art thou?<lb/> Ah, surely I am young and fair, the
+            Nymphs<lb/> have loved me; and when I behold thy smiles<lb/> I cannot tell thee what
+            sweet hopes arise.<lb/> When I extend my loving arms to thee<lb/> thine also are
+            extended me — thy smiles<lb/> return my own. When I was weeping, I<lb/> have seen thy
+            tears, and every sign I make<lb/> thou cost return; and often thy sweet lips<lb/> have
+            seemed to move, that, peradventure words,<lb/> which I have never heard, thou hast
+            returned.</dia><lb/></p>
+
+    <p><dia speaker="narcissus" gender="male">“No more my shade deceives me, I perceive<lb/> 'Tis I
+            in thee—I love myself—the flame<lb/> arises in my breast and burns my heart—<lb/> what
+            shall I do? Shall I at once implore?<lb/> Or should I linger till my love is
+            sought?<lb/> What is it I implore? The thing that I<lb/> desire is mine—abundance makes
+            me poor.<lb/> Oh, I am tortured by a strange desire<lb/> unknown to me before, for I
+            would fain<lb/> put off this mortal form; which only means<lb/> I wish the object of my
+            love away.<lb/> Grief saps my strength, the sands of life are run,<lb/> and in my early
+            youth am I cut off;<lb/> but death is not my bane—it ends my woe.—<lb/> I would not
+            death for this that is my love,<lb/> as two united in a single soul<lb/> would die as
+            one.”<lb/></dia></p>
+
+
+    <p>He spoke; and crazed with love,<lb/> returned to view the same face in the pool;<lb/> and as
+        he grieved his tears disturbed the stream,<lb/> and ripples on the surface, glassy
+        clear,<lb/> defaced his mirrored form. And thus the youth,<lb/> when he beheld that lovely
+        shadow go;<lb/>
+        <dia speaker="narcissus" gender="male">“Ah whither cost thou fly? Oh, I entreat<lb/> thee
+            leave me not. Alas, thou cruel boy<lb/> thus to forsake thy lover. Stay with me<lb/>
+            that I may see thy lovely form, for though<lb/> I may not touch thee I shall feed my
+            eyes<lb/> and soothe my wretched pains.”</dia> And while he spoke<lb/> he rent his
+        garment from the upper edge,<lb/> and beating on his naked breast, all white<lb/> as marble,
+        every stroke produced a tint<lb/> as lovely as the apple streaked with red,<lb/> or as the
+        glowing grape when purple bloom<lb/> touches the ripening clusters.<lb/>
+    </p>
+
+    <p>When as glass<lb/> again the rippling waters smoothed, and when<lb/> such beauty in the
+        stream the youth observed,<lb/> no more could he endure. As in the flame<lb/> the yellow
+        wax, or as the hoar-frost melts<lb/> in early morning 'neath the genial sun;<lb/> so did he
+        pine away, by love consumed,<lb/> and slowly wasted by a hidden flame.<lb/> No vermeil bloom
+        now mingled in the white<lb/> of his complexion fair; no strength has he,<lb/> no vigor, nor
+        the comeliness that wrought<lb/> for love so long: alas, that handsome form<lb/> by Echo
+        fondly loved may please no more.<lb/></p>
+
+
+    <p>But when she saw him in his hapless plight,<lb/> though angry at his scorn, she only
+        grieved.<lb/> As often as the love-lore boy complained,<lb/>
+        <dia speaker="narcissus">“Alas!”</dia>
+        <dia speaker="echo">“Alas!”</dia> her echoing voice returned;<lb/> and as he struck his
+        hands against his arms,<lb/> she ever answered with her echoing sounds.<lb/> And as he gazed
+        upon the mirrored pool<lb/> he said at last, <dia speaker="narcissus">“Ah, youth beloved in
+            vain!”</dia><lb/>
+        <dia speaker="echo">“In vain, in vain!”</dia> the spot returned his words;<lb/> and when he
+        breathed a sad <dia speaker="narcissus">“farewell!”</dia>
+        <dia speaker="echo">“Farewell!”</dia><lb/> sighed <character>Echo</character> too. He laid
+        his wearied head,<lb/> and rested on the verdant grass; and those<lb/> bright eyes, which
+        had so loved to gaze, entranced,<lb/> on their own master's beauty, sad Night closed.<lb/>
+        And now although among the nether shades<lb/> his sad sprite roams, he ever loves to
+        gaze<lb/> on his reflection in the Stygian wave.<lb/></p>
+
+
+    <p>His Naiad sisters mourned, and having clipped<lb/> their shining tresses laid them on his
+        corpse:<lb/> and all the Dryads mourned: and Echo made<lb/> lament anew. And these would
+        have upraised<lb/> his funeral pyre, and waved the flaming torch,<lb/> and made his bier;
+        but as they turned their eyes<lb/> where he had been, <transform type="physical">alas he was
+            not there!<lb/> And in his body's place a sweet flower grew,<lb/> golden and white, the
+            white around the gold.</transform><lb/></p>
 
 </story>
