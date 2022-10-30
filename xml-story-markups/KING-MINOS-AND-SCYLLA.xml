@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+<story>
+<title>Nisus et Scylla.
+KING MINOS AND SCYLLA</title>
+
+<p>Now <character gender = "male">Lucifer</character> unveiled the glorious day,<lb/>
+and as the session of the night dissolved,<lb/>
+the cool east wind declined, and vapors wreathed<lb/>
+the moistened valleys. Veering to the south<lb/>
+the welcome wind gave passage to the sons<lb/>
+of <name>Aeacus</name>, and wafted <name>Cephalus</name><lb/>
+on his returning way, propitious; where<lb/>
+before the wonted hour, they entered port.<lb/>
+</p>
+    
+<p><character gender ="male">King Minos</character>, while the fair wind moved their ship,<lb/>
+was laying waste the land of <place>Megara</place>.<lb/>
+He gathered a great army round the walls<lb/>
+built by <name>Alcathous</name>, where reigned in splendor<lb/>
+<character gender = "male">King Nisus—mighty</character> and renowned in war—<lb/>
+upon the center of whose hoary head<lb/>
+a lock of purple hair was growing.—Its<lb/>
+proved virtue gave protection to his throne.<lb/></p>
+
+    
+<p>Six times the horns of rising <name>Phoebe</name> grew,<lb/>
+and still the changing fortune of the war<lb/>
+was in suspense; so, <name>Victory</name> day by day<lb/>
+between them hovered on uncertain wings.<lb/></p>
+
+    
+<p>Within that city was a regal tower<lb/>
+on tuneful walls; where once <character gender = "male">Apollo </character>laid<lb/>
+his golden harp; and in the throbbing stone<lb/>
+the sounds remained. And there, in times of peace<lb/>
+the daughter of <character gender = "male">king Nisus</character> loved to mount<lb/>
+the walls and strike the sounding stone with pebbles:<lb/>
+so, when the war began, she often viewed<lb/>
+the dreadful contest from that height;<lb/>
+until, so long the hostile camp remained,<lb/>
+she had become acquainted with the names,<lb/>
+and knew the habits, horses and the arms<lb/>
+of many a chief, and could discern the signs<lb/>
+of their <name>Cydonean</name> quivers.<lb/></p>
+
+    
+<p>More than all,<lb/>
+the features of <character gender ="male">King Minos</character> were engraved<lb/>
+upon the tablets of her mind. <desire object= "Apollo" perp="King Nisus's daughter">And when<lb/>
+he wore his helmet, crested with gay plumes,<lb/>
+she deemed it glorious; when he held his shield<lb/>
+shining with gold, no other seemed so grand;<lb/>
+and when he poised to hurl the tough spear home,<lb/>
+she praised his skill and strength; and when he bent<lb/>
+his curving bow with arrow on the cord,<lb/>
+she pictured him as <name>Phoebus</name> taking aim,—<lb/>
+but when, arrayed in purple, and upon<lb/>
+the back of his white war horse, proudly decked<lb/>
+with richly broidered housings, he reined in<lb/>
+the nervous steed, and took his helmet off,<lb/>
+showing his fearless features, then the maid,<lb/>
+daughter of <name>Nisus</name>, could control herself<lb/>
+no longer; and a frenzy seized her mind.</desire><lb/></p>
+
+    
+<p>She called the javelin happy which he touched,<lb/>
+and blessed were the reins within his hand.<lb/></p>
+
+    
+<p><desire object="Apollo" prep="King Nisus's daughter">had an impulse to direct her steps,<lb/>
+<character gender="female" descrip="virginal">a tender virgin</character>, through the hostile ranks,<lb/>
+or cast her body from the topmost towers<lb/>
+into the <place>Gnossian camp</place>. She had a wild<lb/>
+desire to open to the enemy<lb/>
+the heavy brass-bound gates, or anything<lb/>
+that <character gender="male">Minos</character> could desire.</desire><lb/></p>
+
+    
+<p>And as she sat<lb/>
+beholding the white tents, <character gender="female" descrip="despair">she cried, <dia speaker="King Nisus's daughter" gender="female">“Alas!<lb/>
+Should I rejoice or grieve to see this war?<lb/>
+I grieve that <name>Minos</name> is the enemy<lb/>
+of her who loves him; but unless the war<lb/>
+had brought him, how could he be known to me?<lb/>
+But should he take me for a hostage? That<lb/>
+might end the war—a pledge of peace, he might<lb/>
+keep me for his companion.</dia><lb/></character></p>
+
+    
+<p><dia speaker="King Nisus's daughter" gender="female">“O, supreme<lb/>
+of mankind! she who bore you must have been<lb/>
+as beautiful as you are; ample cause<lb/>
+for <name>Jove</name> to lose his heart.</dia><lb/></p>
+
+    
+<p><dia speaker="King Nisus's daughter" gender="female">“O, happy hour!<lb/>
+If moving upon wings through yielding air,<lb/>
+I could alight within the hostile camp<lb/>
+in front of <name>Minos</name>, and declare to him<lb/>
+my name and passion!</dia><lb/></p>
+
+    
+<p><dia speaker="King Nisus's daughter" gender="female">“Then would I implore<lb/>
+what dowry he could wish, and would provide<lb/>
+whatever he might ask, except alone<lb/>
+the city of my father. Perish all<lb/>
+my secret hopes before one act of mine<lb/>
+should offer treason to accomplish it.<lb/>
+And yet, the kindness of a conqueror<lb/>
+has often proved a blessing, manifest<lb/>
+to those who were defeated. Certainly<lb/>
+the war he carries on is justified<lb/>
+by his slain son.</dia><lb/></p>
+
+    
+<p><dia speaker="King Nisus's daughter" gender="female">“He is a mighty king,<lb/>
+thrice strengthened in his cause. Undoubtedly<lb/>
+we shall be conquered, and, if such a fate<lb/>
+awaits our city, why should he by force<lb/>
+instead of my consuming love, prevail<lb/>
+to open the strong gates? Without delay<lb/>
+and dreadful slaughter, it is best for him<lb/>
+to conquer and decide this savage war.</dia><lb/></p>
+
+    
+<p><dia speaker="King Nisus's daughter" gender="female">“Ah, <name>Minos</name>, how I fear the bitter fate<lb/>
+should any warrior hurl his cruel spear<lb/>
+and pierce you by mischance, for surely none<lb/>
+can be so hardened to transfix your breast<lb/>
+with purpose known.”</dia><lb/></p>
+
+    
+<p><desire object="Apollo" prep="King Nisus's daughter">, let her love prevail<lb/>
+to open for his army the great gates.<lb/>
+Only the thought of it, has filled her soul;</desire><lb/>
+she is determined to deliver up<lb/>
+her country as a dowry with herself,<lb/>
+and so decide the war! But what avails<lb/>
+this idle talk.<lb/></p>
+
+    
+<p><dia speaker="King Nisus's daughter" gender="female">“A guard surrounds the gates,<lb/>
+my father keeps the keys, and <character gender="female" descrip="despair">he alone<lb/>
+is my obstruction, and the innocent<lb/>
+account of my despair.</character> Would to the Gods<lb/>
+I had no father! Is not man the God<lb/>
+of his own fortune, though his idle prayers<lb/>
+avail not to compel his destiny?</dia><lb/></p>
+
+    
+<p><dia speaker="Scylla" gender="female">“Another woman crazed with passionate desires,<lb/>
+which now inflame me, would not hesitate,<lb/>
+but with a fierce abandon would destroy<lb/>
+whatever checked her passion. Who is there<lb/>
+with love to equal mine? I dare to go<lb/>
+through flames and swords; but swords and flames<lb/>
+are not now needed, for I only need<lb/>
+my royal father's lock of purple hair.<lb/>
+More precious than fine gold, it has a power<lb/>
+to give my heart all that it may desire.”</dia><lb/></p>
+
+
+    
+<p>While <character gender="female">Scylla</character> said this, night that heals our cares<lb/>
+came on, and she grew bolder in the dark.<lb/>
+And now it is the late and silent hour<lb/>
+when slumber takes possession of the breast.<lb/>
+Outwearied with the cares of busy day;<lb/>
+then as her father slept, with stealthy tread<lb/>
+she entered his abode, and there despoiled,<lb/>
+and clipped his fatal lock of purple hair.<lb/></p>
+
+    
+<p>Concealing in her bosom the sad prize<lb/>
+of crime degenerate, she at once went forth<lb/>
+a gate unguarded, and with shameless haste<lb/>
+sped through the hostile army to the tent<lb/>
+of <name>Minos</name>, whom, astonished, she addressed:<lb/></p>
+
+    
+<p><dia speaker="Scylla" gender="female">“Only my love has led me to this deed.<lb/>
+The daughter of <name>King Nisus</name>, I am called<lb/>
+the maiden <name>Scylla</name>. Unto you I come<lb/>
+and offer up a power that will prevail<lb/>
+against my country, and I stipulate<lb/>
+no recompense except yourself. Take then<lb/>
+this purple hair,<desire object="Minos" perp="Syclla"> a token of my love.—<lb/>
+Deem it not lightly as a lock of hair<lb/>
+held idly forth to you; it is in truth<lb/>
+my father's life.”</dia> And as she spoke<lb/>
+she held out in her guilty hand the prize,<lb/>
+and begged him to accept it with her love.</desire><lb/></p>
+
+    
+<p>Shocked at the thought of such a heinous crime,<lb/>
+<name>Minos</name> refused, and said, <dia speaker="Minos" gender="male" invo="Syclla">“O execrable thing!<lb/>
+Despised abomination of our time!<lb/>
+May all the Gods forever banish you<lb/>
+from their wide universe, and may the earth<lb/>
+and the deep ocean be denied to you!<lb/>
+So great a monster shall not be allowed<lb/>
+to desecrate the sacred <place>Isle of Crete</place>,<lb/>
+where <name>Jupiter</name> was born.” </dia>So <character gender="male" descrip="rage">Minos</character> spoke.<lb/></p>
+
+    
+<p>Nevertheless he conquered <character gender="female">Megara,</character><lb/>
+(so aided by the damsel's wicked deed)<lb/>
+and as a just and mighty king imposed<lb/>
+his own conditions on the vanquished land.<lb/></p>
+
+    
+<p>He ordered his great fleet to tarry not;<lb/>
+the hawsers were let loose, and the long oars<lb/>
+quickly propelled his brazen-pointed ships.—<lb/></p>
+
+    
+<p>When <character gender="female" descrip="rage">Scylla </character>saw them launching forth,<lb/>
+observed them sailing on the mighty deep,<lb/>
+she called with vain entreaties; but at last,<lb/>
+aware the prince ignored her and refused<lb/>
+to recompense her wickedness, enraged,<lb/>
+and raving, she held up her impious hands,<lb/>
+her long hair streaming on the wind, — and said:<lb/></p>
+
+    
+<p><dia speaker="Scylla" gender="female">“Oh, wherefore have you flown, and left behind<lb/>
+the author of your glory. Oh, wretch! wretch<lb/>
+to whom I offered up my native land,<lb/>
+and sacrificed my father! Where have you<lb/>
+now flown, ungrateful man whose victory<lb/>
+is both my crime and virtue? And the gift<lb/>
+presented to you, and my passion,<lb/>
+have these not moved you? All my love and hope<lb/>
+in you alone!</dia><lb/></p>
+
+    
+<p><dia speaker="Scylla" gender="female">“Forsaken by my prince,<lb/>
+shall I return to my defeated land?<lb/>
+If never ruined it would shut its walls<lb/>
+against me.—Shall I seek my father's face<lb/>
+whom I delivered to all-conquering arms?<lb/>
+My fellow-citizens despise my name;<lb/>
+my friends and neighbors hate me; I have shut<lb/>
+the world against me, only in the hope<lb/>
+that <name>Crete</name> would surely welcome me;—and now,<lb/>
+he has forbidden me.</dia><lb/>
+</p>
+    
+<p><dia speaker="Scylla" gender="female">“And is it so<lb/>
+I am requited by this thankless wretch!<lb/>
+<name>Europa</name> could not be your mother! Spawn<lb/>
+of cruel <name>Syrtis</name>! Savage cub of fierce<lb/>
+Armenian tigress;—or <name>Charybdis</name>, tossed<lb/>
+by the wild South-wind begot you! Can you be<lb/>
+the son of <name>Jupiter</name>? Your mother was<lb/>
+not ever tricked by the false semblance<lb/>
+of a bull. All that story of your birth<lb/>
+is false! You are the offspring of a bull<lb/>
+as fierce as you are!</dia><lb/></p>
+
+    
+<p><dia speaker="Scylla" gender="female">“Let your vengeance fall<lb/>
+upon me, O my father <name>Nisus</name>, let<lb/>
+the ruined city I betrayed rejoice<lb/>
+at my misfortunes—richly merited—<lb/>
+destroy me, you whom I have ruined;—I<lb/>
+should perish for my crimes! But why should you,<lb/>
+who conquered by my crime, abandon me?<lb/>
+The treason to my father and my land<lb/>
+becomes an act of kindness in your cause.</dia><lb/></p>
+
+    
+<p><dia speaker="Scylla" gender="female">“That woman is a worthy mate for you<lb/>
+who hid in wood deceived the raging bull,<lb/>
+and bore to him the infamy of <name>Crete</name>.<lb/>
+I do not wonder that <name>Pasiphae</name><lb/>
+preferred the bull to you, more savage than<lb/>
+the wildest beast. Alas, alas for me!</dia><lb/></p>
+
+    
+<p><dia speaker="Scylla" gender="female">“Do my complaints reach your unwilling ears?<lb/>
+Or do the same winds waft away my words<lb/>
+that blow upon your ships, ungrateful man?—<lb/>
+Ah, wretched that I am, he takes delight<lb/>
+in hastening from me. The deep waves resound<lb/>
+as smitten by the oars, his ship departs;<lb/>
+and I am lost and even my native land<lb/>
+is fading from his sight.</dia><lb/></p>
+
+    
+<p><dia speaker="Scylla" gender="female">“Oh heart of flint!<lb/>
+you shall not prosper in your cruelty,<lb/>
+and you shall not forget my sacrifice;<lb/>
+in spite of everything I follow you!<lb/>
+I'll grasp the curving stern of your swift ship,<lb/>
+and I will follow through unending seas.”</dia><lb/></p>
+
+    
+<p>And as she spoke, she leaped into the waves,<lb/>
+and followed the receding ships—for strength<lb/>
+from passion came to her. And soon she clung<lb/>
+unwelcome, to the sailing Gnossian ship.<lb/></p>
+
+<p><transform type="physical" gender="male">Meanwhile, the Gods had changed her father's form<lb/>
+and now he hovered over the salt deep,<lb/>
+a hawk with tawny wings.</transform> So when he saw<lb/>
+his daughter clinging to the hostile ship<lb/>
+he would have torn her with his rending beak;—<lb/>
+he darted towards her through the yielding air.<lb/>
+In terror she let go, but as she fell<lb/>
+the light air held her from the ocean spray;<lb/>
+her feather-weight supported by the breeze;<lb/>
+<transformed type="physical" gender="female">she spread her wings, and changed into a bird.</transformed><lb/>
+They called her <name>“Ciris” </name>when she cut the wind,<lb/>
+and <name>“Ciris”</name>—cut-the-lock—remains her name.<lb/></p>
+</story>
