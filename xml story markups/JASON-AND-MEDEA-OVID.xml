@@ -3,30 +3,29 @@
 
 <?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 
+<!--Desire exists within dialogue, so we should add this to the schema-->
 
 <story>
     <title>Iason et Medea. JASON AND MEDEA </title>
-    <p>Over the storm-tossed waves, the Argonauts<lb/> had sailed in <place>Argo</place>, their long
-        ship to where<lb/>
+    <p>Over the storm-tossed waves, the Argonauts<lb/> had sailed in <place>Argo</place>, their long ship to where<lb/>
         <name>King Phineus</name>, needy in his old age, reigned—<lb/> deprived of sight and feeble.
-        When the sons<lb/> of <name>Boreas</name> had landed on the shore,<lb/> and seen the Harpies
-        snatching from the king<lb/> his nourishment, befouling it with beaks<lb/> obscene, they
-        drove those human-vultures thence.<lb/></p>
+        When the sons<lb/> of <name>Boreas</name> had landed on the shore,<lb/> and seen the Harpies snatching
+        from the king<lb/> his nourishment, befouling it with beaks<lb/> obscene, they drove those
+        human-vultures thence.<lb/></p>
 
 
     <p>And having suffered hardships and great toils,<lb/> after the day they rescued the sad
         king<lb/> from the vile Harpies, those twin valiant youths,<lb/>
-        <name>Zetes</name> and <name>Calais</name>
-        <character gender="male" descrip="protector">came with their chief,<lb/> the mighty
-            Jason,</character> where the Phasis flows.<lb/></p>
+        <name>Zetes</name> and <name>Calais</name> came with their chief,<lb/> the mighty <character
+            gender="male" descrip="protector">Jason</character>, where the Phasis flows.<lb/></p>
 
 
     <p>From the green margin of that river, all<lb/> the crew of Argonauts, by <character
-            gender="male" descrip="protector">Jasonled,<lb/> went to the king <name>Aeetes</name>
-            and required<lb/> the Golden Fleece, that he received from <name>Phryxus</name>.<lb/>
-        </character> When they had bargained with him, full of wiles<lb/> he offered to restore the
-        Golden Fleece<lb/> only to those who might to him return,<lb/> victorious from hard labors
-        of great risk.<lb/></p>
+            gender="male" descrip="protector">Jason</character> led,<lb/> went to the king
+            <name>Aeetes</name> and required<lb/> the Golden Fleece, that he received from
+            <name>Phryxus</name>.<lb/> When they had bargained with him, full of wiles<lb/> he
+        offered to restore the Golden Fleece<lb/> only to those who might to him return,<lb/>
+        victorious from hard labors of great risk.<lb/></p>
 
 
     <p><character gender="female" descrip="virginal">Medea</character>, the king's daughter, near
@@ -35,16 +34,14 @@
             object="Jason">loved at sight with a consuming flame</desire>.<lb/>
     </p>
 
-    <p><desire object="Jason" perp="Medea">Although she struggled to suppress her love,<lb/> unable
-            to restrain herself</desire>, she said,<lb/>
-        <dia speaker="Medea" gender="female"><desire perp="Medea" object="Jason">“In vain I've
-                striven to subdue my heart:<lb/> some god it must be, which I cannot tell,<lb/> is
-                working to destroy my hapless life;<lb/> or else it is the burning flame of
-                love<lb/> that in me rages. If it is not love,<lb/> why do the mandates of my father
-                seem<lb/> too harsh? They surely are too harsh. Why do<lb/> I fear that he may
-                perish whom I have<lb/> seen only once? What is the secret cause<lb/> that I am
-                agitated by such fears?—<lb/> It is no other than the god of
-        Love.</desire></dia><lb/></p>
+    <p><desire object="Jason" perp="Medea">Although she struggled to suppress her love,<lb/> unable to restrain herself</desire>, she said,<lb/>
+        <dia speaker="Medea" gender="female">“In vain I've striven to subdue my heart:<lb/> some god
+            it must be, which I cannot tell,<lb/> is working to destroy my hapless life;<lb/> or
+            else it is the burning flame of love<lb/> that in me rages. If it is not love,<lb/> why
+            do the mandates of my father seem<lb/> too harsh? They surely are too harsh. Why do<lb/>
+            I fear that he may perish whom I have<lb/> seen only once? What is the secret cause<lb/>
+            that I am agitated by such fears?—<lb/> It is no other than the god of
+        Love.</dia><lb/></p>
 
 
     <p><dia speaker="Medea" gender="female">“Thrust from your virgin breast such burning flames<lb/>
@@ -54,11 +51,10 @@
                 defeat.</desire></dia> —<lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female"><character descrip="virginal" gender="female">“O royal
-                maiden, why are you consumed<lb/> with love for this strange man, and why are
-                you<lb/> so willing to be carried by the nuptial ties<lb/> so far from your own
-                country, where, indeed,<lb/> are many brave men worthy of your
-            love?</character></dia><lb/></p>
+    <p><dia speaker="Medea" gender="female">“O royal maiden, why are you consumed<lb/> with love for
+            this strange man, and why are you<lb/> so willing to be carried by the nuptial ties<lb/>
+            so far from your own country, where, indeed,<lb/> are many brave men worthy of your
+            love?</dia><lb/></p>
 
 
     <p>“Whether for life or death his numbered hours<lb/> are in the mercy of the living Gods,<lb/>
@@ -75,10 +71,10 @@
             huge dragon.</dia><lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female" invo="Gods">“Let my gloating eyes<lb/> be satiate with
-            his dying agonies!<lb/> Let me incite the fury of these bulls!<lb/> Stir to their
-            blood-lust mad-born sons of Earth!<lb/> Rouse up the never-sleeping dragon's rage!—<lb/>
-            “Avert it Gods!</dia>—<lb/></p>
+    <p><dia speaker="Medea" gender="female">“Let my gloating eyes<lb/> be satiate with his dying
+            agonies!<lb/> Let me incite the fury of these bulls!<lb/> Stir to their blood-lust
+            mad-born sons of Earth!<lb/> Rouse up the never-sleeping dragon's rage!—<lb/> “Avert it
+            Gods!</dia>—<lb/></p>
 
 
     <p><dia speaker="Medea" gender="female">“But why should I cry out<lb/> upon the Gods to save him
@@ -114,32 +110,31 @@
             be going surely to great things.<lb/> And I should gain applause from all the
             world,<lb/> as having saved the threatened Argonauts,<lb/> most noble of the Greeks; and
             in their land,<lb/> which certainly is better than my own,<lb/> become the bride of
-                <character gender="male" descrip="protected">Jason</character>, for whose love<lb/>
-            I should not hesitate to give the world—<lb/> and in whose love the living Gods
+                <character gender="male" descrip="protected">Jason</character>, for whose love<lb/> I
+            should not hesitate to give the world—<lb/> and in whose love the living Gods
             rejoice<lb/> so greatly; for his sake they would bestow<lb/> their favors on my head,
             and make the stars<lb/> my habitation.</dia><lb/></p>
 
 
     <p><dia speaker="Medea" gender="female">“Should I hesitate<lb/> because the wreck-strewn
             mountains bar the way,<lb/> and clash together in the Euxine waves;<lb/> or fear
-                <name>Charybdis</name>, fatal to large ships,<lb/> that sucks the deep sea in its
-            whirling gulf<lb/> and spouts far upward, with alternate force,<lb/> or
-                <name>Scylla</name>, circled with infuriate hounds<lb/> howling in rage from deep
-            Sicilian waves?</dia><lb/></p>
+            Charybdis, fatal to large ships,<lb/> that sucks the deep sea in its whirling gulf<lb/>
+            and spouts far upward, with alternate force,<lb/> or Scylla, circled with infuriate
+            hounds<lb/> howling in rage from deep Sicilian waves?</dia><lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female"><character gender="male" descrip="protector">“Safe in
-                the shielding arms of him I love,<lb/> on Jason's bosom leaning,</character> I shall
-            be<lb/> borne safely over wide and hostile seas;<lb/> and <desire object="Jason"
-                perp="Medea">in his dear embrace forget my fears—<lb/> or if for anything I suffer
-                dread,<lb/> it will be only for the one I love.</desire></dia>—<lb/></p>
+    <p><dia speaker="Medea" gender="female">“Safe in the shielding arms of him I love,<lb/> on
+                <character gender="male">Jason</character>'s bosom leaning, I shall be<lb/> borne
+            safely over wide and hostile seas;<lb/> and <desire object="Jason" perp="Medea">in his
+                dear embrace forget my fears—<lb/> or if for anything I suffer dread,<lb/> it will
+                be only for the one I love.</desire></dia>—<lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“Alas, <character gender="female" descrip="virginal"
-                >Medea, this vain argument<lb/> has only furnished plausible excuse<lb/> for
-                criminal desires, and desecrates<lb/> the marriage rite. It is a wicked thing<lb/>
-                to think upon. Before it is too late<lb/> forget your passion and deny this
-                guilt.”</character></dia><lb/></p>
+    <p><dia speaker="Medea" gender="female">“Alas, <character gender="female"
+                >Medea</character>, this vain argument<lb/> has only furnished plausible excuse<lb/>
+            for criminal desires, and desecrates<lb/> the marriage rite. It is a wicked thing<lb/>
+            to think upon. Before it is too late<lb/> forget your passion and deny this
+            guilt.”</dia><lb/></p>
 
 
     <p>And after she had said these words, her eyes<lb/> were opened to <character gender="female"
@@ -151,13 +146,12 @@
     <p>Then, to an ancient altar of the goddess named<lb/>
         <name>Hecate</name>, <name>Perse</name>'s daughter took her way<lb/> in the deep shadows of
         a forest. She<lb/> was strong of purpose now, and all the flames<lb/> of vanquished passion
-        had died down; but when<lb/> she saw the son of <name>Aeson</name>, <desire object="Jason"
-            perp="Medea">dying flames<lb/> leaped up again. Her cheeks grew red, then all<lb/> her
-            face went pale again; as a small spark<lb/> when hid beneath the ashes, if fed by<lb/> a
-            breath of wind grows and regains its strength,<lb/> as it is fanned to life; so now her
-            love<lb/> that had been smoldering, and which you would<lb/> have thought was almost
-            dead, when she had see<lb/> again his manly youth, blazed up once
-        more.</desire><lb/></p>
+        had died down; but when<lb/> she saw the son of <name>Aeson</name>, <desire object="Jason" perp="Medea"
+            >dying flames<lb/> leaped up again. Her cheeks grew red, then all<lb/> her face went
+            pale again; as a small spark<lb/> when hid beneath the ashes, if fed by<lb/> a breath of
+            wind grows and regains its strength,<lb/> as it is fanned to life; so now her love<lb/>
+            that had been smoldering, and which you would<lb/> have thought was almost dead, when
+            she had see<lb/> again his manly youth, blazed up once more.</desire><lb/></p>
 
 
     <p>For on that day his graceful person seemed<lb/> as glorious as a God;—and as she gazed,<lb/>
@@ -174,17 +168,17 @@
         <name>Diana</name>, <name>Trivia</name>, or <name>Luna</name> called,<lb/> and by her sacred
         groves and fanes, he vowed,<lb/> and by the hallowed Sun that sees all things,<lb/> and by
         his own adventures, and his life,—<lb/> on these the youthful <character gender="male"
-            >Jason</character> took his oath.—<lb/> With this she was assured and quickly gave<lb/>
-        to him the magic herbs: he learnt their use<lb/> and full of joy withdrew into his
-        house.<lb/></p>
+          >Jason</character> took his oath.—<lb/> With this she was assured and
+        quickly gave<lb/> to him the magic herbs: he learnt their use<lb/> and full of joy withdrew
+        into his house.<lb/></p>
 
 
     <p>Now when the dawn had dimmed the glittering stars,<lb/> the people hastened to the sacred
         field<lb/> of Mars, and on the hills expectant stood.—<lb/> Arrayed in purple, and in
         majesty<lb/> distinguished by his ivory sceptre, sat<lb/> the king, surrounded by a
-        multitude.<lb/> Below them on the visioned <place>Field of Mars</place>,<lb/> huge
-        brazen-footed bulls were breathing forth<lb/> from adamantine nostrils living flames,<lb/>
-        blasting the verdant herbage in their path!<lb/></p>
+        multitude.<lb/> Below them on the visioned <place>Field of Mars</place>,<lb/> huge brazen-footed bulls were
+        breathing forth<lb/> from adamantine nostrils living flames,<lb/> blasting the verdant
+        herbage in their path!<lb/></p>
 
 
     <p>As forges glowing with hot flames resound,<lb/> or as much quick-lime, <character
@@ -233,8 +227,8 @@
 
 
     <p>Gladly the Greeks acclaimed him conqueror,<lb/> and pressed around him for the first
-        embrace.<lb/> Then, too, <character gender="female" descrip="protector">Medea, barbarous
-            Colchian maid</character>,<lb/> although <desire object="Jason" perp="Medea">her modesty
+        embrace.<lb/> Then, too, <character gender="female" descrip="protector">Medea</character>,
+        barbarous Colchian maid,<lb/> although <desire object="Jason" perp="Medea">her modesty
             restrained her heart,<lb/> eagerly longed to fold him in her arms,<lb/> but careful of
             her good name, held aloof,—<lb/> rejoicing in deep, silent love; and she<lb/>
             acknowledged to the Gods her mighty gift<lb/> of incantations.</desire><lb/></p>

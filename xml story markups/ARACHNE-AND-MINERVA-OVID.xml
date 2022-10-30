@@ -3,25 +3,25 @@
 <story>
     <title>Pallas et Arachne. ARACHNE AND MINERVA</title>
 
-    <p>All this <character gender="female" descrip="cocky">Minerva heard; and she approved<lb/>
-            their songs and their resentment; but her heart</character><lb/> was brooding thus, <dia
+    <p>All this <character gender="female" descrip="cocky">Minerva</character> heard; and she
+        approved<lb/> their songs and their resentment; but her heart<lb/> was brooding thus, <dia
             speaker="Minerva" gender="female">“It is an easy thing<lb/> to praise another, I should
             do as they:<lb/> no creature of the earth should ever slight<lb/> the majesty that
             dwells in me,—without<lb/> just retribution.”</dia>—So her thought was turned<lb/> upon
-        the fortune of <character gender="female" descrip="cocky">Arachne — proud,<lb/> who would
-            not ever yield to her the praise<lb/> won by the art of deftly weaving wool,<lb/> a girl
-            who had not fame for place of birth,<lb/> nor fame for birth, but only fame for
-            skill!</character><lb/></p>
+        the fortune of <character gender="female" descrip="cocky">Arachne</character> — proud,<lb/>
+        who would not ever yield to her the praise<lb/> won by the art of deftly weaving wool,<lb/>
+        a girl who had not fame for place of birth,<lb/> nor fame for birth, but only fame for
+        skill!<lb/></p>
 
 
-    <p>For it was well known that her father dwelt<lb/> in <place>Colophon</place>; where, at his
-        humble trade,<lb/> he dyed in Phocean purples, fleecy wool.<lb/> Her mother, also of the
-        lower class,<lb/> had died. <character gender="female">Arachne</character> in a mountain
-        town<lb/> by skill had grown so famous in the Land<lb/> of <place>Lydia</place>, that
-        unnumbered curious nymphs<lb/> eager to witness her dexterity,<lb/> deserted the lush
-        vineyards of <place>Timolus</place>;<lb/> or even left the cool and flowing streams<lb/> of
-        bright <place>Pactolus</place>, to admire the cloth,<lb/> or to observe her deftly spinning
-        wool.<lb/></p>
+    <p>For it was well known that her father dwelt<lb/> in <place>Colophon</place>; where, at his humble
+        trade,<lb/> he dyed in Phocean purples, fleecy wool.<lb/> Her mother, also of the lower
+        class,<lb/> had died. <character gender="female">Arachne</character> in a mountain town<lb/>
+        by skill had grown so famous in the Land<lb/> of Lydia, that unnumbered curious <character
+            gender="female" descrip="virginal">nymphs</character><lb/> eager to witness her
+        dexterity,<lb/> deserted the lush vineyards of <place>Timolus</place>;<lb/> or even left the cool and
+        flowing streams<lb/> of bright <place>Pactolus</place>, to admire the cloth,<lb/> or to observe her deftly
+        spinning wool.<lb/></p>
 
 
     <p>So graceful was her motion then,—if she<lb/> was twisting the coarse wool in little
@@ -31,15 +31,15 @@
 
 
     <p>in all her motions one might well perceive<lb/> how much <character gender="female"
-            descrip="cocky">Minerva had instructed her:<lb/> but this she ever would deny,
-            displeased<lb/> to share her fame;</character> and said, <dia speaker="Arachne"
-            gender="female">“Let her contend<lb/> in art with me; and if her skill prevails,<lb/> I
-            then will forfeit all!”</dia><lb/></p>
+            descrip="cocky">Minerva</character> had instructed her:<lb/> but this she ever would
+        deny, displeased<lb/> to share her fame; and said, <dia speaker="Arachne" gender="female"
+            >“Let her contend<lb/> in art with me; and if her skill prevails,<lb/> I then will
+            forfeit all!”</dia><lb/></p>
 
 
     <p><character gender="female">Minerva</character> heard,<lb/> and came to her, disguised with
         long grey hair,<lb/> and with a staff to steady her weak limbs.<lb/> She seemed a feeble
-        woman, very old,<lb/> and quavered as she said, <dia speaker="Minerva" gender="female">“Old
+        woman, very old,<lb/> and quavered as she said, <dia speaker="Minerva" gender="female" invo="Arachne">“Old
             age is not<lb/> the cause of every ill; experience comes<lb/> with lengthened years;
             and, therefore, you should not<lb/> despise my words. It is no harm in you<lb/> to long
             for praise of mortals, when<lb/> your nimble hands are spinning the soft wool,—<lb/> but
@@ -47,37 +47,37 @@
             you,<lb/> for she will grant you pardon if you ask.”</dia><lb/>
     </p>
 
-    <p><character gender="female" descrip="rage">Arachne, scowling with an evil face.<lb/> Looked at
-            the goddess, as she dropped her thread.<lb/> She hardly could restrain her threatening
-            hand,<lb/> and, trembling in her anger,</character>she replied<lb/> to you, disguised
+    <p><character gender="female" descrip="rage">Arachne</character>, scowling with an evil
+        face.<lb/> Looked at the goddess, as she dropped her thread.<lb/> She hardly could restrain
+        her threatening hand,<lb/> and, trembling in her anger, she replied<lb/> to you, disguised
         Minerva:<lb/>
     </p>
 
-    <p><dia gender="female" speaker="Arachne">“Silly fool,—<lb/> worn out and witless in your
-            palsied age,<lb/> a great age is your great misfortune!— Let<lb/> your daughter and your
-            son's wife—if the Gods<lb/> have blessed you—let them profit by your words;<lb/> within
-            myself, my knowledge is contained<lb/> sufficient; you need not believe that your<lb/>
-            advice does any good; for I am quite<lb/> unchanged in my opinion. Get you gone,—<lb/>
-            advise your goddess to come here herself,<lb/> and not avoid the
-        contest!”</dia><lb/></p>
+    <p><dia gender="female" speaker="Arachne" invo="Minerva">“Silly fool,—<lb/> worn out and witless
+            in your palsied age,<lb/> a great age is your great misfortune!— Let<lb/> your daughter
+            and your son's wife—if the Gods<lb/> have blessed you—let them profit by your
+            words;<lb/> within myself, my knowledge is contained<lb/> sufficient; you need not
+            believe that your<lb/> advice does any good; for I am quite<lb/> unchanged in my
+            opinion. Get you gone,—<lb/> advise your goddess to come here herself,<lb/> and not
+            avoid the contest!”</dia><lb/></p>
 
 
-    <p>Instantly,<lb/> the goddess said, <dia speaker="Minerva" gender="female"> “Minerva comes to
-            you!”</dia><lb/> And with those brief words, put aside the shape<lb/> of the old woman,
-        and revealed herself,<lb/> Minerva, goddess.<lb/></p>
+    <p>Instantly,<lb/> the goddess said, <dia speaker="Minerva" gender="female" invo="Arachne"
+            >“Minerva comes to you!”</dia><lb/> And with those brief words, put aside the shape<lb/>
+        of the old woman, and revealed herself,<lb/> Minerva, goddess.<lb/></p>
 
 
-    <p>All the other Nymphs<lb/> and matrons of <place>Mygdonia</place> worshiped her;<lb/> but not
-            <character gender="female">Arachne</character>, who defiant stood;—<lb/> although at
-        first she flushed up—then went pale—<lb/> then blushed again, reluctant.—So, at first,<lb/>
-        the sky suffuses, as <name>Aurora</name> moves,<lb/> and, quickly when the glorious sun
-        comes up,<lb/> pales into white.<lb/></p>
+    <p>All the other <character gender="female" descrip="virginal">Nymphs</character><lb/> and
+        matrons of <place>Mygdonia</place> worshiped her;<lb/> but not <character gender="female"
+            >Arachne</character>, who defiant stood;—<lb/> although at first she flushed up—then
+        went pale—<lb/> then blushed again, reluctant.—So, at first,<lb/> the sky suffuses, as
+        <name>Aurora</name> moves,<lb/> and, quickly when the glorious sun comes up,<lb/> pales into
+        white.<lb/></p>
 
 
-    <p><character gender="female" descrip="cocky">She even rushed upon<lb/> her own destruction, for
-            she would not give<lb/> from her desire to gain the victory.</character><lb/> Nor did
-        the daughter of almighty <name>Jove</name><lb/> decline: disdaining to delay with
-        words,<lb/> she hesitated not.<lb/></p>
+    <p><character gender="female" descrip="cocky">She even rushed upon<lb/> her own destruction, for she would not give<lb/> from her desire to
+        gain the victory.</character><lb/> Nor did the daughter of almighty <name>Jove</name><lb/> decline:
+        disdaining to delay with words,<lb/> she hesitated not.<lb/></p>
 
 
     <p>And both, at once,<lb/> selected their positions, stretched their webs<lb/> with finest warp,
@@ -100,8 +100,7 @@
         ancient Cecrops built his citadel,<lb/> and showed the old contention for the name<lb/> it
         should be given.—Twelve celestial Gods<lb/> surrounded <name>Jupiter</name>, on lofty
         thrones;<lb/> and all their features were so nicely drawn,<lb/> that each could be
-            distinguished.—<name>Jupiter</name><lb/> appeared as monarch of those judging
-        Gods.<lb/></p>
+        distinguished.—<name>Jupiter</name><lb/> appeared as monarch of those judging Gods.<lb/></p>
 
 
     <p>There <name>Neptune</name>, guardian of the sea, was shown<lb/> contending with <character
@@ -111,11 +110,11 @@
 
 
     <p>And then she wove a portrait of herself,<lb/> bearing a shield, and in her hand a lance,<lb/>
-        sharp-pointed, and a helmet on her head—<lb/> her breast well-guarded by her
-            <name>Aegis</name>: there<lb/> she struck her spear into the fertile earth,<lb/> from
-        which a branch of olive seemed to sprout,<lb/> pale with new clustered fruits.—And those
-        twelve Gods,<lb/> appeared to judge, that olive as a gift<lb/> surpassed the horse which
-            <name>Neptune</name> gave to man.<lb/></p>
+        sharp-pointed, and a helmet on her head—<lb/> her breast well-guarded by her <name>Aegis</name>:
+        there<lb/> she struck her spear into the fertile earth,<lb/> from which a branch of olive
+        seemed to sprout,<lb/> pale with new clustered fruits.—And those twelve Gods,<lb/> appeared
+        to judge, that olive as a gift<lb/> surpassed the horse which <name>Neptune</name> gave to
+        man.<lb/></p>
 
 
     <p>And, so <character gender="female">Arachne</character>, rival of her fame,<lb/> might learn
@@ -130,14 +129,14 @@
             <name>Haemus</name>, <transform type="physical">which for punishment were changed<lb/>
             from human beings to those rigid forms</transform>,<lb/> when they aspired to rival the
         high Gods.<lb/> And in another corner she described<lb/> that <name>Pygmy</name>, whom the
-        angry <name>Juno</name> changed<lb/> from <transform type="physical" gender="female"
-            >queen-ship to a crane</transform>; because she thought<lb/> herself an equal of the
-        living Gods,<lb/> she was commanded to wage cruel wars<lb/> upon her former subjects. In the
-        third,<lb/> she wove the story of <name>Antigone</name>,<lb/> who dared compare herself to
-            <name>Juno</name>, queen<lb/> of <name>Jupiter</name>, and showed her as she was<lb/>
-        <transform type="physical" gender="female">transformed into a silly chattering
-            stork</transform>,<lb/> that praised her beauty, with her ugly beak.—<lb/> Despite the
-        powers of <name>Ilion</name> and her sire<lb/>
+        angry <name>Juno</name> changed<lb/> from <transform type="physical" gender="female">queen-ship to a
+            crane</transform>; because she thought<lb/> herself an equal of the living Gods,<lb/>
+        she was commanded to wage cruel wars<lb/> upon her former subjects. In the third,<lb/> she
+        wove the story of <name>Antigone</name>,<lb/> who dared compare herself to
+        <name>Juno</name>, queen<lb/> of <name>Jupiter</name>, and showed her as she was<lb/>
+        <transform type="physical" gender="female">transformed into a silly chattering stork</transform>,<lb/> that
+        praised her beauty, with her ugly beak.—<lb/> Despite the powers of <name>Ilion</name> and
+        her sire<lb/>
         <name>Laomedon</name>, her shoulders fledged white wings.<lb/> And so, the third part
         finished, there was left<lb/> one corner, where <character gender="female"
             >Minerva</character> deftly worked<lb/> the story of the father,
@@ -171,11 +170,11 @@
             <name>Neptune</name>:—who was shown first as a bull,<lb/> when he was deep in love with
         virgin <name>Arne</name><lb/> then as <name>Enipeus</name> when the giant twins,<lb/>
         <name>Aloidae</name>, were begot; and as the ram<lb/> that gambolled with
-            <name>Bisaltis</name>; as a horse<lb/>
-        <character gender="female" descrip="matronly">loved by the fruitful <name>Ceres</name>,
-            golden haired,<lb/> all-bounteous mother of the yellow grain</character>;<lb/> and as
-        the bird that hovered round snake-haired<lb/>
-        <name>Medusa</name>, mother of the winged horse;<lb/> and as the dolphin, sporting with the Nymph,<lb/>
+            <name>Bisaltis</name>; as a horse<lb/> <character gender="female" descrip="matronly">loved by the fruitful <name>Ceres</name>, golden
+        haired,<lb/> all-bounteous mother of the yellow grain</character>;<lb/> and as the bird that hovered
+        round snake-haired<lb/>
+        <name>Medusa</name>, mother of the winged horse;<lb/> and as the dolphin, sporting with the
+            <character gender="female" descrip="virginal">Nymph</character>,<lb/>
         <name>Melantho</name>.—All of these were woven true<lb/> to life, in proper shades.<lb/></p>
 
 
@@ -195,27 +194,27 @@
         around the web a patterned edge<lb/> of interlacing flowers and ivy leaves.<lb/></p>
 
 
-    <p><character gender="female" descrip="jealous">Minerva could not find a fleck or flaw—<lb/>
-            even Envy can not censure perfect art—<lb/> enraged</character> because <character
+    <p><character gender="female" descrip="jealous">Minerva</character> could not find a fleck or
+        flaw—<lb/> even Envy can not censure perfect art—<lb/> enraged because <character
             gender="female">Arachne</character> had such skill<lb/> she ripped the web, and ruined
         all the scenes<lb/> that showed those wicked actions of the Gods;<lb/> and with her boxwood
         shuttle in her hand,<lb/> struck the unhappy mortal on her head,—<lb/> struck sharply
         thrice, and even once again.<lb/></p>
 
 
-    <p><character gender="female" descrip="rage">Arachne's spirit, deigning not to brook<lb/> such
-            insult, brooded on it, till she tied<lb/> a cord around her neck, and hung
-            herself.</character><lb/></p>
+    <p><character gender="female" descrip="rage">Arachne</character>'s spirit, deigning not to
+        brook<lb/> such insult, brooded on it, till she tied<lb/> a cord around her neck, and hung
+        herself.<lb/></p>
 
 
-    <p><character gender="female" descrip="rage">Minerva, moved to pity at the sight,<lb/> sustained
-            and saved her from that bitter death;<lb/> but, angry still, pronounced another
-            doom:</character><lb/>
-        <dia speaker="Minerva" gender="female">“Although I grant you life, most wicked one,<lb/>
-            your fate shall be to dangle on a cord,<lb/> and your posterity forever shall<lb/> take
-            your example, that your punishment<lb/> may last forever!”</dia> Even as she spoke,<lb/>
-        before withdrawing from her victim's sight,<lb/> she sprinkled her with juice—extract of
-        herbs<lb/> of <name>Hecate</name>.<lb/></p>
+    <p><character gender="female" descrip="rage">Minerva</character>, moved to pity at the
+        sight,<lb/> sustained and saved her from that bitter death;<lb/> but, angry still,
+        pronounced another doom:<lb/>
+        <dia speaker="Minerva" gender="female" invo="Arachne">“Although I grant you life, most
+            wicked one,<lb/> your fate shall be to dangle on a cord,<lb/> and your posterity forever
+            shall<lb/> take your example, that your punishment<lb/> may last forever!”</dia> Even as
+        she spoke,<lb/> before withdrawing from her victim's sight,<lb/> she sprinkled her with
+        juice—extract of herbs<lb/> of <name>Hecate</name>.<lb/></p>
 
 
     <p><transform type="physical">At once all hair fell off,<lb/> her nose and ears remained not,

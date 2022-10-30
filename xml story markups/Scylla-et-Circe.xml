@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- -->
+<?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <Story>
 <title>Scylla et Circe.
 SCYLLA TRANSFORMED TO A ROCK</title>
 
 <p>Now the <place>Euboean</place> dweller in great waves,<lb/>
-<character gender = "male">Glaucus,</character> had left behind the crest of <place>Aetna,</place><lb/>
+<character gender = "male">Glaucus,</character> had left behind the crest of <place>Aetna</place>,<lb/>
 raised upward from a giant's head; and left<lb/>
-the <character gender = "male">Cyclops' </character>fields, that never had been torn<lb/>
-by harrow or by plough and never were<lb/>
+the <character gender = "male">Cyclops </character>' fields, that never had been torn<lb/>
+by harrow or by plough and never were<lb/">
 indebted to the toil of oxen yoked;<lb/>
-left <place>Zancle,</place> also, and the opposite walls<lb/>
-of <place>Rhegium,</place> and the sea, abundant cause<lb/>
+left <place>Zancle</place>, also, and the opposite walls<lb/>
+of <place>Rhegium</place>, and the sea, abundant cause<lb/>
 of shipwreck, which confined with double shores<lb/>
 bounds the <place>Ausonian</place> and <place>Sicilian lands.</place><lb/></p>
 
     
-<p>All these behind him, <character gender = "male">Glaucus,</character> swimming on<lb/>
-with his huge hands through those <place>Tyrrhenian seas,</place><lb/>
+<p>All these behind him, <character gender = "male">Glaucus</character>, swimming on<lb/>
+with his huge hands through those <place>Tyrrhenian seas</place>,<lb/>
 drew near the hills so rich in magic herbs<lb/>
 and halls of <character gender = "female">Circe, daughter of the Sun,</character>—<lb/>
 halls filled with men in guise of animals.<lb/>
 After due salutations had been given—<lb/>
-received by her as kindly—,<character gender = "male" descrip ="kind">Glaucus</character> said,<lb/></p>
+received by her as kindly—,<character gender= "male">Glaucus</character> said,<lb/></p>
 
     
-<p><dia speaker = "Glaucus" gender = "male">“You as a goddess, certainly should have<lb/>
+<p><dia speaker = "Glaucus" gender = "male" invo="Circe">“You as a goddess, certainly should have<lb/>
 compassion upon me, a god; for you<lb/>
 alone (if I am worthy of it) can<lb/>
 relieve my passion. What the power of herbs<lb/>
@@ -51,10 +51,10 @@ share, and feel with me my impassioned flame.”</dia><lb/></p>
 <p>But <character gender ="female">Circe</character> was more quick than any other<lb/>
 to burn with passion's flame. It may have been<lb/>
 her nature or it may have been the work<lb/>
-of Venus, angry at her tattling sire.<lb/></p>
+of <name>Venus</name>, angry at her tattling sire.<lb/></p>
 
     
-<p><dia speaker ="Circe" gender="female">“You might do better,” she replied, <desire object="Glaucus" perp="Glaucus">“to court<lb/>
+<p><dia speaker ="Circe" gender="female" invo="Glaucus">“You might do better,” she replied, <desire object="Glaucus" perp="Glaucus">“to court<lb/>
 one who is willing, one who wants your love,<lb/>
 and feels a like desire. You did deserve<lb/>
 to win her love, yes, to be wooed yourself.</desire><lb/>
@@ -78,9 +78,9 @@ the sea-weed sooner grow on mountain tops,<lb/>
 than I shall change my love for graceful! <character gender = "female">Scylla.”</character></dia><lb/></p>
 
     
-<p>The goddess in her jealous rage could not<lb/>
+<p><character gender="female" descrip="jealous">The goddess in her jealous rage could not<lb/>
 and would not injure him, whom she still loved,<lb/>
-but turned her wrath upon the one preferred.<lb/>
+but turned her wrath upon the one preferred.</character><lb/>
 She bruised immediately the many herbs<lb/>
 most infamous for horrid juices, which,<lb/>
 when bruised, she mingled with most artful care<lb/>
@@ -125,12 +125,12 @@ and shaggy backs encircle her shortened loins.<lb/></p>
 
     
 <p>The lover <character gender = "male">Glaucus</character> wept. He fled the embrace<lb/>
-of Circe and her hostile power of herbs<lb/>
-and magic spells. But Scylla did not leave<lb/>
+of <character gender="female">Circe</character> and her hostile power of herbs<lb/>
+and magic spells. But <character gender="female" >Scylla</character> did not leave<lb/>
 the place of her disaster; and, as soon<lb/>
 as she had opportunity, for hate<lb/>
 of <character gender = "female">Circe,</character> she robbed <character gender = "male"></character>Ulysses of his men.<lb/>
-<transform type = "physical">She would have wrecked the Trojan ships, if she<lb/>
+<transform type = "physical" gender="female>She would have wrecked the Trojan ships, if she<lb/>
 had not been changed beforehand to a rock</transform><lb/>
 which to this day reveals a craggy rim.<lb/>
 And even the rock awakes the sailors' dread.<lb/></p>

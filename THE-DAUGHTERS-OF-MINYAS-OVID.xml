@@ -1,74 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
-
-<story>
-    <title>Minyeides. THE DAUGHTERS OF KING MINYAS TRANSFORMED TO BATS</title>
-    <p>
-        <character gender="female">Alcithoe</character>, daughter of <character gender="male">King
-            Minyas</character>,<lb/> consents not to the orgies of the God;<lb/> denies that
-            <name>Bacchus</name> is the son of <name>Jove</name>,<lb/> and her two sisters join her
-        in that crime.<lb/></p>
-
-
-    <p>'Twas festal-day when matrons and their maids,<lb/> keeping it sacred, had forbade all
-        toil.—<lb/> And having draped their bosoms with wild skins,<lb/> they loosed their long hair
-        for the sacred wreaths,<lb/> and took the leafy thyrsus in their hands;—<lb/> for so the
-        priest commanded them. Austere<lb/> the wrath of <name>Bacchus</name> if his power be
-        scorned.<lb/></p>
+<story><title>Minyeides</title>
+<header>THE DAUGHTERS OF KING MINYAS TRANSFORMED TO BATS</header>
+<p>
+<character gender="female">Alcithoe</character>, daughter of <character gender="male">King Minyas</character>,<lb/>
+consents not to the orgies of the God;<lb/>
+denies that <name>Bacchus</name> is the son of <name>Jove</name>,<lb/>
+and her two sisters join her in that crime.<lb/></p>
 
 
-    <p>Mothers and youthful brides obeyed the priest;<lb/> and putting by their wickers and their
-        webs,<lb/> dropt their unfinished toils to offer up<lb/> frankincense to the God; invoking
-        him<lb/> with many names:—<dia gender="female" invo="Gods">“O <name>Bacchus</name>! O
-            Twice-born!<lb/> O Fire-begot! Thou only child Twice-mothered!<lb/> God of all those who
-            plant the luscious grape!<lb/> O <name>Liber</name>!” All these names and many
-            more,<lb/> for ages known—throughout the lands of Greece.</dia><lb/></p>
+<p>'Twas festal-day when matrons and their maids,<lb/>
+keeping it sacred, had forbade all toil.—<lb/>
+And having draped their bosoms with wild skins,<lb/>
+they loosed their long hair for the sacred wreaths,<lb/>
+and took the leafy thyrsus in their hands;—<lb/>
+for so the priest commanded them. Austere<lb/>
+the wrath of <name>Bacchus</name> if his power be scorned.<lb/></p>
 
 
-    <p><dia gender="female" invo="Gods">“Thy youth is not consumed by wasting time;<lb/> and lo,
-            thou art an ever-youthful boy,<lb/> most beautiful of all the Gods of Heaven,<lb/>
-            <character gender="non-binary" descrip="virginal">smooth as a virgin </character>when
-            thy horns are hid.—<lb/> The distant east to tawny India's clime,<lb/> where rolls
-            remotest Ganges to the sea,<lb/> was conquered by thy might.—O Most-revered!<lb/> Thou
-            didst destroy the doubting <name>Pentheus</name>,<lb/> and hurled the sailors' bodies in
-            the deep,<lb/> and smote <name>Lycurgus</name>, wielder of the ax.</dia><lb/></p>
+<p>Mothers and youthful brides obeyed the priest;<lb/>
+and putting by their wickers and their webs,<lb/>
+dropt their unfinished toils to offer up<lb/>
+frankincense to the God; invoking him<lb/>
+with many names:—<dia gender="female" invo="Bacchus">“O <name>Bacchus</name>! O Twice-born!<lb/>
+O Fire-begot! Thou only child Twice-mothered!<lb/>
+God of all those who plant the luscious grape!<lb/>
+O <name>Liber</name>!” All these names and many more,<lb/>
+for ages known—throughout the lands of Greece.</dia><lb/></p>
 
 
-    <p><dia>“And thou dost guide thy lynxes, double-yoked,<lb/> with showy
-                harness.—<name>Satyrs</name> follow thee;<lb/> and <name>Bacchanals</name>, and old
-                <name>Silenus</name>, drunk,<lb/> unsteady on his staff; jolting so rough<lb/> on
-            his small back-bent ass; and all the way<lb/> resounds a youthful clamour; and the
-            screams<lb/> of women! and the noise of tambourines!<lb/> And the hollow cymbals! and
-            the boxwood flutes,—<lb/> fitted with measured holes.—Thou art implored<lb/> by all
-            Ismenian women to appear<lb/> peaceful and mild; and they perform thy
-        rites.”</dia><lb/></p>
+<p><dia gender="female" invo="Bacchus">“Thy youth is not consumed by wasting time;<lb/>
+and lo, thou art an ever-youthful boy,<lb/>
+most beautiful of all the Gods of Heaven,<lb/>
+<character gender="non-binary" descrip="virginal">smooth as a virgin </character>when thy horns are hid.—<lb/>
+The distant east to tawny India's clime,<lb/>
+where rolls remotest Ganges to the sea,<lb/>
+was conquered by thy might.—O Most-revered!<lb/>
+Thou didst destroy the doubting <name>Pentheus</name>,<lb/>
+and hurled the sailors' bodies in the deep,<lb/>
+and smote <name>Lycurgus</name>, wielder of the ax.</dia><lb/></p>
 
 
-    <p>Only the daughters of <character gender="male">King Minyas</character><lb/> are carding wool
-        within their fastened doors,<lb/> or twisting with their thumbs the fleecy yarn,<lb/> or
-        working at the web. So they corrupt<lb/> the sacred festival with needless toil,<lb/>
-        keeping their hand-maids busy at the work.<lb/></p>
+<p><dia gender="female" invo="Bacchus">“And thou dost guide thy lynxes, double-yoked,<lb/>
+with showy harness.—<name>Satyrs</name> follow thee;<lb/>
+and <name>Bacchanals</name>, and old <name>Silenus</name>, drunk,<lb/>
+unsteady on his staff; jolting so rough<lb/>
+on his small back-bent ass; and all the way<lb/>
+resounds a youthful clamour; and the screams<lb/>
+of women! and the noise of tambourines!<lb/>
+And the hollow cymbals! and the boxwood flutes,—<lb/>
+fitted with measured holes.—Thou art implored<lb/>
+by all Ismenian women to appear<lb/>
+peaceful and mild; and they perform thy rites.”</dia><lb/></p>
 
 
-    <p>And one of them, while drawing out the thread<lb/> with nimble thumb, anon began to speak;<lb/>
-        <dia gender="female">“While others loiter and frequent these rites<lb/> fantastic, we the
-            wards of <name>Pallas</name>, much<lb/> to be preferred, by speaking novel thoughts<lb/>
-            may lighten labour. Let us each in turn,<lb/> relate to an attentive audience,<lb/> a
-            novel tale; and so the hours may glide.”</dia><lb/> it pleased her sisters, and they
-        ordered her<lb/> to tell the story that she loved the most.<lb/></p>
+<p>Only the daughters of <character gender="male">King Minyas</character><lb/>
+are carding wool within their fastened doors,<lb/>
+or twisting with their thumbs the fleecy yarn,<lb/>
+or working at the web. So they corrupt<lb/>
+the sacred festival with needless toil,<lb/>
+keeping their hand-maids busy at the work.<lb/></p>
 
 
-    <p>So, as she counted in her well-stored mind<lb/> the many tales she knew, first doubted
-        she<lb/> whether to tell the tale of <name>Derceto</name>,—<lb/> that Babylonian, who, aver
-        the tribes<lb/> of <place>Palestine</place>, in limpid ponds yet lives,—<lb/>
-        <transform gender="female" type="physical">her body changed, and scales upon her
-            limbs</transform>;<lb/> or how her daughter, <transform gender="female" type="physical"
-            >having taken wings</transform>,<lb/> passed her declining years in whitened
-        towers.<lb/> Or should she tell of <name>Nais</name>, who with herbs,<lb/> too potent, into
-        fishes had transformed<lb/> the bodies of her lovers, till she met<lb/> herself the same sad
-        fate; or of that tree<lb/> which sometime bore white fruit, but now is changed<lb/> and
-        darkened by the blood that stained its roots.—<lb/> Pleased with the novelty of this, at
-        once<lb/> she tells the tale of <name>Pyramus</name> and <name>Thisbe</name>;—<lb/> and
-        swiftly as she told it unto them,<lb/> the fleecy wool was twisted into threads.<lb/></p>
-</story>
+<p>And one of them, while drawing out the thread<lb/>
+with nimble thumb, anon began to speak;<lb/>
+<dia gender="female">“While others loiter and frequent these rites<lb/>
+fantastic, we the wards of <name>Pallas</name>, much<lb/>
+to be preferred, by speaking novel thoughts<lb/>
+may lighten labour. Let us each in turn,<lb/>
+relate to an attentive audience,<lb/>
+a novel tale; and so the hours may glide.”</dia><lb/>
+it pleased her sisters, and they ordered her<lb/>
+to tell the story that she loved the most.<lb/></p>
+
+
+<p>So, as she counted in her well-stored mind<lb/>
+the many tales she knew, first doubted she<lb/>
+whether to tell the tale of <name>Derceto</name>,—<lb/>
+that Babylonian, who, aver the tribes<lb/>
+of <place>Palestine</place>, in limpid ponds yet lives,—<lb/>
+<transform gender="female" type="physical">her body changed, and scales upon her limbs</transform>;<lb/>
+or how her daughter, <transform gender="female" type="physical">having taken wings</transform>,<lb/>
+passed her declining years in whitened towers.<lb/>
+Or should she tell of <name>Nais</name>, who with herbs,<lb/>
+too potent, into fishes had transformed<lb/>
+the bodies of her lovers, till she met<lb/>
+herself the same sad fate; or of that tree<lb/>
+which sometime bore white fruit, but now is changed<lb/>
+and darkened by the blood that stained its roots.—<lb/>
+Pleased with the novelty of this, at once<lb/>
+she tells the tale of <name>Pyramus</name> and <name>Thisbe</name>;—<lb/>
+and swiftly as she told it unto them,<lb/>
+the fleecy wool was twisted into threads.<lb/></p></story>

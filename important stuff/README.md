@@ -7,5 +7,3 @@ Here is our official *repo* for our project!
 
 ## Problems to consider:
 - What constitutes a divine figure? God, demigod, titan?
-
-## Going great!
