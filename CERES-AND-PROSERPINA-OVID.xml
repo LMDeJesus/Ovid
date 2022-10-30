@@ -4,11 +4,11 @@
 <story>
     <title>Ceres et Proserpina CALLIOPE SINGS OF CERES, PLUTO AND PROSERPINE</title>
 
-    <p>First <character descrip="matronly" gender="female">Ceres</character> broke with crooked
+    <p>First <character descrip="matronly" gender="female">Ceres broke with crooked
         plow the glebe;<lb/> first gave to earth its fruit and wholesome food;<lb/> first gave the
-        laws;—all things of <character descrip="matronly" gender="female">Ceres</character>
+        laws;—all things of <name>Ceres</name>
         came;<lb/> of her I sing; and oh, that I could tell<lb/> her worth in verse; in verse her
-        worth is due.<lb/></p>
+        worth is due.</character><lb/></p>
 
 
     <p>Because he dared to covet heavenly thrones<lb/>
@@ -47,10 +47,10 @@
 
     <p><dia speaker="Venus" gender="female" invo="Cupid">‘How shameful is our present lot in Heaven,<lb/> the
             powers of love and I alike despised;<lb/> for, mark how <name>Pallas</name> has
-            renounced my sway,<lb/> besides <name>Diana</name>, javelin-hurler—so<lb/> will
-                <character descrip="matronly" gender="female">Ceres</character>' daughter choose
+        renounced my sway,<lb/> besides <name>Diana</name>, javelin-hurler—so<lb/> <character gender="female" descrip="virginal">will
+                <name>Ceres</name>' daughter choose
             virginity,<lb/> if we permit,—that way her hopes incline.<lb/> Do thou this goddess
-                <character gender="female" descrip="virginal">Proserpine</character>, unite<lb/> in
+               Proserpine</character>, unite<lb/> in
             marriage to her uncle. </dia><name>Venus</name> spoke;—<lb/></p>
 
 
@@ -68,9 +68,9 @@
         humid ground is sprent<lb/> with purpling flowers, and spring eternal reigns.<lb/></p>
 
 
-    <p>While <character gender="female" descrip="virginal">Proserpine</character> once dallied in
+    <p>While <character gender="female" descrip="virginal">Proserpine once dallied in
         that grove,<lb/> plucking white lilies and sweet violets,<lb/> and while she heaped her
-        basket, while she filled<lb/> her bosom, in a pretty zeal to strive<lb/> beyond all others;
+        basket, while she filled<lb/> her bosom, in a pretty zeal to strive<lb/> beyond all others</character>;
             <desire object="Proserpine" perp="Pluto">she was seen, beloved,<lb/> and carried off by
             Pluto—such the haste<lb/> of sudden love.</desire>
         <lb/></p>
@@ -92,14 +92,13 @@
 
 
     <p>Midway between the streams of <place>Cyane</place><lb/> and <place>Arethusa</place> lies a
-        moon-like pool,<lb/> of silvered narrow horns. There stood the <character gender="female"
-            descrip="virginal">Nymph</character>,<lb/> revered above all others in that land,<lb/>
+        moon-like pool,<lb/> of silvered narrow horns. There stood the Nymph,<lb/> revered above all others in that land,<lb/>
         whose name was <name>Cyane</name>. From her that pond<lb/> was always called. And as she
         stood, concealed<lb/> in middle waves that circled her white thighs,<lb/> she recognized the
         God, and said; <dia speaker="Cyane" gender="female" invo="Pluto">‘O thou<lb/> shalt go no further,
                 <name>Pluto</name>, thou shalt not<lb/> by force alone become the son-in-law<lb/> of
-                <character descrip="matronly" gender="female">Ceres</character>. It is better to
-            beseech<lb/> a mother's aid than drag her child away!<lb/> And this sustains my word, if
+                <character descrip="matronly" gender="female">Ceres. It is better to
+            beseech<lb/> a mother's aid than drag her child away!</character><lb/> And this sustains my word, if
             I may thus<lb/> compare great things with small, <name>Anapis</name> loved<lb/> me also;
             but he wooed and married me<lb/> by kind endearments; not by fear, as thou<lb/> hast
             terrified this girl.’</dia> So did she speak;<lb/>
@@ -128,9 +127,9 @@
             blood—<lb/> and nothing that a hand could hold remained.</transform><lb/></p>
 
 
-    <p>Now it befell when <character gender="female" descrip="virginal">Proserpine</character> was
+    <p>Now it befell when <character gender="female" descrip="virginal">Proserpine was
         lost,<lb/> her anxious mother sought through every land<lb/> and every sea in vain. She
-        rested not.<lb/>
+        rested not.</character>lb/>
         <name>Aurora</name>, when she came with ruddy locks,<lb/> might never know, nor even
             <name>Hesperus</name>,<lb/> if she might deign to rest.—She lit two pines<lb/> from
             <name>Aetna</name>'s flames and held one in each hand,<lb/> and restless bore them
@@ -158,17 +157,15 @@
         coloured spots.<lb/></p>
 
 
-    <p>What lands, what oceans <character descrip="matronly" gender="female">Ceres</character>
+    <p>What lands, what oceans <character descrip="matronly" gender="female">Ceres
         wandered then,<lb/> would weary to relate. The bounded world<lb/> was narrow for the search.
         Again she passed<lb/> through <place>Sicily</place>; again observed all signs;<lb/> and as
-        she wandered came to <name>Cyane</name>,<lb/> who strove to tell where <character
-            gender="female" descrip="virginal">Proserpine</character> had gone,<lb/> but since her
-        change, had neither mouth nor tongue,<lb/> and so was mute. And yet the <character
-            gender="female" descrip="virginal">Nymph</character> made plain<lb/> by certain signs
+        she wandered came to <name>Cyane</name>,<lb/> who strove to tell where Proserpine had gone,<lb/> but since her
+        change, had neither mouth nor tongue,<lb/> and so was mute.</character> And yet the Nymph made plain<lb/> by certain signs
         what she desired to say:<lb/> for on the surface of the waves she showed<lb/> a well-known
-        girdle <character gender="female" descrip="virginal">Proserpine</character> had lost,<lb/>
+        girdle <character gender="female" descrip="virginal">Proserpine had lost,<lb/>
         by chance had dropped it in that sacred pool;<lb/> which when the goddess recognized, at
-        last,<lb/> convinced her daughter had been forced from her,<lb/>
+        last,<lb/> convinced her daughter had been forced from her,</character><lb/>
         <character gender="female" descrip="rage">she tore her streaming locks, and frenzied
             struck<lb/> her bosom with her palms. And in her rage,<lb/> although she wist not where
             her daughter was,<lb/> she blamed all countries and cried out against<lb/> their base
@@ -188,10 +185,10 @@
 
 
 
-    <p>“For this the <character gender="female" descrip="virginal">Nymph</character>,
-            <name>Alpheian</name>, raised her head<lb/> above <place>Elean</place> waves; and having
+    <p>“For this the <character gender="female" descrip="virginal">Nymph,
+            <name>Alpheian</name>, raised her head<lb/> above Elean waves; and having
         first<lb/> pushed back her dripping tresses from her brows,<lb/> back to her ears, she thus
-        began to speak;<lb/>
+        began to speak;<lb/></character>
         <dia speaker="Arethusa" gender="female" invo="Ceres">‘O mother of the virgin, sought throughout<lb/> the
             globe! O mother of nutritious fruits!<lb/> Let these tremendous labours have an
             end;<lb/> do not increase the violence of thy wrath<lb/> against the Earth, devoted to
@@ -213,15 +210,15 @@
     <p><dia speaker="Arethusa" gender="female" invo="Ceres">‘Through the porous earth<lb/> by deepest caverns, I
             uplift my head<lb/> and see unwonted stars. Now it befell,<lb/> as I was gliding far
             beneath the world,<lb/> where flow dark Stygian streams, I saw<lb/> thy <character
-                gender="female" descrip="virginal">Proserpine</character>. Although her
+                gender="female" descrip="virginal">Proserpine. Although her
             countenance<lb/> betrayed anxiety and grief, a queen She reigned<lb/> supremely great in
-            that opacous world<lb/> queen consort mighty to the King of Hell.’</dia><lb/></p>
+            that opacous world<lb/> queen consort mighty to the King of Hell.’</character></dia><lb/></p>
 
     <p>Astonished and amazed, as thunderstruck,<lb/> when <character gender="female" descrip="rage"
-            >Proserpina's mother</character> heard these words,<lb/> long while she stood till great
+            >Proserpina's mother heard these words,<lb/> long while she stood till great
         bewilderment<lb/> gave way to heavy grief. Then to the skies,<lb/> ethereal, she mounted in
         her car<lb/> and with beclouded face and streaming hair<lb/> stood fronting
-            <name>Jove</name>, opprobrious. <dia speaker="Ceres" gender="female">‘I have come<lb/> O
+            <name>Jove</name>, opprobrious.</character> <dia speaker="Ceres" gender="female">‘I have come<lb/> O
                 <name>Jupiter</name>, a suppliant to thee,<lb/> both for my own offspring as well as
             thine.<lb/> If thy hard heart deny a mother grace,<lb/> yet haply as a father thou canst
             feel<lb/> some pity for thy daughter; and I pray<lb/> thy care for her may not be valued
@@ -240,10 +237,10 @@
             for though all else were wanting, naught can need<lb/>
             <name>Jove</name>'s brother, who in fortune yields to none<lb/> save me. But if thy
             fixed desire compel<lb/> dissent, let <character gender="female" descrip="virginal"
-                >Proserpine</character> return to Heaven;<lb/> however, subject to the binding
+                >Proserpine return to Heaven;<lb/> however, subject to the binding
             law,<lb/> if there her tongue have never tasted food—<lb/> a sure condition, by the
-            Fates decreed.’</dia><lb/> he spoke; but <character descrip="protector" gender="female"
-            >Ceres</character> was no less resolved<lb/> to lead her daughter thence.<lb/></p>
+            Fates decreed.’</character></dia><lb/> he spoke; but <character descrip="protector" gender="female"
+            >Ceres was no less resolved<lb/> to lead her daughter thence.</character><lb/></p>
 
 
     <p>“Not so the Fates<lb/> permit.—<character gender="female" descrip="virginal">The virgin,
@@ -252,12 +249,11 @@
         fruit<lb/> by bending a pomegranate tree, and plucked,<lb/> and chewed seven grains, picked
         from the pallid rind;<lb/> and none had seen except <name>Ascalaphus</name>—<lb/> him
             <name>Orphne</name>, famed of all Avernian
-        <character gender="female" descrip="virginal">Nymphs</character>,<lb/> had brought to birth
+        Nymphs,<lb/> had brought to birth
         in some infernal cave,<lb/> days long ago, from <name>Acheron</name>'s embrace—<lb/> he saw
-        it, and with cruel lips debarred<lb/> young <character gender="female" descrip="virginal"
-            >Proserpine</character>'s return. Heaving a sigh,<lb/> the <name>Queen of Erebus</name>,
+        it, <character gender="female" descrip="virginal">and with cruel lips debarred<lb/> young Proserpine's return. Heaving a sigh,<lb/> the <name>Queen of Erebus</name>,
         indignant changed<lb/> that witness to an evil bird: she turned<lb/> his head, with
-        sprinkled <name>Phlegethonian</name> lymph,<lb/>
+        sprinkled <name>Phlegethonian</name> lymph,<lb/></character>
         <transform type="physical" gender="male">into a beak, and feathers, and great eyes;<lb/> his head grew
             larger and his shape, deformed,<lb/> was cased in tawny wings; his lengthened nails<lb/>
             bent inward;—and his sluggish arms<lb/> as wings can hardly move. So he became<lb/> the
@@ -266,12 +262,12 @@
 
 
     <p>The telltale's punishment was only just;<lb/> O <character gender="female"
-            descrip="virginal">Siren Maids</character>, but wherefore thus have ye<lb/> the feet and
-        plumes of birds, although remain<lb/> your virgin features? Is it from the day<lb/> when
-            <character gender="female" descrip="virginal">Proserpina</character> gathered vernal
+            descrip="virginal">Siren Maids but wherefore thus have ye<lb/> the feet and
+        plumes of birds, although remain<lb/> your virgin features?</character>Is it from the day<lb/> when
+            <character gender="female" descrip="virginal">Proserpina gathered vernal
         flowers;<lb/> because ye mingled with her chosen friends?<lb/> And after she was lost, in
         vain ye sought<lb/> through all the world; and wished for wings to waft<lb/> you over the
-        great deep, that soon the sea<lb/> might feel your great concern.—The Gods were kind:<lb/>
+                great deep, that soon the sea<lb/> might feel your great concern.—The Gods were kind:</character><lb/>
         <transform type="physical" gender="male">ye saw your limbs grow yellow, with a growth<lb/> of
             sudden-sprouting feathers</transform>; but because<lb/> your melodies that gently charm
         the ear,<lb/> besides the <character gender="female" descrip="virginal">glory of your
@@ -281,7 +277,7 @@
 
     <p>“But <name>Jupiter</name>,<lb/> the mediator of these rival claims,<lb/> urged by his brother
         and his grieving sister,<lb/> divided the long year in equal parts.<lb/> Now <character
-            gender="female" descrip="virginal">Proserpina</character>, <transform type="social" gender="female">as a
+            gender="female">Proserpina</character>, <transform type="social" gender="female">as a
             Deity</transform>,<lb/> of equal merit, in two kingdoms reigns:—<lb/> for six months
         with her mother she abides,<lb/> and six months with her husband.—<transform type="physical"
             >Both her mind<lb/> and her appearance quickly were transformed</transform>;<lb/> for
