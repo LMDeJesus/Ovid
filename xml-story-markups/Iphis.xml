@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important%20stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
-<story>
-    <title>Iphis.
-IPHIS AND IANTHE</title>
+<story><title>Iphis.</title>
+<header>IPHIS AND IANTHE</header>
 
 <p>The tale of this unholy passion would<lb/>
 perhaps, have filled <place>Crete</place>'s hundred cities then,<lb/>
