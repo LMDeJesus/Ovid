@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+
+<!--For some reason the place element was not working, so there are places in this text unlabeled rn
+also the whole text is a narrator dialogue but i was unable to tag that as well-->
+
+<story>
+    <title>Ceres et Proserpina CALLIOPE SINGS OF CERES, PLUTO AND PROSERPINE</title>
+
+    <p>“First <character descrip="protector" gender="female">Ceres</character> broke with crooked
+        plow the glebe;<lb/> first gave to earth its fruit and wholesome food;<lb/> first gave the
+        laws;—all things of <character descrip="protector" gender="female">Ceres</character>
+        came;<lb/> of her I sing; and oh, that I could tell<lb/> her worth in verse; in verse her
+        worth is due.<lb/></p>
+
+
+    <p>“Because he dared to covet heavenly thrones<lb/>
+        <name>Typhoeus</name>, giant limbs are weighted down<lb/> beneath <place>Sicilia's
+            Isle</place>—vast in extent—<lb/> how often thence he strains and strives to rise?<lb/>
+        But his right hand <name>Pachynus</name> holds; his legs are pressed<lb/> by
+            <place>Lilybaeus</place>, <name>Aetna</name> weights his head.<lb/> Beneath that
+        ponderous mass <name>Typhoeus</name> lies,<lb/> flat on his back; and spues the sands on
+        high;<lb/> and vomits flames from his ferocious mouth.<lb/> He often strives to push the
+        earth away,<lb/> the cities and the mountains from his limbs—<lb/> by which the lands are
+        shaken. Even the king,<lb/> that rules the silent shades is made to quake,<lb/> for fear the
+        earth may open and the ground,<lb/> cleft in wide chasms, letting in the day,<lb/> may
+        terrify the trembling ghosts. Afraid<lb/> of this disaster, that dark despot left<lb/> his
+        gloomy habitation; carried forth<lb/> by soot-black horses, in his gloomy car.<lb/></p>
+
+
+    <p>“He circumspectly viewed <place>Sicilia</place>'s vast<lb/> foundations.—Having well explored
+        and proved<lb/> no part was shattered; having laid aside<lb/> his careful fears, he wandered
+        in those parts.<lb/></p>
+
+
+    <p>“Him, <name>Venus</name>, <name>Erycina</name>, in her mount<lb/> thus witnessed, and
+        embraced her winged son,<lb/> and said, <dia speaker="Venus" gender="female">‘O
+                <name>Cupid</name>! thou who art my son—<lb/> my arms, my hand, my strength; take up
+            those arms,<lb/> by which thou art victorious over all,<lb/> and aim thy keenest arrow
+            at the heart<lb/> of that divinity whom fortune gave<lb/> the last award, what time the
+            triple realm,<lb/> by lot was portioned out.</dia><lb/></p>
+
+
+    <p><dia speaker="Venus" gender="female">‘The Gods of Heaven<lb/> are overcome by thee; and
+                <name>Jupiter</name>,<lb/> and all the Deities that swim the deep,<lb/> and the
+            great ruler of the Water-Gods:<lb/> why, then, should <name>Tartarus</name> escape our
+            sway—<lb/> the third part of the universe at stake—<lb/> by which thy mother's empire
+            and thy own<lb/> may be enlarged according to great need.</dia><lb/></p>
+
+
+    <p><dia speaker="Venus" gender="female">‘How shameful is our present lot in Heaven,<lb/> the
+            powers of love and I alike despised;<lb/> for, mark how <name>Pallas</name> has
+            renounced my sway,<lb/> besides <name>Diana</name>, javelin-hurler—so<lb/> will
+                <character descrip="protector" gender="female">Ceres</character>' daughter choose
+            virginity,<lb/> if we permit,—that way her hopes incline.<lb/> Do thou this goddess
+                <character gender="female" descrip="virginal">Proserpine</character>, unite<lb/> in
+            marriage to her uncle. </dia><name>Venus</name> spoke;—<lb/></p>
+
+
+    <p>“<name>Cupid</name> then loosed his quiver, and of all<lb/> its many arrows, by his mother's
+        aid,<lb/> selected one; the keenest of them all;<lb/> the least uncertain, surest from the
+        string:<lb/> and having fixed his knee against the bow,<lb/> bent back the flexile horn.—The
+        flying shaft<lb/> struck <name>Pluto</name> in the breast.<lb/></p>
+
+
+    <p>“There is a lake<lb/> of greatest depth, not far from <place>Henna</place>'s walls,<lb/> long
+        since called <place>Pergus</place>; and the songs of swans,<lb/> that wake
+            <place>Cayster</place>, rival not the notes<lb/> of swans melodious on its gliding
+        waves:<lb/> a fringe of trees, encircling as a wreath<lb/> its compassed waters, with a
+        leafy veil<lb/> denies the heat of noon; cool breezes blow<lb/> beneath the boughs; the
+        humid ground is sprent<lb/> with purpling flowers, and spring eternal reigns.<lb/></p>
+
+
+    <p>“While <character gender="female" descrip="virginal">Proserpine</character> once dallied in
+        that grove,<lb/> plucking white lilies and sweet violets,<lb/> and while she heaped her
+        basket, while she filled<lb/> her bosom, in a pretty zeal to strive<lb/> beyond all others;
+            <desire object="Proserpine" perp="Pluto">she was seen, beloved,<lb/> and carried off by
+            Pluto—such the haste<lb/> of sudden love.</desire>
+        <lb/></p>
+
+    <p>“The goddess, in great fear,<lb/> called on her mother and on all her friends;<lb/> and, in
+        her frenzy, as her robe was rent,<lb/> down from the upper edge, her gathered flowers<lb/>
+        fell from her loosened tunic.—<character gender="female" descrip="virginal">This
+            mishap,<lb/> so perfect was her childish innocence,<lb/> increased her virgin
+            grief.</character>—<lb/></p>
+
+
+    <p>“The ravisher<lb/> urged on his chariot, and inspired his steeds;<lb/> called each by name,
+        and on their necks and manes<lb/> shook the black-rusted reins. They hastened through<lb/>
+        deep lakes, and through the pools of <place>Palici</place>,<lb/> which boiling upward from
+        the ruptured earth<lb/> smell of strong sulphur. And they bore him thence<lb/> to where the
+        sons of <name>Bacchus</name>, who had sailed<lb/> from twin-sea <place>Corinth</place>, long
+        ago had built<lb/> a city's walls between unequal ports.<lb/></p>
+
+
+
+    <p>“Midway between the streams of <place>Cyane</place><lb/> and <place>Arethusa</place> lies a
+        moon-like pool,<lb/> of silvered narrow horns. There stood the <character gender="female"
+            descrip="virginal">Nymph</character>,<lb/> revered above all others in that land,<lb/>
+        whose name was <name>Cyane</name>. From her that pond<lb/> was always called. And as she
+        stood, concealed<lb/> in middle waves that circled her white thighs,<lb/> she recognized the
+        God, and said; <dia speaker="Cyane" gender="female">‘O thou<lb/> shalt go no further,
+                <name>Pluto</name>, thou shalt not<lb/> by force alone become the son-in-law<lb/> of
+                <character descrip="protector" gender="female">Ceres</character>. It is better to
+            beseech<lb/> a mother's aid than drag her child away!<lb/> And this sustains my word, if
+            I may thus<lb/> compare great things with small, <name>Anapis</name> loved<lb/> me also;
+            but he wooed and married me<lb/> by kind endearments; not by fear, as thou<lb/> hast
+            terrified this girl.’</dia> So did she speak;<lb/>
+        <character gender="female" descrip="protector">and stretching out her arms on either
+            side<lb/> opposed his way.</character><lb/></p>
+
+
+    <p>“The son of <name>Saturn</name> blazed<lb/>
+        <character gender="male" descrip="rage">with uncontrolled rage; and urged his steeds,<lb/>
+            and hurled his royal scepter in the pool.<lb/> Cast with a mighty arm it pierced the
+            deeps.<lb/></character> The smitten earth made way to <place>Tartarus</place>;—<lb/> it
+        opened a wide basin and received<lb/> the plunging chariot in the midst.—But now<lb/> the
+        mournful <name>Cyane</name> began to grieve,<lb/> because from her against her
+        fountain-rights<lb/> the goddess had been torn. <transform type="physical" gender="female"
+            >The deepening wound<lb/> still rankled in her breast, and she dissolved<lb/> in many
+            tears, and wasted in those waves<lb/> which lately were submissive to her
+            rule.</transform><lb/></p>
+
+
+    <p><transform type="physical" gender="female">“So you could see her members waste away:<lb/> her
+            hones begin to bend; her nails get soft;<lb/> her azure hair, her fingers, legs and
+            feet,<lb/> and every slender part melt in the pool:<lb/> so brief the time in which her
+            tender limbs<lb/> were changed to flowing waves; and after them<lb/> her back and
+            shoulders, and her sides and breasts<lb/> dissolved and vanished into rivulets:<lb/> and
+            while she changed, the water slowly filled<lb/> her faulty veins instead of living
+            blood—<lb/> and nothing that a hand could hold remained.</transform><lb/></p>
+
+
+    <p>“Now it befell when <character gender="female" descrip="virginal">Proserpine</character> was
+        lost,<lb/> her anxious mother sought through every land<lb/> and every sea in vain. She
+        rested not.<lb/>
+        <name>Aurora</name>, when she came with ruddy locks,<lb/> might never know, nor even
+            <name>Hesperus</name>,<lb/> if she might deign to rest.—She lit two pines<lb/> from
+            <name>Aetna</name>'s flames and held one in each hand,<lb/> and restless bore them
+        through the frosty glooms:<lb/> and when serene the day had dimmed the stars<lb/> she sought
+        her daughter by the rising sun;<lb/> and when the sun declined she rested not.<lb/></p>
+
+
+    <p>“Wearied with labour she began to thirst,<lb/> for all this while no streams had cooled her
+        lips;<lb/> when, as by chance, a cottage thatched with straw<lb/> gladdened her sight.
+        Thither the goddess went,<lb/> and, after knocking at the humble door,<lb/> waited until an
+        ancient woman came;<lb/> who, when she saw the goddess and had heard<lb/> her plea for
+        water, gave her a sweet drink,<lb/> but lately brewed of parched barley-meal;<lb/> and while
+        the goddess quaffed this drink a boy,<lb/> of bold and hard appearance, stood before<lb/>
+        and laughed and called her greedy. <character gender="female" descrip="rage">While he
+            spoke<lb/> the angry goddess sprinkled him with meal,<lb/> mixed with the liquid which
+            had not been drunk.</character><lb/></p>
+
+
+    <p><transform type="physical" gender="male">“His face grew spotted where the mixture
+            struck,<lb/> and legs appeared where he had arms before,<lb/> a tail was added to his
+            changing trunk;<lb/> and lest his former strength might cause great harm,<lb/> all parts
+            contracted till he measured less<lb/> than common lizards.</transform> While the ancient
+        dame<lb/> wondered and wept and strove for one caress,<lb/> the reptile fled and sought a
+        lurking place.—<lb/> His very name describes him to the eye,<lb/> a body starred with many
+        coloured spots.<lb/></p>
+
+
+    <p>"What lands, what oceans <character descrip="protector" gender="female">Ceres</character>
+        wandered then,<lb/> would weary to relate. The bounded world<lb/> was narrow for the search.
+        Again she passed<lb/> through <place>Sicily</place>; again observed all signs;<lb/> and as
+        she wandered came to <name>Cyane</name>,<lb/> who strove to tell where <character
+            gender="female" descrip="virginal">Proserpine</character> had gone,<lb/> but since her
+        change, had neither mouth nor tongue,<lb/> and so was mute. And yet the <character
+            gender="female" descrip="virginal">Nymph</character> made plain<lb/> by certain signs
+        what she desired to say:<lb/> for on the surface of the waves she showed<lb/> a well-known
+        girdle <character gender="female" descrip="virginal">Proserpine</character> had lost,<lb/>
+        by chance had dropped it in that sacred pool;<lb/> which when the goddess recognized, at
+        last,<lb/> convinced her daughter had been forced from her,<lb/>
+        <character gender="female" descrip="rage">she tore her streaming locks, and frenzied
+            struck<lb/> her bosom with her palms. And in her rage,<lb/> although she wist not where
+            her daughter was,<lb/> she blamed all countries and cried out against<lb/> their base
+            ingratitude; and she declared<lb/> the world unworthy of the gift of corn:<lb/> but
+            Sicily before all other lands,<lb/> for there was found the token of her
+            loss.</character><lb/></p>
+
+
+    <p><character gender="female" descrip="rage">“For that she broke with savage hand the
+            plows,<lb/> which there had turned the soil, and full of wrath<lb/> leveled in equal
+            death the peasant and his ox—<lb/> both tillers of the soil—and made decree<lb/> that
+            land should prove deceptive to the seed,<lb/> and rot all planted germs.—That fertile
+            isle,<lb/> so noted through the world, becomes a waste;<lb/> the corn is blighted in the
+            early blade;<lb/> excessive heat, excessive rain destroys;<lb/> the winds destroy, the
+            constellations harm;<lb/> the greedy birds devour the scattered seeds;<lb/> thistles and
+            tares and tough weeds choke the wheat.</character><lb/></p>
+
+
+
+    <p>“For this the <character gender="female" descrip="virginal">Nymph</character>,
+            <name>Alpheian</name>, raised her head<lb/> above <place>Elean</place> waves; and having
+        first<lb/> pushed back her dripping tresses from her brows,<lb/> back to her ears, she thus
+        began to speak;<lb/>
+        <dia speaker="Arethusa" gender="female">‘O mother of the virgin, sought throughout<lb/> the
+            globe! O mother of nutritious fruits!<lb/> Let these tremendous labours have an
+            end;<lb/> do not increase the violence of thy wrath<lb/> against the Earth, devoted to
+            thy sway,<lb/> and not deserving blame; for only force<lb/> compelled the Earth to open
+            for that wrong.<lb/> Think not my supplication is to aid<lb/> my native country; hither
+            I am come<lb/> an alien: Pisa is my native land,<lb/> and Elis gave me birth. Though I
+            sojourn<lb/> a stranger in this isle of Sicily<lb/> it yet delights me more than all the
+            world.</dia><lb/></p>
+
+
+    <p><dia speaker="Arethusa" gender="female">‘I, <name>Arethusa</name>, claim this isle my
+            home,<lb/> and do implore thee keep my throne secure,<lb/> O greatest of the Gods! A
+            better hour,<lb/> when thou art lightened of thy cares, will come,<lb/> and when thy
+            countenance again is kind;<lb/> and then may I declare what cause removed<lb/> me from
+            my native place—and through the waves<lb/> of such a mighty ocean guided me<lb/> to find
+            Ortygia.</dia><lb/></p>
+
+
+    <p><dia speaker="Arethusa" gender="female">‘Through the porous earth<lb/> by deepest caverns, I
+            uplift my head<lb/> and see unwonted stars. Now it befell,<lb/> as I was gliding far
+            beneath the world,<lb/> where flow dark Stygian streams, I saw<lb/> thy <character
+                gender="female" descrip="matronly">Proserpine</character>. Although her
+            countenance<lb/> betrayed anxiety and grief, a queen She reigned<lb/> supremely great in
+            that opacous world<lb/> queen consort mighty to the King of Hell.’</dia><lb/></p>
+
+    <p>“Astonished and amazed, as thunderstruck,<lb/> when <character gender="female" descrip="rage"
+            >Proserpina's mother</character> heard these words,<lb/> long while she stood till great
+        bewilderment<lb/> gave way to heavy grief. Then to the skies,<lb/> ethereal, she mounted in
+        her car<lb/> and with beclouded face and streaming hair<lb/> stood fronting
+            <name>Jove</name>, opprobrious. <dia speaker="Ceres" gender="female">‘I have come<lb/> O
+                <name>Jupiter</name>, a suppliant to thee,<lb/> both for my own offspring as well as
+            thine.<lb/> If thy hard heart deny a mother grace,<lb/> yet haply as a father thou canst
+            feel<lb/> some pity for thy daughter; and I pray<lb/> thy care for her may not be valued
+            less<lb/> because my groaning travail brought her forth.—<lb/> My long-sought daughter
+            has at last been found,<lb/> if one can call it, found, when certain loss<lb/> more
+            certain has been proved; or so may deem<lb/> the knowledge of her state.—But I may
+            bear<lb/> his rude ways, if again he bring her back.</dia><lb/></p>
+
+
+    <p><dia speaker="Ceres" gender="female">‘Thy worthy child should not be forced to wed<lb/> a
+            bandit-chief, nor should my daughter's charms<lb/> reward his crime.’</dia> She
+        spoke;—and <name>Jupiter</name><lb/> took up the word; <dia speaker="Jupiter" gender="male"
+            >‘This daughter is a care,<lb/> a sacred pledge to me as well as thee;<lb/> but if it
+            please us to acknowledge truth,<lb/> this is a deed of love and injures not.<lb/> And
+            if, O goddess, thou wilt not oppose,<lb/> such law-son cannot compass our disgrace:<lb/>
+            for though all else were wanting, naught can need<lb/>
+            <name>Jove</name>'s brother, who in fortune yields to none<lb/> save me. But if thy
+            fixed desire compel<lb/> dissent, let <character gender="female" descrip="virginal"
+                >Proserpine</character> return to Heaven;<lb/> however, subject to the binding
+            law,<lb/> if there her tongue have never tasted food—<lb/> a sure condition, by the
+            Fates decreed.’</dia><lb/> he spoke; but <character descrip="protector" gender="female"
+            >Ceres</character> was no less resolved<lb/> to lead her daughter thence.<lb/></p>
+
+
+    <p>“Not so the Fates<lb/> permit.—<character gender="female" descrip="virginal">The virgin,
+            thoughtless while she strayed</character><lb/> among the cultivated
+            <place>Stygian</place> fields,<lb/> had broken fast. While there she plucked the
+        fruit<lb/> by bending a pomegranate tree, and plucked,<lb/> and chewed seven grains, picked
+        from the pallid rind;<lb/> and none had seen except <name>Ascalaphus</name>—<lb/> him
+            <name>Orphne</name>, famed of all <name>Avernian</name>
+        <character gender="female" descrip="virginal">Nymphs</character>,<lb/> had brought to birth
+        in some infernal cave,<lb/> days long ago, from <name>Acheron</name>'s embrace—<lb/> he saw
+        it, and with cruel lips debarred<lb/> young <character gender="female" descrip="virginal"
+            >Proserpine</character>'s return. Heaving a sigh,<lb/> the <name>Queen of Erebus</name>,
+        indignant changed<lb/> that witness to an evil bird: she turned<lb/> his head, with
+        sprinkled <name>Phlegethonian</name> lymph,<lb/>
+        <transform type="physical">into a beak, and feathers, and great eyes;<lb/> his head grew
+            larger and his shape, deformed,<lb/> was cased in tawny wings; his lengthened nails<lb/>
+            bent inward;—and his sluggish arms<lb/> as wings can hardly move. So he became<lb/> the
+            vilest bird; a messenger of grief;<lb/> the lazy owl; sad omen to
+        mankind.</transform><lb/></p>
+
+
+    <p>“The telltale's punishment was only just;<lb/> O <character gender="female"
+            descrip="virginal">Siren Maids</character>, but wherefore thus have ye<lb/> the feet and
+        plumes of birds, although remain<lb/> your virgin features? Is it from the day<lb/> when
+            <character gender="female" descrip="virginal">Proserpina</character> gathered vernal
+        flowers;<lb/> because ye mingled with her chosen friends?<lb/> And after she was lost, in
+        vain ye sought<lb/> through all the world; and wished for wings to waft<lb/> you over the
+        great deep, that soon the sea<lb/> might feel your great concern.—The Gods were kind:<lb/>
+        <transform type="physical">ye saw your limbs grow yellow, with a growth<lb/> of
+            sudden-sprouting feathers</transform>; but because<lb/> your melodies that gently charm
+        the ear,<lb/> besides the <character gender="female" descrip="virginal">glory of your
+            speech, might lose<lb/> the blessing, of a tongue, your virgin face<lb/> and human voice
+            remained.</character><lb/></p>
+
+
+    <p>“But <name>Jupiter</name>,<lb/> the mediator of these rival claims,<lb/> urged by his brother
+        and his grieving sister,<lb/> divided the long year in equal parts.<lb/> Now <character
+            gender="female" descrip="virginal">Proserpina</character>, <transform type="social">as a
+            Deity</transform>,<lb/> of equal merit, in two kingdoms reigns:—<lb/> for six months
+        with her mother she abides,<lb/> and six months with her husband.—<transform type="physical"
+            >Both her mind<lb/> and her appearance quickly were transformed</transform>;<lb/> for
+        she who seemed so sad in <name>Pluto</name>'s eyes,<lb/> now as a goddess beams in joyful
+        smiles;<lb/> so, when the sun obscured by watery mist<lb/> conquers the clouds, it shines in
+        splendour forth.<lb/></p>
+</story>
