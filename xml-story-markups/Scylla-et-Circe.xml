@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title>Scylla et Circe.</title>
-    <header>SCYLLA TRANSFORMED TO A ROCK</header>
+    <title>Scylla et Circe. SCYLLA TRANSFORMED TO A ROCK</title>
 
     <p>Now the <place>Euboean</place> dweller in great waves,<lb/>
         <character gender="male">Glaucus</character>, had left behind the crest of
@@ -11,25 +10,22 @@
         harrow or by plough and never were<lb/> indebted to the toil of oxen yoked;<lb/> left
             <place>Zancle</place>, also, and the opposite walls<lb/> of <place>Rhegium</place>, and
         the sea, abundant cause<lb/> of shipwreck, which confined with double shores<lb/> bounds the
-            <place>Ausonian</place> and <place>Sicilian lands</place>.<lb/></p>
-
+        Ausonian and Sicilian lands.<lb/></p>
 
     <p>All these behind him, <character gender="male">Glaucus</character>, swimming on<lb/> with his
-        huge hands through those <place>Tyrrhenian seas</place>,<lb/> drew near the hills so rich in
-        magic herbs<lb/> and halls of <character gender="female">Circe</character>, daughter of the
+        huge hands through those Tyrrhenian seas,<lb/> drew near the hills so rich in magic
+        herbs<lb/> and halls of <character gender="female">Circe</character>, daughter of the
         Sun,—<lb/> halls filled with men in guise of animals.<lb/> After due salutations had been
         given—<lb/> received by her as kindly—,<character gender="male">Glaucus</character>
         said,<lb/></p>
-
 
     <p><dia speaker="Glaucus" gender="male" invo="Circe">“You as a goddess, certainly should
             have<lb/> compassion upon me, a god; for you<lb/> alone (if I am worthy of it) can<lb/>
             relieve my passion. What the power of herbs<lb/> can be, <character gender="female"
                 >Titania</character>, none knows more than I,<lb/> for by their power I was myself
             transformed.<lb/> To make the cause of my strange madness known,<lb/> I have found
-                <character gender="female">Scylla</character> on <place>Italian shores</place>,<lb/>
-            directly opposite Messenian walls.</dia><lb/></p>
-
+                <character gender="female">Scylla</character> on Italian shores,<lb/> directly
+            opposite Messenian walls.</dia><lb/></p>
 
     <p><dia speaker="Glaucus" gender="male" invo="Circe">“It shames me to recount my promises,<lb/>
             entreaties, and caresses, and at last<lb/> rejection of my suit. If you have known<lb/>
@@ -38,11 +34,9 @@
             not<lb/> request a cure—the healing of this wound.<lb/> Much better than an end of pain,
             let her<lb/> share, and feel with me my impassioned flame.”</dia><lb/></p>
 
-
     <p>But <character gender="female">Circe</character> was more quick than any other<lb/> to burn
         with passion's flame. It may have been<lb/> her nature or it may have been the work<lb/> of
             <name>Venus</name>, angry at her tattling sire.<lb/></p>
-
 
     <p><dia speaker="Circe" gender="female" invo="Glaucus">“You might do better,” she replied,
                 <desire object="Glaucus" perp="Circe">“to court<lb/> one who is willing, one who
@@ -56,12 +50,10 @@
                 her who<lb/> despises you, and her who is attached<lb/> by one act offer each her
                 just reward</desire>.”</dia><lb/></p>
 
-
     <p>But <character gender="male">Glaucus</character> answered her attempt of love,<lb/>
         <dia speaker="Galucus" gender="male">“The trees will sooner grow in ocean waves,<lb/> than I
             shall change my love for graceful! <character gender="female"
         >Scylla</character>.”</dia><lb/></p>
-
 
     <p><character gender="female" descrip="jealous">The goddess in her jealous rage could not<lb/>
             and would not injure him, whom she still loved,<lb/> but turned her wrath upon the one
@@ -75,19 +67,16 @@
         she set her feet and, hastening on dry shod,<lb/> she skimmed along the surface of the
         deep.<lb/></p>
 
-
     <p>Not far away there was an inlet curved,<lb/> round as a bent bow, which was often used<lb/>
         by <character gender="female">Scylla</character> as a favorite retreat.<lb/> There, she
         withdrew from heat of sea and sky<lb/> when in the zenith blazed the unclouded sun<lb/> and
         cast the shortest shadows on the ground.<lb/>
         <character gender="female">Circe</character> infected it before that hour,<lb/></p>
 
-
     <p>polluting it with monster-breeding drugs.<lb/> She sprinkled juices over it, distilled<lb/>
         from an obnoxious root, and thrice times nine<lb/> she muttered over it with magic
         lips,<lb/> her most mysterious charm involved in words<lb/> of strangest import and of
         dubious thought.<lb/></p>
-
 
     <p><character gender="female">Scylla</character> came there and waded in waist deep,<lb/> then
         saw her loins defiled with barking shapes.<lb/> Believing they could be no part of her,<lb/>
@@ -95,7 +84,6 @@
         she fled<lb/> she carried with her. And, feeling for her thighs,<lb/> her legs, and feet,
         she found Cerberian jaws<lb/> instead. She rises from a rage of dogs,<lb/> and shaggy backs
         encircle her shortened loins.<lb/></p>
-
 
     <p>The lover <character gender="male">Glaucus</character> wept. He fled the embrace<lb/> of
             <character gender="female">Circe</character> and her hostile power of herbs<lb/> and
