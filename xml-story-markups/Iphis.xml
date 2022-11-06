@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+<story>
+    <title>Iphis.IPHIS AND IANTHE</title>
+
+    <p>The tale of this unholy passion would<lb/> perhaps, have filled <place>Crete</place>'s
+        hundred cities then,<lb/> if <place>Crete</place> had not a wonder of its own<lb/> to talk
+        of, in the change of <name>Iphis</name>. Once,<lb/> there lived at <place>Phaestus</place>,
+        not far from the town<lb/> of <place>Gnossus</place>, a man <name>Ligdus</name>, not well
+        known;<lb/> in fact obscure, of humble parentage,<lb/> whose income was no greater than his
+        birth;<lb/> but he was held trustworthy and his life<lb/> had been quite blameless. When the
+        time drew near<lb/> his wife should give birth to a child, he warned<lb/> her and instructed
+        her, with words we quote:—<lb/></p>
+
+    <p><dia speaker="Ligdus" gender="male" invo="Telethusa">“There are two things which I would ask
+            of Heaven:<lb/> that you may be delivered with small pain,<lb/> and that your child may
+            surely be a boy.<lb/> Girls are such trouble, fair strength is denied<lb/> to
+            them.—Therefore (may Heaven refuse the thought)<lb/> if chance should cause your child
+            to be a girl,<lb/> (gods pardon me for having said the word!)<lb/> we must agree to have
+            her put to death.”</dia><lb/>
+    </p>
+
+    <p><character gender="non-binary" descrip="despair">And all the time he spoke such dreaded
+            words,<lb/> their faces were completely bathed in tears;<lb/> not only hers but also his
+            while he<lb/> forced on her that unnatural command.</character><lb/> Ah,
+            <name>Telethusa</name> ceaselessly implored<lb/> her husband to give way to fortune's
+        cast;<lb/> but <character gender="male">Ligdus</character> held his resolution
+        fixed.<lb/></p>
+
+    <p>And now the expected time of birth was near,<lb/> when in the middle of the night she
+        seemed<lb/> to see the goddess <character gender="female">Isis</character>, standing by<lb/>
+        her bed, in company of serious spirit forms;<lb/>
+        <character gender="female">Isis</character> had crescent horns upon her forehead,<lb/> and a
+        bright garland made of golden grain<lb/> encircled her fair brow. It was a crown<lb/> of
+        regal beauty: and beside her stood<lb/> the dog <name>Anubis</name>, and
+            <name>Bubastis</name>, there<lb/> the sacred, dappled <name>Apis</name>, and the
+        God<lb/> of silence with pressed finger on his lips;<lb/> the sacred rattles were there, and
+            <name>Osiris</name>, known<lb/> the constant object of his worshippers' desire,<lb/> and
+        there the Egyptian serpent whose quick sting<lb/> gives long-enduring sleep. She seemed to
+        see<lb/> them all, and even to hear the goddess say<lb/> to her, <dia speaker="Isis"
+            invo="Telethusa" gender="female">“O <character gender="female">Telethusa</character>,
+            one of my<lb/> remembered worshippers, forget your grief;<lb/> your husband's orders
+            need not be obeyed;<lb/> and when <name>Lucina</name> has delivered you,<lb/> save and
+            bring up your child, if either boy<lb/> or girl. <character gender="female"
+                descrip="protector">I am the goddess who brings help<lb/> to all who call upon me;
+                and you shall<lb/> never complain of me—that you adored<lb/> a thankless
+                deity.</character>”</dia> So she advised<lb/> by vision the sad mother, and left
+        her.<lb/></p>
+
+    <p><character gender="female" descrip="joy">The Cretan woman joyfully arose<lb/> from her sad
+            bed, and supplicating, raised<lb/> ecstatic hands up towards the listening stars,<lb/>
+            and prayed to them her vision might come true.</character><lb/></p>
+
+    <p>Soon, when her pains gave birth, the mother knew<lb/> her infant was a girl (the father
+        had<lb/> no knowledge of it, as he was not there).<lb/> Intending to deceive, the mother said,<lb/>
+        <dia speaker="Telethusa" gender="female" invo="Ligdus">“Feed the dear boy.”</dia> All things
+        had favored her<lb/> deceit—no one except the trusted nurse,<lb/> knew of it. And the father
+        paid his vows,<lb/> and named the child after its grandfather, whose<lb/> name was honored
+            <name>Iphis</name>. Hearing it so called,<lb/> the mother could not but rejoice,
+        because<lb/> her child was given a name of common gender,<lb/> and she could use it with no
+        more deceit.<lb/></p>
+
+    <p>She took good care to dress it as a boy,<lb/> and either as a boy or girl, its face<lb/> must
+        always be accounted lovable.<lb/></p>
+
+    <p>And so she grew,—ten years and three had gone,<lb/> and then your father found a bride for
+        you<lb/> O <character gender="female">Iphis</character>—promised you should take to
+        wife<lb/> the golden-haired <character gender="female">Ianthe</character>, praised by
+        all<lb/> the women of <place>Phaestus</place> for the dower<lb/> of her unequalled beauty,
+        and well known,<lb/> the daughter of a Cretan named <name>Telestes</name>.<lb/> Of equal age
+        and equal loveliness,<lb/> they had received from the same teachers, all<lb/> instruction in
+        their childish rudiments.<lb/> So unsuspected love had filled their hearts<lb/> with equal
+        longing—but how different!<lb/></p>
+
+    <p><character gender="female">Ianthe</character> waits in confidence and hope<lb/> the
+        ceremonial as agreed upon,<lb/> and is quite certain she will wed a man.<lb/> But <character
+            gender="female">Iphis</character>
+        <desire perp="Iphis" object="Ianthe">is in love without one hope<lb/> of passion's ecstasy,
+            the thought of which<lb/> only increased her flame; and she a girl<lb/> is burnt with
+            passion for another girl!</desire><lb/> She hardly can hold back her tears, and
+        says:<lb/></p>
+
+    <p><dia speaker="Iphis" gender="female">“<character gender="female" descrip="despair">O what
+                will be the awful dreaded end,<lb/> with such a monstrous love compelling me?<lb/>
+                If the Gods should wish to save me, certainly<lb/> they should have saved me; but,
+                if their desire<lb/> was for my ruin, still they should have
+            given</character><lb/></dia></p>
+
+    <p><dia speaker="Iphis" gender="female">some natural suffering of humanity.<lb/> The passion for
+            a cow does not inflame a cow,<lb/> no mare has ever sought another mare.<lb/> The ram
+            inflames the ewe, and every doe<lb/> follows a chosen stag; so also birds<lb/> are
+            mated, and in all the animal world<lb/> no female ever feels love passion for<lb/>
+            another female—why is it in me?</dia><lb/></p>
+
+    <p><dia speaker="Iphis" gender="female">“Monstrosities are natural to <place>Crete</place>,<lb/>
+            the daughter of the Sun there loved a bull—<lb/> it was a female's mad love for the
+            male—<lb/> but my desire is far more mad than hers,<lb/> in strict regard of truth, for
+            she had hope<lb/> of love's fulfillment. She secured the bull<lb/> by changing herself
+            to a heifer's form;<lb/> and in that subtlety it was the male<lb/> deceived at last.
+            Though all the subtleties<lb/> of all the world should be collected here;—<lb/> if
+                <name>Daedalus</name> himself should fly back here<lb/> upon his waxen wings, what
+            could he do?<lb/> What skillful art of his could change my sex,<lb/> a girl into a
+            boy—or could he change<lb/>
+            <character gender="female">Ianthe</character>? What a useless thought! Be bold<lb/> take
+            courage <name>Iphis</name>, and be strong of soul.<lb/> This hopeless passion stultifies
+            your heart;<lb/> so shake it off, and hold your memory<lb/> down to the clear fact of
+            your birth: unless<lb/> your will provides deception for yourself:<lb/> do only what is
+            lawful, and confine<lb/> strictly, your love within a woman's right.<lb/></dia>
+    </p>
+
+    <p><dia speaker="Iphis" gender="female">“Hope of fulfillment can beget true love,<lb/> and hope
+            keeps it alive. You are deprived<lb/> of this hope by the nature of your birth.<lb/> No
+            guardian keeps you from her dear embrace,<lb/> no watchful jealous husband, and she
+            has<lb/> no cruel father: she does not deny<lb/> herself to you. With all that
+            liberty,<lb/> you can not have her for your happy wife,<lb/> though Gods and men should
+            labor for your wish.<lb/> None of my prayers has ever been denied;<lb/> the willing
+            Deities have granted me<lb/> whatever should be, and my father helps<lb/> me to
+            accomplish everything I plan:<lb/> she and her father also, always help.<lb/> But Nature
+            is more powerful than all,<lb/> and only Nature works for my distress.</dia><lb/></p>
+
+    <p><dia speaker="Iphis" gender="female">“The wedding-day already is at hand;<lb/> the longed-for
+            time is come; <character gender="female">Ianthe</character> soon<lb/> will be mine
+            only—and yet, not my own:<lb/> with water all around me I shall thirst!<lb/> O why must
+                <name>Juno</name>, goddess of sweet brides,<lb/> and why should <name>Hymen</name>
+            also, favor us<lb/> when man with woman cannot join in wedlock,<lb/> but both are
+            brides?”</dia> And so she closed her lips.<lb/></p>
+
+    <p>The other maiden flamed with equal love,<lb/> and often prayed for <name>Hymen</name> to
+        appear.<lb/> But <character gender="female">Telethusa</character>, fearing that event,<lb/>
+        the marriage which <character gender="female">Ianthe</character> keenly sought,<lb/>
+        procrastinated, causing first delay<lb/> by some pretended illness; and then gave<lb/>
+        pretence of omens and of visions seen,<lb/> sufficient for delay, until she had<lb/>
+        exhausted every avenue of excuse,<lb/> and only one more day remained before<lb/> the
+        fateful time, it was so near at hand.<lb/></p>
+
+    <p>Despairing then of finding other cause<lb/> which might prevent the fated wedding-day,<lb/>
+        the mother took the circled fillets from<lb/> her own head, and her daughter's head, and
+        prayed,<lb/> as she embraced the altar—her long hair<lb/> spread out upon the flowing
+        breeze—and said:<lb/></p>
+
+    <p><dia speaker="Telethusa" gender="female" invo="Isis">“O <character gender="female"
+                >Isis</character>, goddess of <place>Paraetonium</place>,<lb/> the Mareotic fields,
+                <place>Pharos</place>, and <place>Nile</place><lb/> of seven horns divided—oh give help!<lb/>
+            <character gender="female" descrip="protector">Goddess of nations! heal us of our
+                fears!<lb/> I saw you, goddess, and your symbols once,<lb/> and I adored them all,
+                the clashing sounds<lb/> of sistra and the torches of your train,<lb/> and I took
+                careful note of your commands,<lb/> for which my daughter lives to see the sun,<lb/>
+                and also I have so escaped from harm;—<lb/> all this is of your counsel and your
+                gift;<lb/> oh, pity both of us—and give us aid!</character>”</dia><lb/></p>
+
+    <p>Tears emphasized her prayer; the goddess seemed<lb/> to move—in truth it was the altar
+        moved;<lb/> the firm doors of the temple even shook—<lb/> and her horns, crescent, flashed
+        with gleams of light,<lb/> and her loud sistrum rattled noisily.<lb/> Although not quite
+        free of all fear, yet pleased<lb/> by that good omen, gladly the mother left<lb/> the temple
+        with her daughter <character gender="female">Iphis</character>, who<lb/> beside her walked,
+        but with a lengthened stride.<lb/></p>
+
+    <p><transform type="physical" gender="male">Her face seemed of a darker hue, her strength<lb/>
+            seemed greater, and her features were more stern.<lb/> Her hair once long, was unadorned
+            and short.<lb/> There is more vigor in her than she showed<lb/> in her girl ways. For in
+            the name of truth,<lb/>
+            <character gender="female">Iphis</character>, who was a girl, is now a
+        man!</transform><lb/> Make offerings at the temple and rejoice<lb/> without a fear!—They
+        offer at the shrines,<lb/> and add a votive tablet, on which this<lb/> inscription is
+        engraved:<lb/></p>
+
+    <p>these gifts are paid<lb/> by <character gender="male">Iphis</character> as a man which as a
+        maid<lb/> he vowed to give.<lb/></p>
+
+    <p>The morrow's dawn<lb/> revealed the wide world; on the day agreed,<lb/>
+        <name>Venus</name>, <name>Juno</name> and <name>Hymen</name>, all have met<lb/> our happy
+        lovers at the marriage fires; <lb/></p>
+
+    <p>and <character gender="male">Iphis</character>, a new man, gained his <character
+            gender="female">Ianthe</character>.<lb/></p>
+</story>
