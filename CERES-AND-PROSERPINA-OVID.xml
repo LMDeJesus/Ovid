@@ -68,11 +68,11 @@
         humid ground is sprent<lb/> with purpling flowers, and spring eternal reigns.<lb/></p>
 
 
-    <p>While <character gender="female" descrip="virginal">Proserpine once dallied in that
-            grove,<lb/> plucking white lilies and sweet violets,<lb/> and while she heaped her
-            basket, while she filled<lb/> her bosom, in a pretty zeal to strive<lb/> beyond all
-            others</character>; <desire object="Proserpine" perp="Pluto">she was seen, beloved,<lb/>
-            and carried off by Pluto—such the haste<lb/> of sudden love.</desire>
+    <p>While <character gender="female" descrip="joy">Proserpine once dallied in that grove,<lb/>
+            plucking white lilies and sweet violets,<lb/> and while she heaped her basket, while she
+            filled<lb/> her bosom, in a pretty zeal to strive<lb/> beyond all others</character>;
+            <desire object="Proserpine" perp="Pluto">she was seen, beloved,<lb/> and carried off by
+            Pluto—such the haste<lb/> of sudden love.</desire>
         <lb/></p>
 
     <p>The goddess, in great fear,<lb/> called on her mother and on all her friends;<lb/> and, in
@@ -284,8 +284,8 @@
             gender="female">Proserpina</character>, <transform type="social" gender="female">as a
             Deity</transform>,<lb/> of equal merit, in two kingdoms reigns:—<lb/> for six months
         with her mother she abides,<lb/> and six months with her husband.—<transform type="physical"
-            >Both her mind<lb/> and her appearance quickly were transformed</transform>;<lb/> for
-        she who seemed so sad in <name>Pluto</name>'s eyes,<lb/> now as a goddess beams in joyful
-        smiles;<lb/> so, when the sun obscured by watery mist<lb/> conquers the clouds, it shines in
-        splendour forth.<lb/></p>
+            >Both her mind<lb/> and her appearance quickly were transformed</transform>;<lb/>
+        <character descrip="joy">for she who seemed so sad in <name>Pluto</name>'s eyes,<lb/> now as
+            a goddess beams in joyful smiles;<lb/> so, when the sun obscured by watery mist<lb/>
+            conquers the clouds, it shines in splendour forth.<lb/></character></p>
 </story>
