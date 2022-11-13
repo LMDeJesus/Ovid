@@ -1,0 +1,16 @@
+body {
+    font-size: 1.15em;
+    margin: 0;
+    padding: 0;
+}
+.hover {
+    background-color: #DCDCDC;
+    padding: 20px;
+    display: none;
+    }
+.hoverable:hover + .hover {
+    display: inline-block;
+    position: absolute;
+    margin-top: 17px;
+}
+
