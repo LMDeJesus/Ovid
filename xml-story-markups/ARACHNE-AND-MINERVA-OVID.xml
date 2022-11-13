@@ -40,7 +40,7 @@
 
     <p><character gender="female">Minerva</character> heard,<lb/> and came to her, disguised with
         long grey hair,<lb/> and with a staff to steady her weak limbs.<lb/> She seemed a feeble
-        woman, very old,<lb/> and quavered as she said, <dia speaker="Minerva" gender="female">“Old
+        woman, very old,<lb/> and quavered as she said, <dia speaker="Minerva" gender="female" invo="Arachne">“Old
             age is not<lb/> the cause of every ill; experience comes<lb/> with lengthened years;
             and, therefore, you should not<lb/> despise my words. It is no harm in you<lb/> to long
             for praise of mortals, when<lb/> your nimble hands are spinning the soft wool,—<lb/> but
@@ -54,7 +54,7 @@
         Minerva:<lb/>
     </p>
 
-    <p><dia gender="female" speaker="Arachne">“Silly fool,—<lb/> worn out and witless in your
+    <p><dia gender="female" speaker="Arachne" invo="Minerva">“Silly fool,—<lb/> worn out and witless in your
             palsied age,<lb/> a great age is your great misfortune!— Let<lb/> your daughter and your
             son's wife—if the Gods<lb/> have blessed you—let them profit by your words;<lb/> within
             myself, my knowledge is contained<lb/> sufficient; you need not believe that your<lb/>
@@ -63,7 +63,7 @@
         contest!”</dia><lb/></p>
 
 
-    <p>Instantly,<lb/> the goddess said, <dia speaker="Minerva" gender="female"> “Minerva comes to
+    <p>Instantly,<lb/> the goddess said, <dia speaker="Minerva" gender="female" invo="Arachne"> “Minerva comes to
             you!”</dia><lb/> And with those brief words, put aside the shape<lb/> of the old woman,
         and revealed herself,<lb/> Minerva, goddess.<lb/></p>
 
