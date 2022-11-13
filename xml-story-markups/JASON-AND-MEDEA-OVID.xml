@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
-
-
+<?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title>Iason et Medea. JASON AND MEDEA </title>
     <p>Over the storm-tossed waves, the Argonauts<lb/> had sailed in <place>Argo</place>, their long
