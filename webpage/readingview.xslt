@@ -8,8 +8,8 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="arachne.css"/>
-                <title>Arachne and Minerva</title>                
+                <link rel="stylesheet" type="text/css" href="readingview.css"/>
+                <title>Myth</title>                
             </head>
             <body>
                 <xsl:apply-templates select="//story"/>
@@ -23,6 +23,9 @@
     </xsl:template>
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="lb">
+        <br/>
     </xsl:template>
     <xsl:template match="character">
         <span class="hoverable {@gender}_character">
