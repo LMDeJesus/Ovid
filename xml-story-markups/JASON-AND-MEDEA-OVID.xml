@@ -3,7 +3,8 @@
 
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title>Iason et Medea. JASON AND MEDEA </title>
+    <header>Iason et Medea.</header>
+    <title>JASON AND MEDEA </title>
     <p>Over the storm-tossed waves, the Argonauts<lb/> had sailed in <place>Argo</place>, their long
         ship to where<lb/>
         <name>King Phineus</name>, needy in his old age, reigned—<lb/> deprived of sight and feeble.
