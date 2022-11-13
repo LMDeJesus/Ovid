@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title>Ceres et Proserpina CALLIOPE SINGS OF CERES, PLUTO AND PROSERPINE</title>
+    <header>Ceres et Proserpina</header>
+    <title>CALLIOPE SINGS OF CERES, PLUTO AND PROSERPINE</title>
 
     <p>First <character descrip="matronly" gender="female">Ceres broke with crooked plow the
             glebe;<lb/> first gave to earth its fruit and wholesome food;<lb/> first gave the

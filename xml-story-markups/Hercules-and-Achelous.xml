@@ -1,6 +1,7 @@
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title>Achelous et Hercules. HERCULES AND ACHELOUS</title>
+    <header>Achelous et Hercules.</header>
+    <title>HERCULES AND ACHELOUS</title>
 
     <p>To him the hero, who proclaimed himself<lb/> a favored son of <name>Neptune</name>, answered now;<lb/>
         <dia gender="male">“Declare the reason of your heavy sighs,<lb/> and how your horn was
@@ -143,5 +144,5 @@
 
     <p>Then <character gender="male">Achelous</character>, in his moving waves,<lb/> hid his fine
         rustic features and his head,<lb/> scarred by the wound which gave the <name>Horn of
-        Plenty</name>.<lb/></p>
+            Plenty</name>.<lb/></p>
 </story>

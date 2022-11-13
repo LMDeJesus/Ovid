@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title>Nisus et Scylla. KING MINOS AND SCYLLA</title>
+    <header>Nisus et Scylla. </header>
+    <title>KING MINOS AND SCYLLA</title>
 
     <p>Now <character gender="male">Lucifer</character> unveiled the glorious day,<lb/> and as the
         session of the night dissolved,<lb/> the cool east wind declined, and vapors wreathed<lb/>

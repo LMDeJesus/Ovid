@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
-
+<?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title>ACTAEON THE HOUSE OF CADMUS</title>
 
@@ -25,7 +24,7 @@
         day,<lb/> increasing to meridian, made decrease<lb/> the flitting shadows, and the hot sun
         shone<lb/> betwixt extremes in equal distance. Such<lb/> the hour, when speaking to his
         fellow friends,<lb/> the while they wandered by those lonely haunts,<lb/>
-        <character gender="male">actaeon</character> of Hyantis kindly thus;<lb/></p>
+        <character gender="male">Actaeon</character> of Hyantis kindly thus;<lb/></p>
 
     <p><dia speaker="acteon" gender="male">“Our nets and steel are stained with slaughtered
             game,<lb/> the day has filled its complement of sport;<lb/> now, when Aurora in her

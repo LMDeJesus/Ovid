@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title>Scylla et Circe. SCYLLA TRANSFORMED TO A ROCK</title>
+    <header> Scylla et Circe. </header>
+    <title>SCYLLA TRANSFORMED TO A ROCK</title>
 
     <p>Now the <place>Euboean</place> dweller in great waves,<lb/>
         <character gender="male">Glaucus</character>, had left behind the crest of

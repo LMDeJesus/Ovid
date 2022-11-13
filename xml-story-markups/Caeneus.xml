@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
-    <title>Caeneus.CAENEUS TRANSFORMED INTO A BIRD</title>
+    <header>Caeneus.</header>
+    <title>CAENEUS TRANSFORMED INTO A BIRD</title>
 
     <p>There was a truce<lb/> for many days after this opening fight<lb/> while both sides resting,
         laid aside their arms.<lb/> A watchful guard patroled the Phrygian walls;<lb/> the Grecian
