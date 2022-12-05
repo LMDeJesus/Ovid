@@ -2,42 +2,121 @@ body {
     font-size: 1.15em;
     margin: 0;
     padding: 0;
+    background-color: #FAEDCD;
 }
-.hover {
-    background-color: #DCDCDC;
+h1 {
+    font-family: copperplate;
+    color: #D4A373;
+    background-color: #FCFBF4;
+    opacity: 1;
+    width: 30%;
     padding: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 30px -11px rgba(0,0,0,0.75);
+}
+.myth-label {
+    font-size: 30px;
+}
+h2 {
+    font-family: copperplate;
+    color: #D4A373;
+    font-size: 30px;
+}
+.text {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #FCFBF4;
+    opacity: 1;
+    width: 35%;
+    padding: 20px;
+    margin: 40px auto;
+    position: absolute;
+    left: 200px;
+    box-shadow: 0px 0px 30px -11px rgba(0,0,0,0.75);
+}
+.stick
+{
+    position: fixed;
+    display: block;
+    background-color: #FCFBF4;
+    top: 20%;
+    right: 5%;
+    font-size: 17px;
+    margin-right: 1px;
+    overflow: auto;
+    font-family: arial, helvetica, sans-serif;
+    padding: 20px;
+    line-height: 150%;
+}
+.collapse {
+    margin: 0;
+    padding: 0;
+}
+.smallMargins
+{
+    margin: 1px;
+}
+.tag {
+    font-family: copperplate;
+    color: #D4A373;
+    font-size: 30px;
+    line-height: 150%;
+}
+.char_hover {
+    background-color: #DCDCDC;
+    padding: 10px;
     display: none;
-    }
-.hoverable:hover + .hover {
+}
+.hoverable:hover + .char_hover {
+    display: inline-block;
+    position: absolute;
+    margin-top: 17px;
+}
+.dia_hover {
+    background-color: #DCDCDC;
+    padding: 10px;
+    display: none;
+}
+.hoverable:hover + .dia_hover {
+    display: inline-block;
+    position: absolute;
+    margin-top: 17px;
+}
+.trans_hover {
+    background-color: #DCDCDC;
+    padding: 10px;
+    display: none;
+}
+.hoverable:hover + .trans_hover {
     display: inline-block;
     position: absolute;
     margin-top: 17px;
 }
 .male_character {
-    background-color: #99CCFF;
+    background-color: #BEDCFE;
 }
 .female_character {
-    background-color: #FF9999;
+    background-color: #8FD5A6;
 }
 .nonbinary_character {
-    background-color: #c0c0c0;
+    background-color: #B5B2C2;
 }
 .male_dia {
-    background-color: #99CCFF;
+    background-color: #FED9B7;
 }
 .female_dia {
-    background-color: #FF9999;
+    background-color: #DCCCFF;
 }
 .nonbinary_dia {
-    background-color: #C0C0C0;
+    background-color: #FDDA0D;
 }
 .male_transform {
-    background-color: #99CCFF;
+    background-color: #DDF093;
 }
 .female_transform {
-    background-color: #FF9999;
+    background-color: #FE8480;
 }
 .nonbinary_transform {
-    background-color: #C0C0C0;
+    background-color: #75DBCD;
 }
-

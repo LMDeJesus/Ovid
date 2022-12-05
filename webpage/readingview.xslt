@@ -9,23 +9,72 @@
         <html>
             <head>
                 <link rel="stylesheet" type="text/css" href="readingview.css"/>
-                <title>Myth</title>                
+                <title>Myth</title>
             </head>
             <body>
                 <xsl:apply-templates select="//story"/>
+                <div class="stick">
+                    <span class="tag">
+                        <text>Tag</text>
+                    </span>
+                    <p class="collapse">
+                        <strong>Male:</strong>
+                    </p>
+                    <input type="checkbox"/>
+                    <span class="male_character">descriptors</span>
+                    <br/>
+                    <input type="checkbox"/>
+                    <span class="male_dia">dialogue</span>
+                    <br/>
+                    <input type="checkbox"/>
+                    <span class="male_transform">transformations</span>
+
+                    <p class="collapse">
+                        <strong>Female:</strong>
+                    </p>
+                    <input type="checkbox"/>
+                    <span class="female_character">descriptors</span>
+                    <br/>
+                    <input type="checkbox"/>
+                    <span class="female_dia">dialogue</span>
+                    <br/>
+                    <input type="checkbox"/>
+                    <span class="female_transform">transformations</span>
+
+                    <p class="collapse">
+                        <strong>Non-Binary:</strong>
+                    </p>
+                    <input type="checkbox"/>
+                    <span class="nonbinary_character">descriptors</span>
+                    <br/>
+                    <input type="checkbox"/>
+                    <span class="nonbinary_dia">dialogue</span>
+                    <br/>
+                    <input type="checkbox"/>
+                    <span class="nonbinary_transform">transformations</span>
+                </div>
             </body>
-            <xsl:text>&#160;</xsl:text>
-            <xsl:text>&#160;</xsl:text>
-            <xsl:text>&#160;</xsl:text>
         </html>
     </xsl:template>
     <xsl:template match="story">
-        <h1><xsl:apply-templates select="title"/></h1>
-        <hr/>
-        <xsl:apply-templates select="p"/>
+        <h1>
+            <span class="myth-label">
+                <text>Myth of:</text>
+            </span>
+            <br/>
+            <xsl:apply-templates select="title"/>
+        </h1>
+        <div class="text">
+            <h2>
+                <text>Text</text>
+            </h2>
+            <xsl:apply-templates select="p"/>
+        </div>
     </xsl:template>
     <xsl:template match="p">
-        <p><xsl:apply-templates/></p>
+        <p>
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
     <xsl:template match="lb">
         <br/>
@@ -35,41 +84,18 @@
             <xsl:apply-templates/>
         </span>
         <span class="char_hover">
-            <xsl:text>CHARACTER</xsl:text>
-            <br/>
-            <xsl:value-of select="@gender"/> 
-            <xsl:text>, </xsl:text>
             <xsl:value-of select="@descrip"/>
         </span>
     </xsl:template>
-        <xsl:template match="place">
-        <span class="place">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-        <xsl:template match="dia[not(@invo)]">
-            <span class="hoverable {@gender}_dia">
-                <xsl:apply-templates/>
-            </span>
-            <span class="dia_hover">
-                <xsl:text>DIALOGUE</xsl:text>
-                <br/>
-                <xsl:value-of select="@gender"/>
-                <xsl:text>, sp: </xsl:text>
-                <xsl:value-of select="@speaker"/>
-            </span>
-        </xsl:template>
     <xsl:template match="dia[@invo]">
         <span class="hoverable {@gender}_dia">
             <xsl:apply-templates/>
         </span>
         <span class="dia_hover">
-            <xsl:text>DIALOGUE</xsl:text>
-            <br/>
-            <xsl:value-of select="@gender"/>
-            <xsl:text>, sp: </xsl:text>
+            <xsl:text>sp: </xsl:text>
             <xsl:value-of select="@speaker"/>
-            <xsl:text>, invo: </xsl:text>
+            <br/>
+            <xsl:text>invo: </xsl:text>
             <xsl:value-of select="@invo"/>
         </span>
     </xsl:template>
@@ -83,10 +109,6 @@
             <xsl:apply-templates/>
         </span>
         <span class="trans_hover">
-            <xsl:text>TRANSFORMATION</xsl:text>
-            <br/>
-            <xsl:value-of select="@gender"/>
-            <xsl:text>, type: </xsl:text>
             <xsl:value-of select="@type"/>
         </span>
     </xsl:template>
