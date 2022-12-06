@@ -5,7 +5,8 @@
     version="3.0">
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no"
         include-content-type="no" indent="yes"/>
-    <xsl:template match="/">
+    <xsl:variable name="stories" select="collection('../xml-story-markups/?select=*.xml')"/>
+    <xsl:template name="xsl:initial-template">
         <html>
             <head>
                 <title>Character Page</title>
@@ -14,7 +15,7 @@
             <body>
                 <h1>Character Page</h1>
                 <ul>
-                    <xsl:for-each select="distinct-values(//p/character[not(@descrip)])">
+                    <xsl:for-each select="distinct-values($stories//p/character[not(@descrip)])">
                         <li><xsl:value-of select="."/></li>
                     </xsl:for-each>
                 </ul>
