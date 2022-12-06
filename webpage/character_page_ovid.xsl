@@ -15,7 +15,7 @@
             <body>
                 <h1>Character Page</h1>
                 <ul>
-                    <xsl:for-each select="distinct-values($stories//p/character[not(@descrip)])">
+                    <xsl:for-each select="distinct-values($stories//p/character[not(@descrip)]) => sort()">
                         <li><xsl:value-of select="."/></li>
                     </xsl:for-each>
                 </ul>
