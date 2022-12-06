@@ -10,7 +10,7 @@
         <html>
             <head>
                 <title>Character Page</title>
-                <link rel="stylesheet" type="text/css" href="ovid.css"/>
+                <link rel="stylesheet" type="text/css" href="character_page.css"/>
             </head>
             <body>
                 <h1>Character Page</h1>
