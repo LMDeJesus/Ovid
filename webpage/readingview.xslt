@@ -28,7 +28,7 @@
                     <br/>
                     <input type="checkbox"/>
                     <span class="male_transform">transformations</span>
-
+<br/>
                     <p class="collapse">
                         <strong>Female:</strong>
                     </p>
@@ -40,7 +40,7 @@
                     <br/>
                     <input type="checkbox"/>
                     <span class="female_transform">transformations</span>
-
+<br/>
                     <p class="collapse">
                         <strong>Non-Binary:</strong>
                     </p>
@@ -68,6 +68,7 @@
             <h2>
                 <text>Text</text>
             </h2>
+            <strong><xsl:apply-templates select="header"/></strong>
             <xsl:apply-templates select="p"/>
         </div>
     </xsl:template>
@@ -97,11 +98,6 @@
             <br/>
             <xsl:text>invo: </xsl:text>
             <xsl:value-of select="@invo"/>
-        </span>
-    </xsl:template>
-    <xsl:template match="name">
-        <span class="name">
-            <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="transform">
