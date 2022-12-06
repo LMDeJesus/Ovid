@@ -21,4 +21,19 @@
             </body>
         </html>
     </xsl:template>
+    <xsl:template match="character">
+        <h2>
+            <xsl:apply-templates select="not(@descrip)"/>
+        </h2>
+        <h3> 
+            Object of Desire:
+        </h3>
+        <desire>
+            <xsl:apply-templates select="./desire[@object]"/>
+        </desire>
+        <h3>Perpetrator of Desire:</h3>
+        <desire>
+            <xsl:apply-templates select="./desire[@perp]"/>
+        </desire>
+    </xsl:template>
 </xsl:stylesheet>
