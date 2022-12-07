@@ -14,9 +14,9 @@
     <p><character gender="male">King Minos</character>, while the fair wind moved their ship,<lb/>
         was laying waste the land of <place>Megara</place>.<lb/> He gathered a great army round the
         walls<lb/> built by <name>Alcathous</name>, where reigned in splendor<lb/>
-        <character gender="male">King Nisus—mighty</character> and renowned in war—<lb/> upon the
-        center of whose hoary head<lb/> a lock of purple hair was growing.<character gender="male"
-            descrip="protector">—Its<lb/> proved virtue gave protection to his
+        <character gender="male" descrip="protector">King Nisus—mighty and renowned in war—<lb/> upon the
+        center of whose hoary head<lb/> a lock of purple hair was growing.
+            —Its<lb/> proved virtue gave protection to his
         throne.</character><lb/></p>
 
     <p>Six times the horns of rising <name>Phoebe</name> grew,<lb/> and still the changing fortune
