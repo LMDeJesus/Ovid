@@ -93,30 +93,30 @@ h2 {
     position: absolute;
     margin-top: 17px;
 }
-.male_character {
+.male_character.on {
     background-color: #BEDCFE;
 }
-.female_character {
+.female_character.on {
     background-color: #8FD5A6;
 }
-.nonbinary_character {
+.nonbinary_character.on {
     background-color: #B5B2C2;
 }
-.male_dia {
+.male_dia.on {
     background-color: #FED9B7;
 }
-.female_dia {
+.female_dia.on {
     background-color: #DCCCFF;
 }
-.nonbinary_dia {
+.nonbinary_dia.on {
     background-color: #FDDA0D;
 }
-.male_transform {
+.male_transform.on {
     background-color: #DDF093;
 }
-.female_transform {
+.female_transform.on {
     background-color: #FE8480;
 }
-.nonbinary_transform {
+.nonbinary_transform.on {
     background-color: #75DBCD;
 }

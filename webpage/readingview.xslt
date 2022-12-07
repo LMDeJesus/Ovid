@@ -9,6 +9,7 @@
         <html>
             <head>
                 <link rel="stylesheet" type="text/css" href="readingview.css"/>
+                <script type="text/javascript" src="readingview.js"/>
                 <title>Myth</title>
             </head>
             <body>
@@ -20,37 +21,37 @@
                     <p class="collapse">
                         <strong>Male:</strong>
                     </p>
-                    <input type="checkbox"/>
+                    <input type="checkbox" value="male_character"/>
                     <span class="male_character">descriptors</span>
                     <br/>
-                    <input type="checkbox"/>
+                    <input type="checkbox" value="male_dia"/>
                     <span class="male_dia">dialogue</span>
                     <br/>
-                    <input type="checkbox"/>
+                    <input type="checkbox" value="male_transform"/>
                     <span class="male_transform">transformations</span>
 <br/>
                     <p class="collapse">
                         <strong>Female:</strong>
                     </p>
-                    <input type="checkbox"/>
+                    <input type="checkbox" value="female_character"/>
                     <span class="female_character">descriptors</span>
                     <br/>
-                    <input type="checkbox"/>
+                    <input type="checkbox" value="female_dia"/>
                     <span class="female_dia">dialogue</span>
                     <br/>
-                    <input type="checkbox"/>
+                    <input type="checkbox" value="female_transform"/>
                     <span class="female_transform">transformations</span>
 <br/>
                     <p class="collapse">
                         <strong>Non-Binary:</strong>
                     </p>
-                    <input type="checkbox"/>
+                    <input type="checkbox"  value="nonbinary_character"/>
                     <span class="nonbinary_character">descriptors</span>
                     <br/>
-                    <input type="checkbox"/>
+                    <input type="checkbox"  value="nonbinary_dia"/>
                     <span class="nonbinary_dia">dialogue</span>
                     <br/>
-                    <input type="checkbox"/>
+                    <input type="checkbox"  value="nonbinary_transform"/>
                     <span class="nonbinary_transform">transformations</span>
                 </div>
             </body>
