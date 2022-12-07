@@ -7,6 +7,7 @@
         include-content-type="no" indent="yes"/>
     <xsl:variable name="stories" select="collection('../xml-story-markups/?select=*.xml')"/>
     <xsl:template name="xsl:initial-template">
+        <xsl:variable name="characterlist" select="distinct-values($stories//p/character[not(@descrip)]) => sort()"/>
         <html>
             <head>
                 <title>Character Page</title>
@@ -15,26 +16,26 @@
             <body>
                 <h1>Character Page</h1>
                 <ul>
-                    <xsl:for-each select="distinct-values($stories//p/character[not(@descrip)]) => sort()">
+                    <xsl:for-each select="$characterlist">
                         <li><xsl:value-of select="."/></li>
+                    </xsl:for-each>
+                </ul>
+                <hr/>
+                <ul>
+                    <xsl:for-each select="$characterlist">
+                        <li>
+                            <xsl:value-of select="."/>
+                            <xsl:apply-templates select="desire"/>
+                        </li>
                     </xsl:for-each>
                 </ul>
             </body>
         </html>
     </xsl:template>
-    <xsl:template match="character">
-        <h2>
-            <xsl:apply-templates select="not(@descrip)"/>
-        </h2>
-        <h3> 
-            Object of Desire:
-        </h3>
-        <desire>
-            <xsl:apply-templates select="./desire[@object]"/>
-        </desire>
-        <h3>Perpetrator of Desire:</h3>
-        <desire>
-            <xsl:apply-templates select="./desire[@perp]"/>
-        </desire>
+    <xsl:template match="desire">
+        <li>
+                <xsl:apply-templates select=". ! @object"/>
+                <xsl:apply-templates select=". ! @perp"/>
+        </li>
     </xsl:template>
 </xsl:stylesheet>
