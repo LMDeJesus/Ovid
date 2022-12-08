@@ -7,6 +7,7 @@
         indent="yes"/>
     <xsl:template match="/">
         <html>
+            <!--#include virtual="menu.xhtml" -->
             <head>
                 <link rel="stylesheet" type="text/css" href="readingview.css"/>
                 <script type="text/javascript" src="readingview.js"/>
