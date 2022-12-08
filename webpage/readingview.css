@@ -63,12 +63,12 @@ h2 {
     font-size: 30px;
     line-height: 150%;
 }
-.char_hover {
+.char_hover{
     background-color: #DCDCDC;
     padding: 10px;
     display: none;
 }
-.hoverable:hover + .char_hover {
+.hoverable:hover.on + .char_hover {
     display: inline-block;
     position: absolute;
     margin-top: 17px;
@@ -78,7 +78,7 @@ h2 {
     padding: 10px;
     display: none;
 }
-.hoverable:hover + .dia_hover {
+.hoverable:hover.on + .dia_hover {
     display: inline-block;
     position: absolute;
     margin-top: 17px;
@@ -88,7 +88,7 @@ h2 {
     padding: 10px;
     display: none;
 }
-.hoverable:hover + .trans_hover {
+.hoverable:hover.on + .trans_hover {
     display: inline-block;
     position: absolute;
     margin-top: 17px;
