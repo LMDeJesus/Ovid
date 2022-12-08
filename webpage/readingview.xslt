@@ -16,7 +16,7 @@
                 <xsl:apply-templates select="//story"/>
                 <div class="stick">
                     <span class="tag">
-                        <text>Tag</text>
+                        <xsl:text>Tag</xsl:text>
                     </span>
                     <p class="collapse">
                         <strong>Male:</strong>
@@ -60,14 +60,14 @@
     <xsl:template match="story">
         <h1>
             <span class="myth-label">
-                <text>Myth of:</text>
+                <xsl:text>Myth of:</xsl:text>
             </span>
             <br/>
             <xsl:apply-templates select="title"/>
         </h1>
         <div class="text">
             <h2>
-                <text>Text</text>
+                <xsl:text>Text</xsl:text>
             </h2>
             <strong><xsl:apply-templates select="header"/></strong>
             <xsl:apply-templates select="p"/>
