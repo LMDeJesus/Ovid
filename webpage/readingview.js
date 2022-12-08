@@ -3,6 +3,19 @@ function init() {
     var boxes = document.getElementsByTagName('input')
     for (var i = 0; i < boxes.length; i++) {
         boxes[i].addEventListener('click', toggleHighlight, false);
+        boxes[i].addEventListener('click', toggleHover, false);
+    }
+}
+function toggleHover() {
+    var device = this.value;
+    switch (device) {
+        case 'hoverable': {
+            var hoverable = document.querySelectorAll('.hoverable');
+            for (var i = 0; i < hoverable.length; i++) {
+                hoverable[i].classList.toggle('on');
+            };
+        };
+        break;
     }
 }
 function toggleHighlight() {
