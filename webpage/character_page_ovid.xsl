@@ -17,12 +17,12 @@
                 <div class="image_title"><h2 class="projectTitle">Portrayals of Divinity in The Metamorphoses</h2></div>
                 <div class="mainNavbar">
                     <ul>
-                        <li><a class="main" href="/">Home</a></li>
-                        <li><a class="main" href="ovic-meme.png">About</a></li>
-                        <li><a class="main" href="ovic-meme.png">Texts</a></li>
-                        <li><a class="main" href="character_page.xhtml">Characters</a></li>
-                        <li><a class="main" href="ovic-meme.png">Methodology</a></li>
-                        <li><a class="main" href="ovic-meme.png">Conclusions</a></li>
+                        <li class="nav"><a class="main" href="/">Home</a></li>
+                        <li class="nav"><a class="main" href="ovic-meme.png">About</a></li>
+                        <li class="nav"><a class="main" href="ovic-meme.png">Texts</a></li>
+                        <li class="nav"><a class="main" href="character_page.xhtml">Characters</a></li>
+                        <li class="nav"><a class="main" href="ovic-meme.png">Methodology</a></li>
+                        <li class="nav"><a class="main" href="ovic-meme.png">Conclusions</a></li>
                     </ul></div>
                 <h1>Character Page</h1>
                 <section>
