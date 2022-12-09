@@ -66,6 +66,20 @@
                     <input type="checkbox"  value="nonbinary_transform"/>
                     <span class="nonbinary_transform">transformations</span>
                 </div>
+                <div class="stick2">
+                    <span class="tag">
+                        <xsl:text>Myths</xsl:text>
+                    </span>
+                    <ul>
+                        <li><a href="Dryope.xhtml">Dryope</a></li>
+                        <br/>
+                        <li><a href="Caeneus.xhtml">Caeneus</a></li>
+                        <br/>
+                        <li><a href="CERES-AND-PROSERPINA-OVID.xhtml">Ceres and Proserpina</a></li>
+                        <br/>
+                        <li><a href="DIANA-AND-ACTEON-OVID.xhtml">Diana and Acteon</a></li>
+                    </ul>
+                </div>
             </body>
         </html>
     </xsl:template>

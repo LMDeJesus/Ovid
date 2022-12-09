@@ -13,7 +13,7 @@ h1 {
     padding: 20px;
     margin-left: 150px;
     margin-top: 20px;
-    box-shadow: 0px 0px 30px -11px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 30px -11px rgba(0, 0, 0, 0.75);
 }
 .myth-label {
     font-size: 30px;
@@ -33,7 +33,7 @@ h2 {
     margin: 40px auto;
     position: absolute;
     left: 200px;
-    box-shadow: 0px 0px 30px -11px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 30px -11px rgba(0, 0, 0, 0.75);
 }
 .stick
 {
@@ -42,6 +42,20 @@ h2 {
     background-color: #FCFBF4;
     top: 20%;
     right: 5%;
+    font-size: 17px;
+    margin-right: 1px;
+    overflow: auto;
+    font-family: arial, helvetica, sans-serif;
+    padding: 20px;
+    line-height: 150%;
+}
+.stick2
+{
+    position: fixed;
+    display: block;
+    background-color: #FCFBF4;
+    right: 5%;
+    top:70%;
     font-size: 17px;
     margin-right: 1px;
     overflow: auto;
@@ -63,7 +77,7 @@ h2 {
     font-size: 30px;
     line-height: 150%;
 }
-.char_hover{
+.char_hover {
     background-color: #DCDCDC;
     padding: 10px;
     display: none;
