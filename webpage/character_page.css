@@ -31,7 +31,7 @@ li {
     /*display: inline;*/
 }
 li a.main {
-   /*   display: inline-block;*/
+   display: inline-block;
     font-family: 'copperplate', fantasy;
     text-align: center;
     color: white;
