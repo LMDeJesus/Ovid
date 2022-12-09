@@ -1,6 +1,11 @@
 body {
     background-color: #FAEDCD;
 }
+.image_title {
+    background-image: url('ANGLIG_10313767400.png');
+    height: 250px;
+    overflow: hidden;
+}
 .projectTitle {
     padding-top: 50px;
     color: white;
