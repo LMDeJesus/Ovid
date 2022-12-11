@@ -31,21 +31,21 @@
 
 
     <p>Him, <name>Venus</name>, <name>Erycina</name>, in her mount<lb/> thus witnessed, and embraced
-        her winged son,<lb/> and said, <dia speaker="Venus" gender="female" invo="Cupid">‘O
+        her winged son,<lb/> and said, <dia speaker="venus" gender="female" invo="Cupid">‘O
                 <name>Cupid</name>! thou who art my son—<lb/> my arms, my hand, my strength; take up
             those arms,<lb/> by which thou art victorious over all,<lb/> and aim thy keenest arrow
             at the heart<lb/> of that divinity whom fortune gave<lb/> the last award, what time the
             triple realm,<lb/> by lot was portioned out.</dia><lb/></p>
 
 
-    <p><dia speaker="Venus" gender="female" invo="Cupid">‘The Gods of Heaven<lb/> are overcome by
+    <p><dia speaker="venus" gender="female" invo="cupid">‘The Gods of Heaven<lb/> are overcome by
             thee; and <name>Jupiter</name>,<lb/> and all the Deities that swim the deep,<lb/> and
             the great ruler of the Water-Gods:<lb/> why, then, should <name>Tartarus</name> escape
             our sway—<lb/> the third part of the universe at stake—<lb/> by which thy mother's
             empire and thy own<lb/> may be enlarged according to great need.</dia><lb/></p>
 
 
-    <p><dia speaker="Venus" gender="female" invo="Cupid">‘How shameful is our present lot in
+    <p><dia speaker="venus" gender="female" invo="cupid">‘How shameful is our present lot in
             Heaven,<lb/> the powers of love and I alike despised;<lb/> for, mark how
                 <name>Pallas</name> has renounced my sway,<lb/> besides <name>Diana</name>, javelin-hurler—so<lb/>
             <character gender="female" descrip="virginal">will <name>Ceres</name>' daughter choose
@@ -71,7 +71,7 @@
     <p>While <character gender="female" descrip="joy">Proserpine once dallied in that grove,<lb/>
             plucking white lilies and sweet violets,<lb/> and while she heaped her basket, while she
             filled<lb/> her bosom, in a pretty zeal to strive<lb/> beyond all others</character>;
-            <desire object="Proserpina" perp="Pluto">she was seen, beloved,<lb/> and carried off by
+            <desire object="proserpina" perp="pluto">she was seen, beloved,<lb/> and carried off by
             Pluto—such the haste<lb/> of sudden love.</desire>
         <lb/></p>
 
@@ -95,8 +95,8 @@
         moon-like pool,<lb/> of silvered narrow horns. There stood the Nymph,<lb/> revered above all
         others in that land,<lb/> whose name was <name>Cyane</name>. From her that pond<lb/> was
         always called. And as she stood, concealed<lb/> in middle waves that circled her white
-        thighs,<lb/> she recognized the God, and said; <dia speaker="Cyane" gender="female"
-            invo="Pluto">‘O thou<lb/> shalt go no further, <name>Pluto</name>, thou shalt not<lb/>
+        thighs,<lb/> she recognized the God, and said; <dia speaker="cyane" gender="female"
+            invo="pluto">‘O thou<lb/> shalt go no further, <name>Pluto</name>, thou shalt not<lb/>
             by force alone become the son-in-law<lb/> of <character descrip="matronly"
                 gender="female">Ceres. It is better to beseech<lb/> a mother's aid than drag her
                 child away!</character><lb/> And this sustains my word, if I may thus<lb/> compare
@@ -190,7 +190,7 @@
     <p>“For this the <character gender="female" descrip="virginal">Nymph, <name>Alpheian</name>,
             raised her head<lb/> above Elean waves; and having first<lb/> pushed back her dripping
             tresses from her brows,<lb/> back to her ears, she thus began to speak;<lb/></character>
-        <dia speaker="Arethusa" gender="female" invo="Ceres">‘O mother of the virgin, sought
+        <dia speaker="arethusa" gender="female" invo="ceres">‘O mother of the virgin, sought
             throughout<lb/> the globe! O mother of nutritious fruits!<lb/> Let these tremendous
             labours have an end;<lb/> do not increase the violence of thy wrath<lb/> against the
             Earth, devoted to thy sway,<lb/> and not deserving blame; for only force<lb/> compelled
@@ -200,7 +200,7 @@
             delights me more than all the world.</dia><lb/></p>
 
 
-    <p><dia speaker="Arethusa" gender="female" invo="Ceres">‘I, <name>Arethusa</name>, claim this
+    <p><dia speaker="arethusa" gender="female" invo="ceres">‘I, <name>Arethusa</name>, claim this
             isle my home,<lb/> and do implore thee keep my throne secure,<lb/> O greatest of the
             Gods! A better hour,<lb/> when thou art lightened of thy cares, will come,<lb/> and when
             thy countenance again is kind;<lb/> and then may I declare what cause removed<lb/> me
@@ -208,7 +208,7 @@
             find Ortygia.</dia><lb/></p>
 
 
-    <p><dia speaker="Arethusa" gender="female" invo="Ceres">‘Through the porous earth<lb/> by
+    <p><dia speaker="arethusa" gender="female" invo="ceres">‘Through the porous earth<lb/> by
             deepest caverns, I uplift my head<lb/> and see unwonted stars. Now it befell,<lb/> as I
             was gliding far beneath the world,<lb/> where flow dark Stygian streams, I saw<lb/> thy
                 <character gender="female" descrip="virginal">Proserpine. Although her
@@ -221,7 +221,7 @@
             bewilderment<lb/> gave way to heavy grief. Then to the skies,<lb/> ethereal, she mounted
             in her car<lb/> and with beclouded face and streaming hair<lb/> stood fronting
                 <name>Jove</name>, opprobrious.</character>
-        <dia speaker="Ceres" gender="female">‘I have come<lb/> O <name>Jupiter</name>, a suppliant
+        <dia speaker="ceres" gender="female">‘I have come<lb/> O <name>Jupiter</name>, a suppliant
             to thee,<lb/> both for my own offspring as well as thine.<lb/> If thy hard heart deny a
             mother grace,<lb/> yet haply as a father thou canst feel<lb/> some pity for thy
             daughter; and I pray<lb/> thy care for her may not be valued less<lb/> because my
@@ -231,9 +231,9 @@
             ways, if again he bring her back.</dia><lb/></p>
 
 
-    <p><dia speaker="Ceres" gender="female" invo="Jupiter">‘Thy worthy child should not be forced to
+    <p><dia speaker="ceres" gender="female" invo="jupiter">‘Thy worthy child should not be forced to
             wed<lb/> a bandit-chief, nor should my daughter's charms<lb/> reward his crime.’</dia>
-        She spoke;—and <name>Jupiter</name><lb/> took up the word; <dia speaker="Jupiter"
+        She spoke;—and <name>Jupiter</name><lb/> took up the word; <dia speaker="jupiter"
             gender="male">‘This daughter is a care,<lb/> a sacred pledge to me as well as thee;<lb/>
             but if it please us to acknowledge truth,<lb/> this is a deed of love and injures
             not.<lb/> And if, O goddess, thou wilt not oppose,<lb/> such law-son cannot compass our
