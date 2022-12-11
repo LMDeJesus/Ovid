@@ -98,11 +98,10 @@ li.nameList{
     font-size: 20px;
 }
 li.stories{
-    list-style-type: circle;
+    list-style-type: none;
     width:20%;
     display: list-item;
     font-size: 15px; 
     text-align: center;
-    padding:10px;
-    margin: 25px auto;
+    margin: 5px auto;
 }
