@@ -21,15 +21,16 @@ body {
 	top: 0;
 }
 ul {
-    /*  list-style-type: none;*/
-    /*  padding: 0; */
     overflow: hidden;
-   /*  text-align: ;*/
+}
+ul.cast{
+    color:#D4A373;
+    background-color:#FCFBF4;
+    box-shadow: 0px 0px 30px -11px rgba(0,0,0,0.75);
+    opacity:1;
 }
 
-li {
-    /*display: inline;*/
-}
+
 li a.main {
     display: inline-block;
     font-family: 'copperplate', fantasy;

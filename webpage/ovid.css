@@ -68,6 +68,7 @@ li a:hover {
     width:60%;
     padding:20px;
     margin: 40px auto;
+    text-align:center;
 }
 .about-the-team {
     color:#D4A373;
@@ -77,6 +78,7 @@ li a:hover {
     width:60%;
     padding:20px;
     margin: 40px auto;
+    text-align: center;
 }
 p {
    padding: 0 15px 0 15px;
@@ -86,4 +88,21 @@ h2 {
     font-size: 32px;
     text-align: center;
     font-family: 'copperplate', Fantasy;
+}
+li.nameList{
+    text-align: center;
+    list-style-type: none;
+    width:60%;
+    margin: 40px auto;
+    display: list-item;
+    font-size: 20px;
+}
+li.stories{
+    list-style-type: circle;
+    width:20%;
+    display: list-item;
+    font-size: 15px; 
+    text-align: center;
+    padding:10px;
+    margin: 25px auto;
 }
