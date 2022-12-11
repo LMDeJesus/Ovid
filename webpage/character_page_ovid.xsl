@@ -26,10 +26,12 @@
                     </ul></div>
                 <h1>Character Page</h1>
                 <section>
-                    <ul>
+                    <ul class="cast">
                         <xsl:for-each select="$characterlist">
-                            <li>
+                            
+                            <li><a href="#h2[.]">
                                 <xsl:value-of select="."/>
+                                </a>
                             </li>
                         </xsl:for-each>
                     </ul>
@@ -41,7 +43,7 @@
                             <h2>
                                 <xsl:value-of select="."/>
                             </h2>
-                            <ul>
+                            <ul class="cast">
                                 <li>
                                     <strong>Perpetrator: </strong>
                                     <xsl:variable name="desireListPerp" select="$stories//desire[lower-case(@perp) eq lower-case(current())]"/>
@@ -77,39 +79,8 @@
                             </ul>
                         </section>
                     </xsl:for-each>
-
                 </section>
-                <!--<ul>
-                    <li>
-                        <xsl:for-each select="distinct-values(//p/desire[@object]! name())">
-                            <xsl:variable name="objectTest" as="element()*" select="desire[@object]"/>
-                            <xsl:value-of select="."/>
-                           
-                        </xsl:for-each>
-                    </li>
-                </ul>-->
-                <!-- <ul>
-                    <xsl:for-each select="$characterlist">
-                        <li><xsl:value-of select="."/></li>
-                    </xsl:for-each>
-                </ul>
-                <hr/>
-                <ul>
-                    <xsl:apply-templates select="distinct-values($stories//p/character[not(@descrip)]) => sort()"/>
-                   <xsl:for-each select="$characterlist">
-                        <li>
-                            <xsl:value-of select="."/>
-                            <xsl:apply-templates select=""/>
-                        </li>
-                   </xsl:for-each>
-                </ul>-->
             </body>
         </html>
     </xsl:template>
-    <!--<xsl:template match="p/character[not(@descrip)]">
-        <li>
-                <xsl:apply-templates select="desire ! @object"/>
-                <xsl:apply-templates select="desire ! @perp"/>
-        </li>
-    </xsl:template>-->
 </xsl:stylesheet>
