@@ -15,7 +15,6 @@
                 <xsl:comment>#include virtual="menu.xhtml" </xsl:comment>
             </head>
             <body>
-                <div class="image_title"><h2 class="projectTitle">Portrayals of Divinity in The Metamorphoses</h2></div>
                 <div class="mainNavbar">
                     <ul>
                         <li><a class="main" href="/">Home</a></li>

@@ -70,7 +70,7 @@
 
     <p>All the other Nymphs<lb/> and matrons of <place>Mygdonia</place> worshiped her;<lb/> but not
             <character gender="female">Arachne</character>, who defiant stood;—<lb/>
-        <character descrip="joy">although at first she flushed up—then went pale—<lb/> then blushed
+        <character gender="female" descrip="joy">although at first she flushed up—then went pale—<lb/> then blushed
             again, reluctant.</character>—So, at first,<lb/> the sky suffuses, as
             <name>Aurora</name> moves,<lb/> and, quickly when the glorious sun comes up,<lb/> pales
         into white.<lb/></p>
@@ -220,7 +220,7 @@
         herbs<lb/> of <name>Hecate</name>.<lb/></p>
 
 
-    <p><transform type="physical">At once all hair fell off,<lb/> her nose and ears remained not,
+    <p><transform gender="female" type="physical">At once all hair fell off,<lb/> her nose and ears remained not,
             and her head<lb/> shrunk rapidly in size, as well as all<lb/> her body, leaving her
             diminutive.—<lb/> Her slender fingers gathered to her sides<lb/> as long thin legs; and
             all her other parts<lb/> were fast absorbed in her abdomen—whence<lb/> she vented a fine
