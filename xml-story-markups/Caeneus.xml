@@ -24,7 +24,7 @@
         even <character gender="male">Achilles</character> wondered at the thought.<lb/></p>
 
 
-    <p>Then <character gender="male">Nestor</character> said to them:<dia speaker="Nestor"
+    <p>Then <character gender="male">Nestor</character> said to them:<dia speaker="nestor"
             gender="male"> “During your time,<lb/>
             <character gender="male">Cygnus</character> has been the only man you knew<lb/> who
             could despise all weapons and whose flesh<lb/> could not be pierced by thrust of sword
@@ -35,21 +35,21 @@
 
 
     <p>Then all expressed the greatest wonderment,<lb/> and begged to hear the story of his life.<lb/>
-        <character gender="male">Achilles</character> cried, <dia speaker="Achilles" gender="male"
-            invo="Nestor">“O eloquent old man!<lb/> The wisdom of our age! All of us wish<lb/> to
+        <character gender="male">Achilles</character> cried, <dia speaker="achilles" gender="male"
+            invo="nestor">“O eloquent old man!<lb/> The wisdom of our age! All of us wish<lb/> to
             hear, who was this <character gender="male">Caeneus</character>? Why was he<lb/> changed
             to the other sex? in what campaigns,<lb/> and in what wars was he so known to you?<lb/>
             Who conquered him, if any ever did?”</dia><lb/></p>
 
 
-    <p>The aged man replied to them with care:<dia speaker="Nestor" gender="male">—<lb/> “Although
+    <p>The aged man replied to them with care:<dia speaker="nestor" gender="male">—<lb/> “Although
             my great age is a harm to me,<lb/> and many actions of my early days<lb/> escape my
             memory; yet, most of them<lb/> are well remembered. Nothing of old days,<lb/> amid so
             many deeds of war and peace,<lb/> can be more firmly fixed upon my mind<lb/> than the
             strange story I shall tell of him.</dia><lb/></p>
 
 
-    <p><dia speaker="Nestor" gender="male">“If long extent of years made anyone<lb/> a witness of
+    <p><dia speaker="nestor" gender="male">“If long extent of years made anyone<lb/> a witness of
             most wonderful events<lb/> and many, truly I may say to you<lb/> that I have lived two
             hundred years; and now<lb/> have entered my third century.<lb/> The daughter of
                 <name>Elatus</name>, <character gender="female">Caenis</character>, was<lb/>
@@ -60,16 +60,16 @@
             that time<lb/> to your dear mother, or was pledged to her.</dia><lb/></p>
 
 
-    <p><dia speaker="Nestor" gender="male"><character gender="female">“Caenis</character> never
+    <p><dia speaker="nestor" gender="male"><character gender="female">“Caenis</character> never
             became the willing bride<lb/> of any suitor; but report declares,<lb/> while she was
             walking on a lonely shore,<lb/>
-            <desire perp="Neptune" object="Ceanis">the god of ocean saw and ravished her.<lb/> And
+            <desire perp="neptune" object="caeneus">the god of ocean saw and ravished her.<lb/> And
                 in the joy of that love</desire>
             <character gender="male">Neptune</character> said,<lb/>
-            <dia speaker="Neptune" gender="male" invo="Caenis">‘Request of me whatever you
+            <dia speaker="neptune" gender="male" invo="caeneus">‘Request of me whatever you
                 desire,<lb/> and nothing shall deny your dearest wish!’</dia>—<lb/> the story tells
             us that he made this pledge.<lb/> And <character gender="female">Caenis</character> said
-            to <character gender="male">Neptune</character>, <dia speaker="Caenis" gender="female"
+            to <character gender="male">Neptune</character>, <dia speaker="caeneus" gender="female"
                 >‘The great wrong,<lb/> which I have suffered from you justifies<lb/> the wonderful
                 request that I must make;<lb/> I ask that I may never suffer such<lb/> an injury
                 again. Grant I may be<lb/> no longer woman, and I'll ask no
@@ -80,7 +80,7 @@
         deep,<lb/> in such a manly tone, it seemed indeed<lb/> they must be from a man.—That was a fact:<lb/>
         <character gender="male">Neptune</character> not only had allowed her prayer<lb/> but made
         the new man proof against all wounds<lb/> of spear or sword. Rejoicing in the gift<lb/> he
-        went his way as <character gender="male">Caeneus Atracides</character>,<lb/> spent years in
+        went his way as <character gender="male">Caeneus</character> Atracides,<lb/> spent years in
         every manful exercise,<lb/> and roamed the plains of northern
         <place>Thessaly</place>.<lb/></p>
 </story>

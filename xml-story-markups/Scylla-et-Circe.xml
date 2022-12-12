@@ -20,7 +20,7 @@
         given—<lb/> received by her as kindly—,<character gender="male">Glaucus</character>
         said,<lb/></p>
 
-    <p><dia speaker="Glaucus" gender="male" invo="Circe">“You as a goddess, certainly should
+    <p><dia speaker="glaucus" gender="male" invo="circe">“You as a goddess, certainly should
             have<lb/> compassion upon me, a god; for you<lb/> alone (if I am worthy of it) can<lb/>
             relieve my passion. What the power of herbs<lb/> can be, <character gender="female"
                 >Titania</character>, none knows more than I,<lb/> for by their power I was myself
@@ -28,7 +28,7 @@
                 <character gender="female">Scylla</character> on Italian shores,<lb/> directly
             opposite Messenian walls.</dia><lb/></p>
 
-    <p><dia speaker="Glaucus" gender="male" invo="Circe">“It shames me to recount my promises,<lb/>
+    <p><dia speaker="glaucus" gender="male" invo="circe">“It shames me to recount my promises,<lb/>
             entreaties, and caresses, and at last<lb/> rejection of my suit. If you have known<lb/>
             a power of incantation, I implore<lb/> you now repeat that incantation here,<lb/> with
             sacred lips—If herbs have greater power,<lb/> use the tried power of herbs. But I would
@@ -39,8 +39,8 @@
         with passion's flame. It may have been<lb/> her nature or it may have been the work<lb/> of
             <name>Venus</name>, angry at her tattling sire.<lb/></p>
 
-    <p><dia speaker="Circe" gender="female" invo="Glaucus">“You might do better,” she replied,
-                <desire object="Glaucus" perp="Circe">“to court<lb/> one who is willing, one who
+    <p><dia speaker="circe" gender="female" invo="glaucus">“You might do better,” she replied,
+                <desire object="glaucus" perp="circe">“to court<lb/> one who is willing, one who
                 wants your love,<lb/> and feels a like desire. You did deserve<lb/> to win her love,
                 yes, to be wooed yourself.<lb/> In fact you might be. <character gender="female"
                     descrip="cocky">If you give some hope,<lb/> you have my word, you shall indeed
@@ -52,7 +52,7 @@
                 just reward</desire>.”</dia><lb/></p>
 
     <p>But <character gender="male">Glaucus</character> answered her attempt of love,<lb/>
-        <dia speaker="Galucus" gender="male">“The trees will sooner grow in ocean waves,<lb/> than I
+        <dia speaker="glaucus" gender="male">“The trees will sooner grow in ocean waves,<lb/> than I
             shall change my love for graceful! <character gender="female"
         >Scylla</character>.”</dia><lb/></p>
 
