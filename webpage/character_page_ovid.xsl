@@ -29,7 +29,7 @@
                     <ul class="cast">
                         <xsl:for-each select="$characterlist">
                             
-                            <li><a href="#h2[.]">
+                            <li><a href="#h2{.}">
                                 <xsl:value-of select="."/>
                                 </a>
                             </li>
@@ -40,7 +40,7 @@
                 <section>
                     <xsl:for-each select="$characterlist">
                         <section>
-                            <h2>
+                            <h2 id="h2{.}">
                                 <xsl:value-of select="."/>
                             </h2>
                             <ul class="cast">
