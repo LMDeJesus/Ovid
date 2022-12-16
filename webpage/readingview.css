@@ -6,10 +6,12 @@ body {
     background-color: #FAEDCD;
 }
   /* myth nav bar */
-table{
+table {
    background-color: #D4A373; 
    margin-left: auto;
   margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 40px;
 }
 td {
     padding: 8px 16px;
@@ -35,12 +37,6 @@ h1 {
 .myth-label {
     font-size: 30px;
 }
-  /* text container */
-h2 {
-    font-family: copperplate;
-    color: #D4A373;
-    font-size: 30px;
-}
 .highlightguide {
     font-family: arial, helvetica, sans-serif;
     font-size: 17px;
@@ -48,7 +44,15 @@ h2 {
     width: 35%;
     padding: 10px;
     margin-left: 200px;
+    margin-top: 40px;
 }
+  /* text container */
+h2 {
+    font-family: copperplate;
+    color: #D4A373;
+    font-size: 30px;
+}
+
 .orangeHighlight {
 background-color: #FED9B7;
 }
