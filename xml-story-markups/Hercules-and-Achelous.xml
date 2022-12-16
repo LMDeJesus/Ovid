@@ -5,26 +5,25 @@
 
     <p>To him the hero, who proclaimed himself<lb/> a favored son of <name>Neptune</name>, answered now;<lb/>
         <dia gender="male">“Declare the reason of your heavy sighs,<lb/> and how your horn was
-            broken?”</dia> And at once<lb/> the <character gender="male">Calydonian
-            River-God</character> replied,<lb/> binding with reeds his unadorned rough
-        locks:<lb/></p>
+            broken?”</dia> And at once<lb/> the Calydonian River-God replied,<lb/> binding with
+        reeds his unadorned rough locks:<lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“It is a mournful task you have required,<lb/> for who
+    <p><dia speaker="achelous" gender="male">“It is a mournful task you have required,<lb/> for who
             can wish to tell his own disgrace?<lb/> But truly I shall speak without disguise,<lb/>
             for my defeat, if rightly understood,<lb/> should be my glory.—Even to have fought<lb/>
             in battle with a hero of such might,<lb/> affords me consolation.</dia><lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“<name>Deianira</name><lb/> (you may have heard some
-            tales of her) was once<lb/> the envied hope of many. She was then<lb/>
+    <p><dia speaker="achelous" gender="male">“<character gender="female">Deianira</character><lb/>
+            (you may have heard some tales of her) was once<lb/> the envied hope of many. She was then<lb/>
             <character gender="female" descrip="virginal">a lovely virgin</character>.—<desire
-                object="Deianira" perp="Achelous">I, among the rest<lb/> who loved this
+                object="deianira" perp="achelous">I, among the rest<lb/> who loved this
                 maiden</desire>, entered the fair home<lb/> of her great father <name>Oeneus</name>,
             and I said;</dia><lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“ <dia speaker="Achelous" gender="male">‘Consider all
+    <p><dia speaker="achelous" gender="male">“ <dia speaker="achelous" gender="male">‘Consider all
                 my claims, <name>Parthaon</name>'s son,<lb/> for I am come to plead your daughter's
                 cause<lb/> and mine—So you may make me son-in-law.,—’</dia><lb/> no sooner was it
             said, than <character gender="male">Hercules</character><lb/> in such words also claimed
@@ -32,14 +31,14 @@
             all others quickly yielded to our claims.</dia><lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“He boasted his descent from <name>Jupiter</name>;<lb/>
+    <p><dia speaker="achelous" gender="male">“He boasted his descent from <name>Jupiter</name>;<lb/>
             the glory of his labors and great deeds<lb/> performed at his unjust stepmother's
             wish.</dia><lb/>
     </p>
 
-    <p><dia speaker="Achelous" gender="male">“But as he was not then a God, it seemed<lb/>
+    <p><dia speaker="achelous" gender="male">“But as he was not then a God, it seemed<lb/>
             disgraceful if my state should yield my right;<lb/> so I contended with these haughty words,<lb/>
-            <dia speaker="Achelous" gender="male" invo="Hercules">‘<character gender="male"
+            <dia speaker="achelous" gender="male" invo="hercules">‘<character gender="male"
                     descrip="cocky">Why should this alien of a foreign land,<lb/> contending for
                     your daughter, match himself<lb/> to me! king of the waters in this
                     realm!</character><lb/> For as I wind around, across your lands,<lb/> I must be
@@ -53,14 +52,14 @@
                 shame!’</dia></dia><lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“But <character gender="male">Hercules</character>,
+    <p><dia speaker="achelous" gender="male">“But <character gender="male">Hercules</character>,
                 <character gender="male" descrip="rage">unable to control<lb/> the flame of his
                 great wrath, scowled as I spoke</character>.<lb/> He briefly answered me, <dia
-                speaker="Hercules" gender="male">‘My hand excels<lb/> my tongue; let me now overcome
+                speaker="hercules" gender="male">‘My hand excels<lb/> my tongue; let me now overcome
                 in fight,<lb/> and I may suffer your offence of words.’</dia></dia><lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“Full of unvented rage he rushed on me,<lb/> but firm I
+    <p><dia speaker="achelous" gender="male">“Full of unvented rage he rushed on me,<lb/> but firm I
             stood, ashamed to yield a foot—<lb/> I had so largely boasted, no retreat was left,<lb/>
             and so I doffed my green robe—Striking guard,<lb/> with clenched hands doubled at my
             breast,<lb/> I stood my ground. He scooped up in his hand<lb/> fine, yellow dust; and
@@ -77,7 +76,7 @@
             to the one<lb/> most worthy of dominion.</dia><lb/></p>
 
 
-    <p><dia gender="male" speaker="Achelous">“Thrice in vain<lb/>
+    <p><dia gender="male" speaker="achelous">“Thrice in vain<lb/>
             <character gender="male">Hercules</character> strove to push my breast from his,<lb/>
             but I pressed ever closer—till, the fourth<lb/> attempt succeeding, he unloosed my
             grip,<lb/> and breaking from my circling arms drew back,<lb/> and struck me such a
@@ -85,7 +84,7 @@
             weight upon my back—</dia><lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“Believe me I have not suppressed the truth.<lb/> Nor
+    <p><dia speaker="achelous" gender="male">“Believe me I have not suppressed the truth.<lb/> Nor
             shall I try to gain applause not due:<lb/> I seemed to bear a mountain on my back.
             —<lb/> straining and dripping sweat, I broke his hold,—<lb/> with great exertion I
             unlocked his grip.<lb/> He pressed upon me, as I strained for breath,<lb/> preventing a
@@ -97,9 +96,9 @@
                 darted my divided tongue.</transform></dia><lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“But <character gender="male">Hercules</character>,
+    <p><dia speaker="achelous" gender="male">“But <character gender="male">Hercules</character>,
                 <name>Alcides</name>, only laughed<lb/> and in derision of my scheming, said,<lb/>
-            <dia speaker="Hercules" gender="male" invo="Achelous">‘It was the pastime of my cradle
+            <dia speaker="hercules" gender="male" invo="Achelous">‘It was the pastime of my cradle
                 days<lb/> to strangle better snakes than you—and though<lb/> your great length may
                 excel all of your kind,<lb/> how small a part of that Lernaean snake<lb/> would
                 you—one serpent be? It grew from wounds<lb/> I gave (at first it had one hundred
@@ -116,7 +115,7 @@
             with forceps, while I struggled in his grip.</dia><lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“Twice was I vanquished, there remained to me<lb/>
+    <p><dia speaker="achelous" gender="male">“Twice was I vanquished, there remained to me<lb/>
             <transform type="physical" gender="male">a third form so again I changed to seem<lb/> a
                 savage bull, and with my limbs renewed<lb/> in that form fought once
                 more.</transform> He threw his arms<lb/> about the left side of my ponderous
@@ -129,7 +128,7 @@
             the bounteous goddess <name>Plenty</name>.’</dia><lb/></p>
 
 
-    <p>All this the <character gender="male">River-god</character> said; <character gender="female"
+    <p>All this the River-god said; <character gender="female"
             descrip="virginal">then a nymph,<lb/> a lovely nymph</character> like fair
             <name>Diana</name> dressed,<lb/> whose locks were flowing down on either side,<lb/>
         <character gender="female" descrip="matronly">came graceful to the board, and brought to
