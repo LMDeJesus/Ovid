@@ -12,18 +12,9 @@
                 <link rel="stylesheet" type="text/css" href="ovid.css"/>
                 <script type="text/javascript" src="readingview.js"/>
                 <title>Myth</title>
-                <xsl:comment>#include virtual="menu.xhtml" </xsl:comment>
             </head>
             <body>
-                <div class="mainNavbar">
-                    <ul>
-                        <li><a class="main" href="/">Home</a></li>
-                        <li><a class="main" href="ovic-meme.png">About</a></li>
-                        <li><a class="main" href="ovic-meme.png">Texts</a></li>
-                        <li><a class="main" href="character_page.xhtml">Characters</a></li>
-                        <li><a class="main" href="ovic-meme.png">Methodology</a></li>
-                        <li><a class="main" href="ovic-meme.png">Conclusions</a></li>
-                    </ul></div>
+                <!--#include virtual="menu.xhtml" -->
                 <xsl:apply-templates select="//story"/>
                 <div class="stick">
                     <span class="tag">
