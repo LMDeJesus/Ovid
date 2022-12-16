@@ -1,4 +1,5 @@
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../ovid-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <story>
     <header>Achelous et Hercules.</header>
     <title>HERCULES AND ACHELOUS</title>
@@ -110,7 +111,7 @@
                 own</dia></dia><lb/></p>
 
 
-    <p><dia speaker="Achelous" gender="male">“And after he had ridiculed me thus,<lb/> he gouged his
+    <p><dia speaker="achelous" gender="male">“And after he had ridiculed me thus,<lb/> he gouged his
             fingers underneath my jaws,<lb/> so that my throat was tortured, as if squeezed<lb/>
             with forceps, while I struggled in his grip.</dia><lb/></p>
 

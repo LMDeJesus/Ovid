@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../ovid-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <story>
     <title>DRYOPE</title>
 
@@ -43,7 +44,7 @@
                     shape,<lb/> into this tree,</transform> though she has kept her
             name.</desire></dia><lb/></p>
 
-    <p><dia speaker="Iole" gender="female">“But ignorant of all this, <character gender="female"
+    <p><dia speaker="iole" gender="female">“But ignorant of all this, <character gender="female"
                 >Dryope</character>,<lb/> alarmed, decided she must now return;<lb/> so, having
             first adored the <character gender="female" descrip="virginal">hallowed
                 nymphs</character>,<lb/> upright she stood, and would have moved away,<lb/> but both

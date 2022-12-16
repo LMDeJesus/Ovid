@@ -2,6 +2,7 @@
 
 
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../ovid-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <story>
     <header>Iason et Medea.</header>
     <title>JASON AND MEDEA </title>
@@ -30,8 +31,8 @@
 
     <p><character gender="female">Medea</character>, the king's daughter, near
         his throne,<lb/> saw <character gender="male" descrip="protector">Jason</character>, leader
-        of the Argonauts,<lb/> as he was pressing to secure a prize—<lb/> and <desire perp="Medea"
-            object="Jason">loved at sight with a consuming flame</desire>.<lb/>
+        of the Argonauts,<lb/> as he was pressing to secure a prize—<lb/> and <desire perp="medea"
+            object="jason">loved at sight with a consuming flame</desire>.<lb/>
     </p>
 
     <p><desire object="jason" perp="medea">Although she struggled to suppress her love,<lb/> unable
@@ -92,7 +93,7 @@
             then perish in his treachery.</dia>—<lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“But these are idle thoughts: his countenance,<lb/>
+    <p><dia speaker="medea" gender="female">“But these are idle thoughts: his countenance,<lb/>
             reveals innate nobility and grace,<lb/> that should dispel all fear of treachery,<lb/>
             and guarantee his ever-faithful heart.<lb/> The Gods will witness our united souls,<lb/>
             and he shall pledge his faith. Secure of it<lb/> my fear will be removed. Be ready,
