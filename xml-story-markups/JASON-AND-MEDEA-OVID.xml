@@ -34,9 +34,9 @@
             object="Jason">loved at sight with a consuming flame</desire>.<lb/>
     </p>
 
-    <p><desire object="Jason" perp="Medea">Although she struggled to suppress her love,<lb/> unable
+    <p><desire object="jason" perp="medea">Although she struggled to suppress her love,<lb/> unable
             to restrain herself</desire>, she said,<lb/>
-        <dia speaker="Medea" gender="female"><desire perp="Medea" object="Jason">“In vain I've
+        <dia speaker="medea" gender="female"><desire perp="medea" object="jason">“In vain I've
                 striven to subdue my heart:<lb/> some god it must be, which I cannot tell,<lb/> is
                 working to destroy my hapless life;<lb/> or else it is the burning flame of
                 love<lb/> that in me rages. If it is not love,<lb/> why do the mandates of my father
@@ -46,14 +46,14 @@
         Love.</desire></dia><lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“Thrust from your virgin breast such burning flames<lb/>
-            <desire object="Jason" perp="Medea">but some deluding power is holding me<lb/> helpless
+    <p><dia speaker="medea" gender="female">“Thrust from your virgin breast such burning flames<lb/>
+            <desire object="jason" perp="medea">but some deluding power is holding me<lb/> helpless
                 against my will. Desire persuades<lb/> me one way, but my reason still
                 persuades<lb/> another way. I see a better course<lb/> and I approve, but follow its
                 defeat.</desire></dia> —<lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female"><character descrip="virginal" gender="female">“O royal
+    <p><dia speaker="medea" gender="female"><character descrip="virginal" gender="female">“O royal
                 maiden, why are you consumed<lb/> with love for this strange man, and why are
                 you<lb/> so willing to be carried by the nuptial ties<lb/> so far from your own
                 country, where, indeed,<lb/> are many brave men worthy of your
@@ -67,25 +67,25 @@
         youth,<lb/> and noble ways, would move a heart of stone.<lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“Have I a heart of flint, or was I born<lb/> a tigress
+    <p><dia speaker="medea" gender="female">“Have I a heart of flint, or was I born<lb/> a tigress
             to deny him timely aid?—<lb/> Unless I interpose, he will be slain<lb/> by the hot
             breath of brazen-footed bulls,<lb/> or will be slaughtered by the warriors, sprung<lb/>
             miraculous from earth, or will be given<lb/> to satisfy the ravenous appetite<lb/> of a
             huge dragon.</dia><lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female" invo="Gods">“Let my gloating eyes<lb/> be satiate with
+    <p><dia speaker="medea" gender="female" invo="gods">“Let my gloating eyes<lb/> be satiate with
             his dying agonies!<lb/> Let me incite the fury of these bulls!<lb/> Stir to their
             blood-lust mad-born sons of Earth!<lb/> Rouse up the never-sleeping dragon's rage!—<lb/>
             “Avert it Gods!</dia>—<lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“But why should I cry out<lb/> upon the Gods to save him
+    <p><dia speaker="medea" gender="female">“But why should I cry out<lb/> upon the Gods to save him
             from such wrong,<lb/> when, by my actions and my power, myself<lb/> may shield him from
             all evils?</dia><lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“Such a course<lb/> would wreck the kingdom of my
+    <p><dia speaker="medea" gender="female">“Such a course<lb/> would wreck the kingdom of my
             father—and by me<lb/> the wily stranger would escape from him;<lb/> and spreading to the
             wind his ready sails<lb/> he would forget and leave me to my fate.—<lb/> Oh, if he
             should forget my sacrifice,<lb/> and so prefer those who neglected him,<lb/> let him
@@ -102,14 +102,14 @@
             throngs of women, for the man you saved.</dia><lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“Shall I then sail away, and so forsake<lb/> my sister,
+    <p><dia speaker="medea" gender="female">“Shall I then sail away, and so forsake<lb/> my sister,
             brother, father, Gods, and land<lb/> that gave me birth? My father is indeed<lb/> a
             stern man, and my native land is all<lb/> too barbarous; my brother is a child,—<lb/> my
             sister's goodwill is good help for me;<lb/> and heaven's supreme god is within my
             breast.</dia><lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“I shall not so be leaving valued hopes,<lb/> but will
+    <p><dia speaker="medea" gender="female">“I shall not so be leaving valued hopes,<lb/> but will
             be going surely to great things.<lb/> And I should gain applause from all the
             world,<lb/> as having saved the threatened Argonauts,<lb/> most noble of the Greeks; and
             in their land,<lb/> which certainly is better than my own,<lb/> become the bride of
@@ -119,7 +119,7 @@
             and make the stars<lb/> my habitation.</dia><lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“Should I hesitate<lb/> because the wreck-strewn
+    <p><dia speaker="medea" gender="female">“Should I hesitate<lb/> because the wreck-strewn
             mountains bar the way,<lb/> and clash together in the Euxine waves;<lb/> or fear
                 <name>Charybdis</name>, fatal to large ships,<lb/> that sucks the deep sea in its
             whirling gulf<lb/> and spouts far upward, with alternate force,<lb/> or
@@ -127,14 +127,14 @@
             Sicilian waves?</dia><lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female"><character gender="male" descrip="protector">“Safe in
+    <p><dia speaker="medea" gender="female"><character gender="male" descrip="protector">“Safe in
                 the shielding arms of him I love,<lb/> on Jason's bosom leaning,</character> I shall
-            be<lb/> borne safely over wide and hostile seas;<lb/> and <desire object="Jason"
-                perp="Medea">in his dear embrace forget my fears—<lb/> or if for anything I suffer
+            be<lb/> borne safely over wide and hostile seas;<lb/> and <desire object="jason"
+                perp="medea">in his dear embrace forget my fears—<lb/> or if for anything I suffer
                 dread,<lb/> it will be only for the one I love.</desire></dia>—<lb/></p>
 
 
-    <p><dia speaker="Medea" gender="female">“Alas, <character gender="female" descrip="virginal"
+    <p><dia speaker="medea" gender="female">“Alas, <character gender="female" descrip="virginal"
                 >Medea, this vain argument<lb/> has only furnished plausible excuse<lb/> for
                 criminal desires, and desecrates<lb/> the marriage rite. It is a wicked thing<lb/>
                 to think upon. Before it is too late<lb/> forget your passion and deny this
@@ -150,8 +150,8 @@
     <p>Then, to an ancient altar of the goddess named<lb/>
         <name>Hecate</name>, <name>Perse</name>'s daughter took her way<lb/> in the deep shadows of
         a forest. She<lb/> was strong of purpose now, and all the flames<lb/> of vanquished passion
-        had died down; but when<lb/> she saw the son of <name>Aeson</name>, <desire object="Jason"
-            perp="Medea">dying flames<lb/> leaped up again. Her cheeks grew red, then all<lb/> her
+        had died down; but when<lb/> she saw the son of <name>Aeson</name>, <desire object="jason"
+            perp="medea">dying flames<lb/> leaped up again. Her cheeks grew red, then all<lb/> her
             face went pale again; as a small spark<lb/> when hid beneath the ashes, if fed by<lb/> a
             breath of wind grows and regains its strength,<lb/> as it is fanned to life; so now her
             love<lb/> that had been smoldering, and which you would<lb/> have thought was almost
@@ -164,7 +164,7 @@
         convinced<lb/> that he was not a mortal. And her eyes<lb/> were fascinated; and she could
         not turn<lb/> away from him. But when he spoke to her,<lb/> and promised marriage, grasping
         her right hand:<lb/> she answered, as her eyes suffused with tears;<lb/>
-        <dia speaker="Medea" gender="female" invo="Jason">“I see what I will do, and ignorance<lb/>
+        <dia speaker="medea" gender="female" invo="jason">“I see what I will do, and ignorance<lb/>
             of truth will not be my undoing now,<lb/> but love itself. By my assistance you<lb/>
             shall be preserved; but when preserved fulfill<lb/> your promise.”</dia><lb/></p>
 
@@ -233,7 +233,7 @@
 
     <p>Gladly the Greeks acclaimed him conqueror,<lb/> and pressed around him for the first
         embrace.<lb/> Then, too, <character gender="female" descrip="protector">Medea, barbarous
-            Colchian maid</character>,<lb/> although <desire object="Jason" perp="Medea">her modesty
+            Colchian maid</character>,<lb/> although <desire object="jason" perp="medea">her modesty
             restrained her heart,<lb/> eagerly longed to fold him in her arms,<lb/> but careful of
             her good name, held aloof,—<lb/> rejoicing in deep, silent love; and she<lb/>
             acknowledged to the Gods her mighty gift<lb/> of incantations.</desire><lb/></p>
