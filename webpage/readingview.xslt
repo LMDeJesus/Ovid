@@ -14,7 +14,7 @@
                 <title>Reading View</title>
             </head>
             <body>
-                <!--#include virtual="menu.xhtml" -->
+                <xsl:comment>#include virtual="menu.xhtml" </xsl:comment>
                 <!-- Nav bar at top of page for myth selection -->
                 <table>
                     <tr>
