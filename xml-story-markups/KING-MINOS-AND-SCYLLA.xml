@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../ovid-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <story>
     <header>Nisus et Scylla. </header>
     <title>KING MINOS AND SCYLLA</title>
@@ -128,7 +129,7 @@
         love.</desire><lb/></p>
 
     <p>Shocked at the thought of such a heinous crime,<lb/>
-        <name>Minos</name> refused, and said, <dia speaker="Minos" gender="male" invo="scylla">“O
+        <name>Minos</name> refused, and said, <dia speaker="minos" gender="male" invo="scylla">“O
             execrable thing!<lb/>
             <character gender="male" descrip="rage">Despised abomination of our time!<lb/> May all
                 the Gods forever banish you<lb/> from their wide universe, and may the earth<lb/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../ovid-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <story>
     <header>Ceres et Proserpina</header>
     <title>CALLIOPE SINGS OF CERES, PLUTO AND PROSERPINE</title>
@@ -31,7 +32,7 @@
 
 
     <p>Him, <name>Venus</name>, <name>Erycina</name>, in her mount<lb/> thus witnessed, and embraced
-        her winged son,<lb/> and said, <dia speaker="venus" gender="female" invo="Cupid">‘O
+        her winged son,<lb/> and said, <dia speaker="venus" gender="female" invo="cupid">‘O
                 <name>Cupid</name>! thou who art my son—<lb/> my arms, my hand, my strength; take up
             those arms,<lb/> by which thou art victorious over all,<lb/> and aim thy keenest arrow
             at the heart<lb/> of that divinity whom fortune gave<lb/> the last award, what time the

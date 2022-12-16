@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../important-stuff/OVID-SCHEMA-DRAFT1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../ovid-schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <story>
     <header>Iphis.</header>
     <title>IPHIS AND IANTHE</title>
@@ -81,7 +82,7 @@
             passion for another girl!</desire><lb/> She hardly can hold back her tears, and
         says:<lb/></p>
 
-    <p><dia speaker="Iphis" gender="female">“<character gender="female" descrip="despair">O what
+    <p><dia speaker="iphis" gender="female">“<character gender="female" descrip="despair">O what
                 will be the awful dreaded end,<lb/> with such a monstrous love compelling me?<lb/>
                 If the Gods should wish to save me, certainly<lb/> they should have saved me; but,
                 if their desire<lb/> was for my ruin, still they should have
