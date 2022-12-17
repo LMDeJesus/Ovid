@@ -20,17 +20,22 @@ body {
 	box-shadow: 0px 2px 10px;
 	top: 0;
 }
-ul {
-    overflow: hidden;
-}
 ul.cast{
+    list-style-type: none;
     color:#D4A373;
     background-color:#FCFBF4;
     box-shadow: 0px 0px 30px -11px rgba(0,0,0,0.75);
     opacity:1;
 }
-
-
+li a.char {
+    display: inline-block;
+    font-family: 'copperplate', fantasy;
+    text-align: center;
+    color: #D4A373;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 27px;
+}
 li a.main {
     display: inline-block;
     font-family: 'copperplate', fantasy;
@@ -40,25 +45,31 @@ li a.main {
     text-decoration: none;
     font-size: 27px;
 }
-li.nav{
+ul.nav {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+li.nav {
     display: inline;
 }
-
-li a.inpage {
-    /* display: inline-block;*/
+li a.main {
+    display: inline-block;
+    font-family: 'copperplate', fantasy;
     text-align: center;
-    padding: 10px 10px;
+    color: white;
+    padding: 14px 25px;
     text-decoration: none;
-    color: black;
-}
-
-li.buttons {
-    text-align: left;
-    display: list-item;
+    font-size: 27px;
 }
 
 li a:hover {
     background-color: #D4A373;
+}
+li a.char:hover {
+    background-color: rgba(77, 77, 77, 0.75);
 }
 section{
     color:#D4A373;

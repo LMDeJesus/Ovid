@@ -3,6 +3,7 @@ body {
 }
 .image_title {
     background-image: url('ANGLIG_10313767400.png');
+    /*  image from ARTSTOR by JSTOR: https://library.artstor.org */
     height: 250px;
     overflow: hidden;
 }
@@ -41,23 +42,7 @@ li a.main {
     font-size: 27px;
 }
 
-li a.inpage {
-    display: inline-block;
-    text-align: center;
-    padding: 10px 10px;
-    text-decoration: none;
-    color: black;
-}
-
-li.buttons {
-    text-align: left;
-    display: list-item;
-}
-
 li a:hover {
-    background-color: #D4A373;
-}
-.active {
     background-color: #D4A373;
 }
 .overview {
@@ -104,4 +89,13 @@ li.stories{
     font-size: 15px; 
     text-align: center;
     margin: 5px auto;
+}
+.method {
+    color:#D4A373;
+    background-color:#FCFBF4;
+    box-shadow: 0px 0px 30px -11px rgba(0,0,0,0.75);
+    opacity:1;
+    width:60%;
+    padding:20px;
+    margin: 40px auto;
 }
