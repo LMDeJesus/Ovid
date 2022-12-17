@@ -99,3 +99,12 @@ li.stories{
     padding:20px;
     margin: 40px auto;
 }
+.overview {
+    color:#D4A373;
+    background-color:#FCFBF4;
+    box-shadow: 0px 0px 30px -11px rgba(0,0,0,0.75);
+    opacity:1;
+    width:60%;
+    padding:20px;
+    margin: 40px auto;
+}
