@@ -21,6 +21,8 @@ body {
 	top: 0;}
 ul {
     overflow: hidden;
+    list-style-type: none;
+
 }
 ul.cast{
     list-style-type: none;
