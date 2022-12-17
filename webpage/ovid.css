@@ -3,6 +3,7 @@ body {
 }
 .image_title {
     background-image: url('ANGLIG_10313767400.png');
+    /*  image from ARTSTOR by JSTOR: https://library.artstor.org */
     height: 250px;
     overflow: hidden;
 }
