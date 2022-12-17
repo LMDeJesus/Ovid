@@ -18,11 +18,7 @@ body {
     background-color: rgba(77, 77, 77, 0.75);
 	position: sticky;
 	box-shadow: 0px 2px 10px;
-	top: 0;}
-ul {
-    overflow: hidden;
-    list-style-type: none;
-
+	top: 0;
 }
 ul.cast{
     list-style-type: none;
@@ -49,8 +45,24 @@ li a.main {
     text-decoration: none;
     font-size: 27px;
 }
-li.nav{
+ul.nav {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+li.nav {
     display: inline;
+}
+li a.main {
+    display: inline-block;
+    font-family: 'copperplate', fantasy;
+    text-align: center;
+    color: white;
+    padding: 14px 25px;
+    text-decoration: none;
+    font-size: 27px;
 }
 
 li a:hover {
