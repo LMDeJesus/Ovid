@@ -22,6 +22,8 @@ body {
 }
 ul {
     overflow: hidden;
+    list-style-type: none;
+
 }
 ul.cast{
     color:#D4A373;
