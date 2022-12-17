@@ -65,18 +65,18 @@
 
 
     <p>Presently the youth,<lb/> by chance divided from his trusted friends,<lb/> cries loudly, <dia
-            speaker="narcissus">“Who is here?”</dia> and Echo, <dia speaker="echo"
+            speaker="narcissus" gender="male">“Who is here?”</dia> and Echo, <dia speaker="echo" gender="female"
         >“Here!”</dia><lb/> Replies. Amazed, he casts his eyes around,<lb/> and calls with louder
-        voice, <dia speaker="narcissus">“Come here!”</dia>
-        <dia speaker="echo">“Come here!”</dia><lb/> She calls the youth who calls.—He turns to
+        voice, <dia speaker="narcissus" gender="male">“Come here!”</dia>
+        <dia speaker="echo" gender="female">“Come here!”</dia><lb/> She calls the youth who calls.—He turns to
         see<lb/> who calls him and, beholding naught exclaims,<lb/>
-        <dia speaker="narcissus">“Avoid me not!”</dia>
-        <dia speaker="echo">“Avoid me not!”</dia> returns.<lb/></p>
+        <dia speaker="narcissus" gender="male">“Avoid me not!”</dia>
+        <dia speaker="echo" gender="female">“Avoid me not!”</dia> returns.<lb/></p>
 
 
     <p>He tries again, again, and is deceived<lb/> by this alternate voice, and calls aloud;<lb/>
-        <dia speaker="narcissus">“Oh let us come together!”</dia> Echo cries,<lb/>
-        <dia speaker="echo">“Oh let us come together!”</dia>
+        <dia speaker="narcissus" gender="male">“Oh let us come together!”</dia> Echo cries,<lb/>
+        <dia speaker="echo" gender="female">“Oh let us come together!”</dia>
         <desire object="narcissus" perp="echo">Never sound<lb/> seemed sweeter to the Nymph, and
             from the woods<lb/> she hastens in accordance with her words,<lb/> and strives to wind
             her arms around his neck.</desire><lb/> He flies from her and as he leaves her says,<lb/>
@@ -102,7 +102,7 @@
     <p>Thus he deceived the Nymph and many more,<lb/> sprung from the mountains or the sparkling
         waves;<lb/> and thus he slighted many an amorous youth.—<lb/> and therefore, some one whom
         he once despised,<lb/> lifting his hands to Heaven, implored the Gods,<lb/>
-        <dia speaker="narcissus" invo="nemesis">“If he should love deny him what he
+        <dia speaker="narcissus" invo="nemesis" gender="male">“If he should love deny him what he
         loves!”</dia><lb/> and as the prayer was uttered it was heard<lb/> by
             <character>Nemesis</character>, who granted her assent.<lb/>
     </p>
@@ -206,14 +206,14 @@
 
     <p>But when she saw him in his hapless plight,<lb/> though angry at his scorn, she only
         grieved.<lb/> As often as the love-lore boy complained,<lb/>
-        <dia speaker="narcissus">“Alas!”</dia>
-        <dia speaker="echo">“Alas!”</dia> her echoing voice returned;<lb/> and as he struck his
+        <dia speaker="narcissus" gender="male">“Alas!”</dia>
+        <dia speaker="echo" gender="female">“Alas!”</dia> her echoing voice returned;<lb/> and as he struck his
         hands against his arms,<lb/> she ever answered with her echoing sounds.<lb/> And as he gazed
-        upon the mirrored pool<lb/> he said at last, <dia speaker="narcissus">“Ah, youth beloved in
+        upon the mirrored pool<lb/> he said at last, <dia speaker="narcissus" gender="male">“Ah, youth beloved in
             vain!”</dia><lb/>
-        <dia speaker="echo">“In vain, in vain!”</dia> the spot returned his words;<lb/> and when he
-        breathed a sad <dia speaker="narcissus">“farewell!”</dia>
-        <dia speaker="echo">“Farewell!”</dia><lb/> sighed <character>Echo</character> too. He laid
+        <dia speaker="echo" gender="female">“In vain, in vain!”</dia> the spot returned his words;<lb/> and when he
+        breathed a sad <dia speaker="narcissus" gender="male">“farewell!”</dia>
+        <dia speaker="echo" gender="female">“Farewell!”</dia><lb/> sighed <character>Echo</character> too. He laid
         his wearied head,<lb/> and rested on the verdant grass; and those<lb/> bright eyes, which
         had so loved to gaze, entranced,<lb/> on their own master's beauty, sad Night closed.<lb/>
         And now although among the nether shades<lb/> his sad sprite roams, he ever loves to
