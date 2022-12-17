@@ -66,9 +66,6 @@
                 <xsl:apply-templates select="//story"/>
                 <!-- Checkbox on right side of page -->
                 <div class="stick">
-                    <span class="tag">
-                        <xsl:text>Tag</xsl:text>
-                    </span>
                     <p class="removespace">
                         <strong>Male:</strong>
                     </p>

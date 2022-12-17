@@ -86,12 +86,6 @@ background-color: #FED9B7;
     margin: 0;
     padding: 0;
 }
-.tag {
-    font-family: copperplate;
-    color: #D4A373;
-    font-size: 30px;
-    line-height: 150%;
-}
   /* Highlight element and hover attribute in text */
 .char_hover {
     background-color: #DCDCDC;
@@ -123,7 +117,7 @@ background-color: #FED9B7;
     position: absolute;
     margin-top: 17px;
 }
-  /* rcolors for each gender/element */
+  /* colors for each gender/element */
 .male_character.on {
     background-color: #BEDCFE;
 }
